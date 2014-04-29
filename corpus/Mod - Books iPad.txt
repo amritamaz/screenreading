@@ -1,0 +1,666 @@
+@craigmod
+ Home About / Speaking / Essays Ahab! / Bibliotype PRE/POST
+
+HO ME  J O URNAL  Books in the Age of the iPad
+
+Translations: BEL OR U SSIAN , JAPAN ESE, PORTU GESE
+
+-- Craig Mod, MAR CH 2 0 1 0
+
+GOOD RIDDANCE. As the publishing industry wobbles and Kindle sales jump, book romanticists cry themselves to sleep. But really, what are we shedding tears over? We're losing the throwaway paperback. The airport paperback. The beachside paperback. We're losing the dregs of the publishing world: disposable books. The book printed without consideration of form or sustainability or longevity. The book produced to be consumed once and then tossed. The book you bin when you're moving and you need to clean out the closet. These are the first books to go. And I say it again, good riddance. Once we dump this weight we can prune our increasingly obsolete network of distribution. As physicality disappears, so too does the need to fly dead trees around the world. You already know the potential gains: edgier, riskier books in digital form, born from a lower barrier-to-entry
+
+From 2003-2009 I spent six years trying to make beautiful printed books. Six years. Focused on printed books. In the 00s. And I loved it. I loved the process. The finality of the end product. I loved the sexy-as-hell tactility of those little ink and paper bricks. But I can tell you this: the excitement I feel about the iPad as a content creator, designer and publisher -- and the potential it brings -- must be acknowledged. Acknowledged bluntly and with perspective. With the iPad we finally have a platform for consuming rich-content in digital form. What does that mean? To understand just why the iPad is so exciting we need to think about how we got here. I want to look at where printed books stand in respect to digital publishing, why we historically haven't read long- form text on screens and how the iPad is wedging itself in the middle of everything. In doing so I think we can find the line in the sand to define when content should be printed or digitized. This is a conversation for books-makers, web-heads, content-creators, authors and designers. For people who
+
+CO NTENTS
+
+i. Good riddance ii. Defined by content iii. The universal container iv. Books we make a. Specimen table b. Recommendations c. Discussion
+
+S P O NS O RED BY
+
+to publish. New modes of storytelling. Less environmental impact. A rise in importance of editors. And, yes -- paradoxically -- a marked increase in the quality of things that do get printed.
+
+love beautifully made things. And for the storytellers who are willing to take risks and want to consider the most appropriate shape and media for their yarns.
+
+FOR TOO LONG, the act of printing something in and of itself has been placed on too high a pedestal. The true value of an object lies in what it says, not its mere existence. And in the case of a book, that value is intrinsically connected with content. Let's divide content into two broad groups. Content without well-defined form (Formless Content (Fig. 1)) Content with well-defined form (Definite Content (Fig. 2)) Formless Content can be reflowed into different formats and not lose any intrinsic meaning. It's content divorced from layout. Most novels and works of non-fiction are Formless. When Danielle Steele sits at her computer, she doesn't think much about how the text will look printed. She thinks about the story as a waterfall of text, as something that can be poured into any container. (Actually, she probably just thinks awkward and sexy things, but awkward and sexy things without regard for final form.) Content with form -- Definite Content -- is almost totally the opposite of Formless Content. Most texts composed with images, charts, graphs or poetry fall under this umbrella. It may be reflowable, but depending on how it's reflowed, inherent meaning and quality of the text may shift.
+
+Fig. 1
+
+Fig. 2
+
+F OR M L E SS CONT E NT
+
+-- retaining meaning in any container
+
+D EF I NI T E CONT ENT
+
+-- meaning shifts with container
+
+You can sure as hell bet that author Mark Z. Danielewski is well aware of the final form of his next novel. His content is so Definite it's actually impossible to digitize and retain all of the original meaning. Only Revolutions, a book loathed by many, forces readers to flip between the stories of two characters. The start of each printed at opposite ends of the book. A designer may, of course, working in concert with the author, imbue Formless Content with additional meaning in layout. The final combination of design and text becoming Definite Content.(See specimen: Vas) For an extreme and ubiquitous contemporary example of Definite Content, see Tufte. Love him or hate him, you have to admit he's a rare combination of author and designer, completely obsessed with final form, meaning and perfection in layout.(Fig. 3)
+
+In the context of the book as an object, the key difference between Formless and Definite Content is the interaction between the content and the page. Formless Content doesn't see the page or its boundaries. Whereas Definite Content is not only aware of the page, but embraces it. It edits, shifts and resizes itself to fit the page. In a sense, Definite Content approaches the page as a canvas -- something with dimensions and limitations -- and leverages these attributes to both elevate the object and the content to a more complete whole. Put very simply, Formless Content is unaware of the container. Definite Content embraces the container as a canvas. Formless content is usually only text. Definite content usually has some visual elements along with text.
+
+Fig. 3
+
+Fig. 4
+
+T UF T E
+
+-- embracing his canvas
+
+D ESI GNI NG B OOKS
+
+-- awareness of physicality
+
+Much of what we consume happens to be Formless. The bulk of printed matter -- novels and non-fiction -- is Formless. In the last two years, devices excelling at displaying Formless Content have multiplied -- the Amazon Kindle being most obvious. Less obvious are devices like the iPhone, whose extremely high resolution screen, despite being small, makes longer texts much more comfortable to read than traditional digital displays. In other words, it's now easier and more comfortable than ever to consume Formless Content in a digital format. Is it as comfortable as reading a printed book? Maybe not. But we're getting closer. When people lament the loss of the printed book, this -- comfort -- is usually what they're talking about. My eyes tire more easily, they say. The batteries run out, the screen is tough to read in sunlight. It doesn't like bath tubs. Important to note is that these aren't complaints about the text losing meaning. Books don't become harder to understand, or confusing just because they're digital. It's mainly issues concerning quality. One inevitable property of the quality argument is that technology is closing the gap (through advancements in screens and batteries) and because of additional features (note taking, bookmarking, searching), will inevitably surpass the comfort level of reading on paper. The convenience of digital text -- on demand, lightweight (in file size and physicality), searchable -- already far trumps that of traditional printed matter. The formula used to be simple: stop printing Formless Content; only print well-considered Definite Content. The iPad changes this.
+
+IT'S NO WONDER WE LOVE OUR PRINTED BOOKS -- we physically cradle them close to our heart. Unlike computer screens, the experience of reading on a Kindle or iPhone (or iPad, one can assume) mimics this familiar maternal embrace. The text is closer to us, the orientation more comfortable. And the seemingly insignificant fact that we touch the text actually plays a very key role in furthering the intimacy of the experience. The Kindle and iPhone are both lovely -- but they only do text. The iPad changes the experience formula.(Fig. 5) It brings the excellent text readability of the iPhone/Kindle to a larger canvas. It combines the intimacy and comfort of reading on those devices with a canvas both large enough and versatile enough to allow for well considered layouts.
+
+Fig. 5
+
+Fig. 6
+
+T HE NEW EQUAT I ON
+
+-- retaining structural meaning in digital form
+
+D EF I NI T E CONT ENT 1 : 1 W I T H I PAD
+
+-- a first
+
+What does this mean? Well, most obviously that a 1:1 digital adaptation of Definite Content(Fig. 6) books will now be possible. However, I don't think this is a solution we should blindly embrace. Definite Content in printed books is laid out specifically for that canvas, that page size. While the iPad may be similar in physical scope to those books, duplicating layouts would be a disservice to the new canvas and modes of interaction introduced by the iPad. Take something as fundamental as pages, for example. The metaphor of flipping pages already feels boring and forced on the iPhone. I suspect it will feel even more so on the iPad. The flow of content no longer has to be chunked into `page' sized bites. One simplistic reimagining of book layout would be to place chapters on the horizontal plane with content on a fluid vertical plane.(Fig. 7)
+
+Fig. 7
+
+Fig. 8
+
+VER T I CAL CHAPT ER S
+
+-- breaking habit
+
+T HE I NF I NI T E CONT ENT PL ANE
+
+In printed books, the two-page spread was our canvas. It's easy to think similarly about the iPad. Let's not. The canvas of the iPad must be considered in a way that acknowledge the physical boundaries of the device, while also embracing the effective limitlessness of space just beyond those edges. We're going to see new forms of storytelling emerge from this canvas. This is an opportunity to redefine modes of conversation between reader and content. And that's one hell of an opportunity if making content is your thing.
+
+SO: ARE PRINTED BOOKS DEAD? Not quite. The rules for iPad content are still ambiguous. None of us has had enough time with the device to confidently define them. I have, however, spent six years thinking about materials, form, physicality and content and -- to the best of my humble abilities -- producing printed books. So, for now, here's my take on the print side of things moving forward. Ask yourself, "Is your work disposable?" For me, in asking myself this, I only see one obvious ruleset: Formless Content goes digital. Definite Content gets divided between the iPad and printing. Of the books we do print -- the books we make -- they need rigor. They need to be books where the object is embraced as a canvas by designer, publisher and writer. This is the only way these books as physical objects will carry any meaning moving forward.
+
+Fig. 9a
+
+Fig. 9b
+
+NOT D I SPOSAB L E
+
+-- From 1871
+
+NOT D I SPOSAB L E
+
+- From 1871
+
+I propose the following to be considered whenever we think of printing a book: The Books We Make embrace their physicality -- working in concert with the content to illuminate the narrative. The Books We Make are confident in form and usage of material. The Books We Make exploit the advantages of print. The Books We Make are built to last. (Fig. 9a, 9b) The result of this is: The Books We Make will feel whole and solid in the hands. The Books We Make will smell like now forgotten, far away libraries. The Books We Make will be something of which even our children -- who have fully embraced all things digital -- will understand the worth. The Books We Make will always remind people that the printed book can be a sculpture for thoughts and ideas. Anything less than this will be stepped over and promptly forgotten in the digital march forward. Goodbye disposable books. Hello new canvases.
+
+This is a small collection of images of books from my library that I feel embody the above ethos. They're books that embrace their physicality or have stood the test of time. They're the kinds of books the iPad can't displace because they're complete objects. Some utilize painstaking hand printing atop exquisite paper (Heian). Some smell (also, Heian). Others are 100+ years old but still hanging on (Overland Through Asia). Others are very new but are either beautiful collaborations between writer and designer (Vas) or artistic objects in and of themselves (A Dictionary Story). Whatever they may be, they are not going to be thrown away anytime soon.
+
+DESIGNING BOOKS
+
+BEAUTIFUL EVIDENCE
+
+VAS: AN OPERA IN FLATLAND
+
+VAS: AN OPERA IN FLATLAND
+
+L A Y O U T S -- considering page shape
+
+T U F T E -- a well-considered spread
+
+AUTHOR + DESIGNER COLLAB.
+
+SPREAD 2
+
+A DICTIONARY STORY
+
+A DICTIONARY STORY
+
+A DICTIONARY STORY
+
+A DICTIONARY STORY
+
+pssst -- you can signup for my mailing list over here 
+
+Explorers Club
+
+EXTENDED SPREAD
+
+EXTENDED SPREAD 2
+
+EXTENDED SPREAD CLOSEUP
+
+EXTENDED SPREAD CLOSEUP
+
+OVERLAND THROUGH ASIA
+
+OVERLAND THROUGH ASIA
+
+OVERLAND THROUGH ASIA
+
+OVERLAND THROUGH ASIA
+
+GOLD EMBOSSING
+
+AMERICAN PUB. COMPANY
+
+DEDICATED, TWICE
+
+EXPLOITING PRINT
+
+HEIAN
+
+HEIAN
+
+HEIAN
+
+HEIAN
+
+BRUSHES
+
+HAND PRINTED WOODBLOCK
+
+PRINTING DETAIL -- notice the use of metallic ink
+
+WELL AWARE OF FORM
+
+ON  BOOK DE SIGN
+
+DE SIGNING BOOKS
+
+E NVISIONING INFORMATION
+
+ONLY RE VOL U TIONS
+
+VAS:  AN  OPE RA IN  FL ATL AND
+
+A  DICTIONARY STORY
+
+-- Hendel
+
+-- Hochuli
+
+-- Tufte
+
+-- Danielewski
+
+-- Tomasula & Farrell
+
+-- Winston
+
+E L E ME NTS  OF TYPOGRAPHIC STYL E
+
+-- Bringhurst
+
+AB OUT T HE AUT HOR
+
+Craig Mod is a writer, designer, publisher and developer concerned with the future of storytelling (whatever that means). He is co-author of Art Space Tokyo, an intimate guide to the Tokyo art world. He is also co-founding editor and engineer behind TPUTH.com, co-founder and developer of the storytelling project Hitotoki, and frequent collaborator with Information Architects, Japan. He's lived in Tokyo for almost a decade and speaks frequently on the future of books and media and lives for great food and no-bullshit coffee.
+An extensive collection of images of books he's designed is available here.
+T HANKS
+
+A huge thanks to the following people for their comments, insight and conversations while working on this: Ian Lynam, Hiroko Tabuchi, Liz Danzico,, Julia Barnes, Oliver Reichenstein, Mark Stephen Meadows, Chihiro Suda and that drunken, nameless (but insightful and challenging) angelic barfly in, of all places, Hiroo.
+
+397
+ comments Join the discussion...
+Best Craig
+ Mod Share
+ 
+
+77
+
+
+ Login
+
+Peter 29
+
+·
+
+4 years ago
+· Reply · Share >
+
+I find it difficult to fully engage any text unless I have the option of throwing it across the room.
+
+Peter
+ Neal
+
+Peter · 4 years ago
+
+You mean you don't throw your technology across the room? I regularly throw my iPhone about. You just have to make sure you aim it for a soft landing. It becomes a habit over time. Great stress relief.
+6
+· Reply · Share >
+
+Danny
+ -
+ Kindle
+ Case
+ Blog
+
+Peter Neal · 3 years ago
+
+I would be careful about throwing the kindle around the room. Without protection the e-ink screen is actually really delicate. You have to remember that the modern phone is about 11th generation - so they include a degree of protection that allows you to throws yours across the room. Kindles and ereaders are still very new - technologywise.
+· Reply · Share >
+
+R.
+ E.
+ Warner 3
+
+Peter · 4 years ago
+
+While I agree with your sentiment, I am also tired of putting magazines in the trash. It's exhausting.
+· Reply · Share >
+
+macewan
+
+R. E. Warner · 4 years ago
+
+My wife uses the old text deployment systems - books - in assemblagist art. sorta a plug but not really http://assemblagist.org/catego...
+3
+· Reply · Share >
+
+Renmeleon
+
+macewan · 2 years ago
+
+I work in mixed media as well and love repurposing books. There are those that are sacred that I will scan vs pulling them apart, but I have a few that I keep for cannibalizing. Once you get past that "I'm so going to hell" feeling of ripping a page out it isn't so bad.
+2 Dan
+ Sutton
+· Reply · Share >
+
+R. E. Warner · 2 years ago
+
+I solved that problem by not buying magazines. I like books, though. I have thousands of them. I also have an iPad. So far, I've only read one book on it, and that's because it was out of print as a real book and I couldn't find a copy anywhere. On a more serious note, the author of the article suggests making (real) books more substantial, such that they're built to last and are to some extent "special" items: this is a laudable idea, but would have the downside of making the books (a) more expensive, and (b) assume the characteristics of a "special" item -- one which you wouldn't really go and buy every day... this latter thing is a problem, because it would have the unintended side-effect of marginalizing printed books even more. I think that, unfortunately, the printed word will be gone in another 20 years... and those of us of a certain age (mine) will lament their passing and think to themselves that civilization is finished, and that the last vestiges of a certain type of intellectualism have left the
+
+passing and think to themselves that civilization is finished, and that the last vestiges of a certain type of intellectualism have left the planet forever. But if we step back and examine this a little, in greater context, we can well imagine exactly the same types of things being said and thought by monks in the middle ages, once the printing press was created: no longer were books relegated to being single-instance, illuminated works of art - suddenly, any given book could be made available in volume, and to as many people as wanted a copy. I feel sure that the proponents of the illuminated, hand-written book felt that civilization was coming to an end, and that the printed word had just been cheapened beyond recognition... but in reality, what had happened was that the dissemination of knowledge had just been made incalculably more efficient: far from representing the end of civilization, the printed word represented the end of universal ignorance, and actually lifted civilization rather than depressing it. The same thing is happening here: by virtue of the electronic book, information not previously available in many parts of the world is now available there; one can hold and read many, many more books than, in a real-world, printed environment, one would ever be able to keep; one can share, create, annotate and, most importantly, search material in ways that have never previously been thinkable, let alone possible. But I'll miss paper books - just for myself - that's for sure.
+2 gracehoper
+· Reply · Share >
+
+Peter · 4 years ago
+
+Isn't deletion so much more final and satisfying?
+· Reply · Share >
+
+Dystopia
+ Kid
+
+Peter · 4 years ago
+
+But if you can't throw it across the room, maybe you could explore the option of not reading crap?...
+· Reply · Share >
+
+ericmacleod 8 Chris
+ Brainard
+·
+
+Dystopia Kid · 4 years ago
+
+Even a good book can inspire frustration and be thrown across the room
+· Reply · Share >
+
+4 years ago
+
+What drugs are you taking that you can't see reality?? The amount of resources it takes to make an Ipad blows away what it take to make a book or even a thousand books and most likely even a 100,000 books. Then there is the whole economic barrier to buying it. Do I pay $500+electricity+new battery after 5 years+damage over time or do I pay 50 cents for a book or $3 for a magazine that I can give away to someone else with real loss to me. This is just another pipe dream of technology saving us that does nothing but dig the hole deeper for the world. I suggest you read Moby Dick to get a good idea of where we are heading as a culture.
+14
+· Reply · Share >
+
+normm
+
+Chris Brainard · 4 years ago
+
+There's a famous story that is told about Edison. On the day that he first lit up a park (in NY I think) with his new electric light, a reporter came up to him and asked him, "Do you think that someday ordinary people will be able to afford electric lights?" He is reported to have replied, "One day, only the rich will be able to afford candles." We've already seen the exponentially-improving electronic world displacing the physical in many areas, including music and games. Virtual goods use so little resources that they can become much less expensive than real ones. One day, only the rich will be able to afford paper books.
+14
+· Reply · Share >
+
+rexmonday
+
+normm · 4 years ago
+
+Well, this is all fine and dandy apart from three things. One version of this quote runs "When I am through, electricity will be so cheap that only the rich will be able to afford candles." Hmmm. Remember when nuclear power promised "Electricity too cheap to meter"? Secondly, candles are not so expensive that only the rich can afford them. Finally, the world's poorest people STILL don't have a cheap, reliable electricity supply. "Virtual goods use so little resources that they can become much less expensive than real ones." This is "free is the new cheap" argument, but it's essentially hollow. Virtual goods and utilities may not cost us anything but they DO use up energy, and waste the earth's resources. Google, for example. According to one report, the energy used by two Google searches is enough to boil a kettle.
+4
+· Reply · Share >
+
+vRaf
+
+rexmonday · 4 years ago
+
+Please get your facts straight before you advance an argument : http://googleblog.blogspot.com...
+
+Thank you
+4 A.R.
+ Williams
+· Reply · Share >
+
+normm · 4 years ago
+
+I think you may a good point about there coming a time when only the rich will be able to afford paper books. Technology and books have different pricing structures. The longer a technology is out, the cheaper and better it gets. The fewer books that are created in a print run the more costly the books will be. As technology drops in price more consumers will decide to purchase it. Also as new features are added to the basic models, even more people will purchase the devices. This will lead to a decrease in the demand for paper books and cause smaller print runs. Smaller print runs will in turn drive the costs of a book up. Since the main purpose of any company is to turn a profit, this may see the companies focus more of their attention to the most profitable form.
+2
+· Reply · Share >
+
+Chris
+ Lynch 7
+
+A.R. Williams · 4 years ago
+
+At one point digital cameras were expensive and film cameras were the norm. How many of you shoot on film still?
+· Reply · Share >
+
+michaelbarreto
+
+A.R. Williams · 4 years ago
+
+And it's those low-numbered edition art books that I desire the most, and yet I don't have the money for them. If you have anything of the sort, please don't delay in forwarding it to my address with my deepest thanks to you and your generosity.
+3 Dean
+ H
+· Reply · Share >
+
+normm · 4 years ago
+
+His reply does hold some substance. Many third world still use traditional form of lighting, although the first world are making great strides to decrease cost to be able to supply to the poor.
+1
+· Reply · Share >
+
+AudeKhatru
+
+normm · 4 years ago
+
+Actually, I would change book to library. Edison was wrong, candles are still cheap, they just don't do the job as well as electric lights. I think it will be a very long time before paper books are so expensive that even an average joe cannot own one. The question is, will everyone want to? I think the answer is no. My son who is 12 may see the day when a paper book is a rarity, but I will not be too surprised if his son never buys a paper book.
+1
+· Reply · Share >
+
+Brian
+ Reach 2 Mike
+
+AudeKhatru · 4 years ago
+
+Maybe candles are cheap at IKEA, but you can spend a pretty penny on them elsewhere. He's closer to right every year.
+· Reply · Share >
+
+Chris Brainard · 4 years ago
+
+"The amount of resources it takes to make an Ipad blows away what it take to make a book or even a thousand books and most likely even a 100,000 books." The amount of resources it takes to make an iPad is about the amount of resources it takes to make 20 hardcover books: $600/$30=20. The amount of resources it takes to make some of the upcoming ebook readers is about 3 hardcover books: $90/$30=3. "Do I pay $500+electricity+new battery after 5 years+damage over time" The price of ebook readers will probably come down to the price of a single hardcover book over the next 10 years. All of those will be able to wirelessly access (and probably even store) all the books you have ever bought. And as someone who owns about 5000 books and has had the displeasure of moving with them many times, I say: good riddance to printed books.
+7 Dusty
+· Reply · Share >
+
+Chris Brainard · 4 years ago
+
+Ancient alchemists were concerned with converting lead to gold. In their quest to do this, they eventually found out how to do much more valuable things. By the 1950s, it was possible to convert lead to gold, but it cost more to convert the lead to gold than the gold was worth. But think of all the other more valuable things chemistry and science have done for us! If the iPad were a device that only read books, then yes, you may be right.
+
+The interesting thing when any new device comes out is the new uses that appear later. First, the device is only used to do things we were already doing elsewhere. Then the things we were doing get better as software makers take fuller advantage of the device's capabilities. Then, entirely new things to do emerge. If authors begin thinking of themselves as software engineers, they'll see entirely new ways to use the device and others like it for storytelling. Interactive novels, novels with bits of video and sound embedded like a web page, a movie that plays in the top of the screen with notes below to read. I mean think of it, a major limitation that movies have in their storytelling is that they are less intimate than a novel. You can't fully get in the character's head. It might be possible to have a hybrid form emerge on these devices. Plus these devices are going to get cheaper and more affordable for everybody.
+3 Maria
+· Reply · Share >
+
+Chris Brainard · 4 years ago
+
+50¢ for a book? What are you reading? I'm afraid it's you who doesn't see reality. Ebooks are the future, no matter what device they're read on.
+3
+· Reply · Share >
+
+Jon
+
+Maria · 4 years ago
+
+Used books are pretty cheap and you can find some great stuff. Not 50 cents but about $3 and then guess what, you can lend it to someone else when you're done with it. Not to mention the fact that I can take a book with me and if it gets stolen or lost, well no big loss, I'll be out a few bucks. But if my eReader gets stolen, I'm screwed.
+1
+· Reply · Share >
+
+Renmeleon
+
+Jon · 2 years ago
+
+I scour the local Dollar Tree occasionally and have found some fabulous books for a dollar. I recently spent 25 on a writing book at Barnes; great book, "The Mind of Your Story", currently on loan to a friend. A week later I found four copies of it at Dollar Tree and snagged them all, gave them as gifts to some of my writers group members. Used bookstores have some fabulous finds too. Completely agree Jon. I can replace a book, but not the tech to read one.
+· Reply · Share >
+
+Daniel
+
+Maria · 4 years ago
+
+He's probably reading one of the billions of the "disposable" books available incredibly cheaply from thrift stores and charity shops around the world. Something that won't happen with eBooks.
+1
+· Reply · Share >
+
+jacech
+
+Daniel · 4 years ago
+
+Of course "incredibly cheaply" will happen with e-books -- it already has! For example, if you go here, http://www.mobileread.com/foru... you can browse an excellent collection of thousands of public domain, nicely formatted, carefully proofread ebooks. All of them are free. Many of them include the original illustrations. And in reply to Chris Brainerd's comment, I would point out that Moby Dick is one of these books. I've read it myself, but I can't recommend it. However, since getting my Kindle I have become a big fan of Charles Dickens!
+3 Craig
+ Mod
+· Reply · Share >
+
+Mod
+
+Daniel · 4 years ago
+
+Project Gutenberg is a great example of what happens to old books in electronic format: they don't cost $.50. They're entirely free: http://www.gutenberg.org/wiki/...
+2
+· Reply · Share >
+
+Renmeleon
+
+Daniel · 2 years ago
+
+Thank you Jacech for the link. Nice. Craig Mod - Project Gutenberg is great, found them a while ago.
+· Reply · Share >
+
+richielau
+
+Chris Brainard · 3 years ago
+
+What year do you live in where books cost 50 cents and magazines cost $3? People do not buy iPads only for book reading, unlike the Kindle. The iPad is not mainly a book reader but has greater application usage than just a book reader. People would buy the device with or
+
+Kindle. The iPad is not mainly a book reader but has greater application usage than just a book reader. People would buy the device with or without the availability of books. However it would make sense that people with the device will buy books and magazines on the iPad, because of it's attractive canvas size and mobility. It would make better sense to compare eBooks to printed Books in this case.
+2
+· Reply · Share >
+
+Renmeleon
+
+richielau · 2 years ago
+
+Sorry, had to laugh. $3.00 for a magazine? I wish. The cheapest one I read is around $6.00, but the majority of the magazines I buy are $12 - 17.00 and I don't buy them very often. I love tech as much as I love analog, iPads and eBooks have their place. I don't see printed books falling off planet yet. Pleasure reading I would get a Nook/Kindle as I enjoy the ability to carry more books than I could lug around in a backpack; that kind of mobility for my reference material would be fabulous. I am working on my Masters currently though and, as a student, much prefer a printed book in my hand; that is my kind of "interactive".
+· Reply · Share >
+
+Martin
+ Wells
+
+Chris Brainard · 3 years ago
+
+What if your friend lives on the other side of the planet as is often the case today in our globally connected network of far-flung relationships? Then sending an electronic version seems more practical, doesn't it? Your simple $3 book exchange now becomes a $53 book exchange once you add the cost of placing it on truck, boat, plane. What is ten times $53? Answer: about the cost of an iPad.
+1 Guest
+· Reply · Share >
+
+Chris Brainard · 4 years ago
+
+I hear what you're saying. That said, I wouldn't let these developments trouble you. Paper books and the conveniences they offer are not going away anytime soon, not until other alternatives meet the very same requirements we demand from pulp. However, consider this: eBooks and other portable electronic reading devices, *used largely as reading devices for pleasure and/or pure discovery* are still in the very early adopter phase, when considering their overall penetration in the worldwide market for those specific uses. In the future, reading portability will be embedded in one's eyeglasses (unless we evolve to a place where genetic selection eliminates nearsightedness and other minor visual abnormalities); on nanopainted, electronically charged walls; on the very windows of our homes and autos, etc. etc. - all this and more is on its way. t's very difficult to point to when these developments will happen, but they *will* happen. And, they *will* become very, very inexpensive. eBooks will go the way of calculators in price. Reading devices will be given away for free, leveraged against content (where the real value is). I treasure the ability to just buy a book at my local used book outlet, for free - that pleasure will be with us for a long, long time. Paper books will not be obsolete for a long, long time. In fact, I see a day when network enabled ePaper is just as cheap as pulp-based paper, with the idea that you only have to buy a notebook with a few pages of the stuff to download things endlessly. New forms of presentation media will also create a slow evolution of how our species *wants* to present things. I wouldn't fret about this. Rather, consider it all as a parade of development that one can watch as it happens, and in fact read about in a pulp-paper-based book - as many of us do, today, until the economies and efficiencies and human "touch" of these technologies become so compelling that most would never think of using them again. There will always be paper books, in some form or other. Just like the quill pen, paper books will contain a satisfaction for some. That's OK, The days of paper books are numbered, but that number of days will be measured over many decades. Just as the quill pen slipped out of use, so will the paper book. By the time we get to that event horizon, electronic reading will seem so second nature, so cheap, to easy to access, or full of creative possibilities (for those that want to exercise them) that paper as we know it will simply not be desired. I know that seems hard to believe, but buggy whips and quill pens were once thought of in the same way, so were stone tablets.
+1
+· Reply · Share >
+
+Mathew
+ Negru
+
+Chris Brainard · 4 years ago
+
+While you're definitely right to look beyond only the supposed savings in paper to the costs of the more complete system, hopefully you're much too pessimistic regarding the resource price of eBook readers. One doubts the manufacturing an eBook reader is quite so stupendously resource intensive, or toxic waste producing as you suggest. But as you implicitly bring out, insisting that the components be recyclable and not result in large amounts of toxic waste whose long term costs are externalized onto vulnerable outsiders may be a necessary direction to take.
+· Reply · Share >
+
+badams77
+
+Chris Brainard · 4 years ago
+
+Funny I just blogged about the end of the book, at Internet Future UK. Its probably going to take the whole decade to end the paper book, but once the book is a digital item, it may gain all sorts of AI bells and wistles.
+· Reply · Share >
+
+cimota
+
+Chris Brainard · 4 years ago
+
+cimota
+
+Chris Brainard · 4 years ago
+
+Hm. Wood pulp is an awful way to provide information. It comes from decimated forests, it uses harsh bleaching chemicals and large hot factories. Once the books eventually are made, they need to be stored, transported in huge trucks and when not sold, pulped again and sent to the bleaching tubs. Most of the money in the book industry goes to run the factories and put gas in the trucks and pay the drivers and factory workers. I will not lament the loss of the 50c novel because I don't buy 50c novels. I only buy hardbacks which I intend to keep, and I think this is what Craig is getting at. The crappy low end of the market is vanishing. We will enjoy the feeling of better quality media for our content at the same time as having better access to globalised content. And there's a certain myopia among the book obsessed. iPad is not a eBook reader like the Kindle. All of the arguments you give are very easily applied to the Kindle and the Sony eReaders because of their limited utility. iPad is aimed as a 'content' consumption device, a device which could potentially replace a full PC in many households, a device which will challenge the laptop for certain knowledge workers (including this one), a travelling entertainment device, something to amuse the kids on long journeys, a digital picture frame, a portable email client, a web browser sans compare.
+· Reply · Share >
+
+Steven
+ Sanders
+
+cimota · 4 years ago
+
+Wood pulp may be awful from certain perspectives, but when it comes to archival qualities, it surpasses digital by an order of magnitude. As example, find digital information from 1985 and the cheapest paperback printed at the same time. The digital info will require a hard to find obsolete method of reading it, assuming it hasn't succumbed to bit-rot. The paperback will be yellowed but easily readable. One twice its age will likely be the same. This all isn't just speculation, there was a recent problem with NASA having difficulty accessing old probe information because they couldn't find a machine to read it on. Essentially, digital media turns our literature into an electronic equivalent of of an oral culture, with superior error checking. Mind, I'm not saying to be a Luddite about this, or think that pulp books are like clay tablets in terms of durability, but rather that eBooks are not some panacea, and if any creator wants any decent chance for their work to be around for history to care about, they should take some steps at getting something more archival produced. The crappy low end of the market is an important part of our culture, IMO, and I'd like for future civilizations to at least see some of it, instead of recording a mass extinction of that type of information in the early 2000's.
+4
+· Reply · Share >
+
+caphector
+
+Steven Sanders · 4 years ago
+
+Re: Finding digital content from 1985. That all depends on how the content was stored. Did it get saved in an opaque format only readable by it's creator? As you say, it'll be hard to get back Did it get saved as an open format, such as plain text, jpg or bmp? Then you're golden. Here's an article I dug on from 1985 from an old BBS. It reads just fine: http://www.textfiles.com/100/c...
+1
+· Reply · Share >
+
+Steven
+ Sanders
+
+Steven Sanders · 4 years ago
+
+Quite true regarding open standards; I should of been more clear. The example text given survived via transfer to the internet at some point. As long as the internet is around, and that text keeps getting saved by various people on various servers, we are good. But I was thinking more in terms of say, .txt files saved on 5 1/4 floppies that weren't transitioned. They are in your basement or something. Unless you kept your old gear and it still works, you'll need to go find a 5 1/4 drive, pray you aren't stuck using a mac and have to buy some USB workaround or something, (Full disclosure: This is typed on a mac) hope your PC mobo still has a floppy port, and that the disc is still readable. And that you are a geek who can do all of that, instead of your average computer user. That's the kind of archival problem I'm worried about.
+· Reply · Share >
+
+Kirk
+ McElhearn
+ 
+
+cimota · 4 years ago
+
+.
+1
+· Reply · Share >
+
+gracehoper
+
+cimota · 4 years ago
+
+Actually, as someone who has worked at a bookstore for many years, those small "mass market" paperbacks that don't get sold just get the cover torn off of them and then thrown in the trash. They aren't even worth the cost of shipping back to the publisher to be pulped or whatever.
+· Reply · Share >
+
+Craig
+ Mod
+
+Mod
+
+gracehoper · 4 years ago
+
+I wonder if there isn't a better place for those books? Is there not some tax-incentive to donate them to an organization like A Room To Read (http://www.roomtoread.org/Page... instead of just binning them?
+
+A Room To Read (http://www.roomtoread.org/Page... instead of just binning them?
+1 jorge_i
+· Reply · Share >
+
+gracehoper · 4 years ago
+· Reply · Share >
+
+good, point, now we are also adding to overtaxed landfills.
+
+Mitz
+
+cimota · 4 years ago
+
+While I agree that the iPad has more functionality than the Kindle, Nook, or eReader, I don't see it replacing a full PC, or even a laptop anytime soon. Apps can only get a person so far. But that is perhaps an argument for a different day.
+· Reply · Share >
+
+sierrahotel058
+
+Mitz · 4 years ago
+
+I think you may be mistaken here. Even the lowly smartphone has already replaced laptops for many people. Tablets will replace many more. We forget that a large percentage of laptop users purchased their machines because at the time it was the only real portable option to do what they do on a computer. Most users do not need or require the power of a full blown PC. They email, surf, socialize, read, consult maps...find a good restaurant, etc. I think the iPad will be transformational as a reader, not necessarily because it is the the best reader, but because it will be a powerful device in so many arenas....and therefore sell in the millions. Market dominance by definition means that content producers will flock to take advantage of the platform....by producing content that separates them from the rest. We are in for a great ride.
+1 cimota
+· Reply · Share >
+
+Mitz · 4 years ago
+
+Hi Mitz, It may not replace it for you (or even for me). But iPads (and their descendants and clones) will replace boxy beige PCs for a lot of people (including half my family).
+1
+· Reply · Share >
+
+Brian
+ Reach
+
+Mitz · 4 years ago
+
+I see it happening already - cloud computing and solid state drives are starting to improve, and have been around for several years. Soon we'll be streaming everything, and all we'll need are screens, cameras, and speakers.
+· Reply · Share >
+
+Keith
+ X
+
+Mitz · 4 years ago
+
+An iPad is primarily a content consumer device with a limited content creation role, for such things as emails, a simple web page or photo formatting. Content creators will continue to use fully functional computers, as will niche consumers of highend content such as processor-intensive games. The thing to recognize is that the vast majority of computer owners today are content consumers. They neither need nor want a powerful system, but they had no choice. Those people will move quickly to embrace the tablet / ereader / smartphone platform.
+· Reply · Share >
+
+Scott
+
+·
+
+4 years ago
+
+Great, thoughtful article. Some random thoughts, in no particular order: That many books are "disposable" isn't necessarily a reflection on the quality of the physical product, but rather of the content itself. Ironic that you chose Danielle Steele as an example. I bet you have hundreds of albums that you've listened to over and over, and dozens of movies that you've seen several times. But the number of books people re-read is probably really small. I just did a quick survey of one of my bookshelves. Out of 89 books, there were 20 that I'd read more than once, and that was skewed high because it had a large number of children's books, like Charlie and the Chocolate Factory, that I read obsessively as a kid. Anyway, the point is that if a book is thrown in a box in the garage or left on the airplane or in a hotel, it's probably because the *content* was only meant to be consumed once. One problem I face in the switch to digital books is the loss of a signaling function. I like having my house full of bookshelves stuffed with books. I like seeing them and touching them. I like it when other people see them and touch them. Whenever I go to someone's house, once of the first things I do is wander over to the bookshelf to see what they read. Physical books provide a powerful social signal that I worry will wink out in the transition to digital. Admittedly, the transition of music to digital means this could just require a behavioral change. I love music as much as I love books, and for years kept my CDs displayed in racks. But the switch to digital meant they just took up a lot of space without contributing anything. Now, signalling about music tastes is done through direct conversation -- "Heard any good music lately?" -- and through browsing through someone else's iPod. I''m not too worried about losing my whole book library to some technological malfunction. The Kindle, at least, backs up your purchases in Amazon's cloud, so you can re-download any book you've bought at any time. And since an EMP powerful enough to fry Amazon's databases
+see
+ more
+
+7
+
+· Reply · Share >
+
+7
+
+· Reply · Share >
+
+Craig
+ Mod
+
+Mod
+
+Scott · 4 years ago
+
+Hi Scott, Thanks for the great comment. Responses below: > That many books are "disposable" isn't necessarily a reflection on the quality of the physical product, but rather of the content itself. Ironic that you chose Danielle Steele as an example. I bet you have hundreds of albums that you've listened to over and over, and dozens of movies that you've seen several times. But the number of books people re-read is probably really small. I just did a quick survey of one of my bookshelves. Out of 89 books, there were 20 that I'd read more than once, and that was skewed high because it had a large number of children's books, like Charlie and the Chocolate Factory, that I read obsessively as a kid. Anyway, the point is that if a book is thrown in a box in the garage or left on the airplane or in a hotel, it's probably because the *content* was only meant to be consumed once. Exactly. And I think being able to judge content appropriately -- is it single serving or not? -- is one of the cornerstones in choosing the right medium for it. > One problem I face in the switch to digital books is the loss of a signaling function. I like having my house full of bookshelves stuffed with books. I like seeing them and touching them. I like it when other people see them and touch them. Whenever I go to someone's house, once of the first things I do is wander over to the bookshelf to see what they read. I completely agree. I'm an architecture nut and one of the first things I look for in house design is how they did the bookshelves.
+see
+ more
+
+3
+
+· Reply · Share >
+
+Load more comments
+
+Subscribe
+
+Add
+ Disqus
+ to
+ your
+ site
+
+J O URNAL (LO NG -FO RM) »
+
+S ATE LLI TE (S HO RTE R-FO RM) »
+
+BO O KS / P RI NTE D MATTE R »
+
+ABO UT
+
+Photography, hello Subcompact Publishing Platforming Books Hack the Cover The DigitalPhysical Post-Artifact Books and Publishing Seeing Prime: Panasonic's 14mm Lumix Lens Woods of Wales: Do Lectures, 2010 Kickstartup Embracing the Digital Book Books in the Age of the iPad Annapurna Moonrise GF1 Field Test -- Video Supplement GF1 Field Test -- 16 Days in the Himalayas @font-face: The Potential of Web Typography
+
+Pull back Facebook is just fine Wind Up Kidd Chronicle Subcompact round up and The Daily An invitation -- Roden Explorers Unbindings and edges Our bit heavens Publishing startups and the great fuzziness Twitter for minimalists Ahab! A pointable we [3/3] A pointable we [2/3] A pointable we [1/3] The momentum of Steve Jobs ... read more »
+
+Flipboard for iPhone Do You Know? (2008 edition) Art Space Tokyo Curing Japan's America Addiction Goodbye Madame Butterfly Last Of The Red Hot Poppas Do You Know? (2006 edition) Kuhaku
+O THE R / MI S C / O LDE R WO RK
+
+San Francisco, Tokyo, New York, etc. Thinking about the future of books and publishing and storytelling. More? More!
+
+Photography Interactive
+
+© 2001 - 2014 CRAIG MO D T WIT T ER | RSS
+
+
