@@ -5,3 +5,7 @@
 + observing many more simple steps of the process for the purpose of documentation
 + trying harder to make simple things into hard things for ~*excitement
 + text analysis takes a long time! i should use a smaller corpus to start off
+
++ struggling with unicode
++ maybe going to merge singular and plural form of words
++ 
