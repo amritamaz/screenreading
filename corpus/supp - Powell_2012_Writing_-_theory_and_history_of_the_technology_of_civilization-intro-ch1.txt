@@ -1,240 +1,0 @@
-Writing
-
-WRITING
-
-LEXIGRAPHY
-
-SEMASIOGRAPHY
-
-LOGOGRAPHY
-
-PHONOGRAPHY
-
-SYLLABOGRAPHY
-
-(GRAMMATOGRAPHY) ALPHABETIC WRITING
-
-THE CATEGORIES OF WRITING
-
-Writing
-Theory and History of the Technology of Civilization
-
-Barry B. Powell
-
-A John Wiley & Sons, Ltd., Publication
-
-This paperback edition first published 2012 © Barry B. Powell Edition history: Blackwell Publishing Ltd (hardback, 2009) Blackwell Publishing was acquired by John Wiley & Sons in February 2007. Blackwell's publishing program has been merged with Wiley's global Scientific, Technical, and Medical business to form Wiley-Blackwell. Registered Office John Wiley & Sons Ltd, The Atrium, Southern Gate, Chichester, West Sussex, PO19 8SQ, United Kingdom Editorial Offices 350 Main Street, Malden, MA 02148-5020, USA 9600 Garsington Road, Oxford, OX4 2DQ, UK The Atrium, Southern Gate, Chichester, West Sussex, PO19 8SQ, UK For details of our global editorial offices, for customer services, and for information about how to apply for permission to reuse the copyright material in this book please see our website at www.wiley.com/wiley-blackwell. The right of Barry B. Powell to be identified as the author of this work has been asserted in accordance with the UK Copyright, Designs and Patents Act 1988. All rights reserved. No part of this publication may be reproduced, stored in a retrieval system, or transmitted, in any form or by any means, electronic, mechanical, photocopying, recording or otherwise, except as permitted by the UK Copyright, Designs and Patents Act 1988, without the prior permission of the publisher. Wiley also publishes its books in a variety of electronic formats. Some content that appears in print may not be available in electronic books. Designations used by companies to distinguish their products are often claimed as trademarks. All brand names and product names used in this book are trade names, service marks, trademarks or registered trademarks of their respective owners. The publisher is not associated with any product or vendor mentioned in this book. This publication is designed to provide accurate and authoritative information in regard to the subject matter covered. It is sold on the understanding that the publisher is not engaged in rendering professional services. If professional advice or other expert assistance is required, the services of a competent professional should be sought. Library of Congress Cataloging-in-Publication Data Powell, Barry B. Writing : theory and history of the technology of civilization / by Barry B. Powell. p. cm. Includes bibliographical references and index. ISBN 978-1-4051-6256-2 (hardcover : alk. paper) ISBN 978-1-118-25532-2 (pbk. : alk. paper) 1. Writing­History. 2. Writing­Social aspects. [1. Alphabet­History.] I. Title. P211.P69 2009 411.09­dc22 2008046991 A catalogue record for this book is available from the British Library. Set in 10.5/13pt Minion by Graphicraft Limited, Hong Kong 1 2012
-
-Contents
-
-List of Illustrations Maps Preface Chronology Introduction: A Difficult Topic, Little Studied, Poorly Understood 1 What Is Writing? 2 Writing with Signs 3 Categories and Features of Writing 4 Some General Issues in the Study of Writing 5 Protocuneiform and Counting Tokens 6 Origin of Lexigraphic Writing in Mesopotamia 7 Plato's Ideas and Champollion's Decipherment of the Egyptian Hieroglyphs 8 Egyptian Writing and Egyptian Speech
-
-ix xiv xv xvii 1 11 19 38 51 60 70
-
-85 100 108 120 128
-
-9 The Origin and Nature of Egyptian Writing 10 "The House of Life": Scribes and Writing in Ancient Egypt 11 Syllabic Scripts of the Aegean
-
-viii
-
-Contents 148 163 175 187 206 227 245 255 263 270
-
-12 The West Semitic Revolution 13 What Kind of Writing Was West Semitic? 14 The Origins of West Semitic Writing 15 Chinese Logography 16 Lexigraphic Writing in Mesoamerica 17 The Greek Alphabet: A Writing That Changed the World 18 Summary and Conclusions Glossary Bibliography Index
-
-Chronology
-
-9000 bc Widespread use of geometric tokens throughout Near East, c.8500 bc Appearance of complex tokens, c.4500 ­3400 bc 4000 bc Round clay bullae that enclose tokens, impressed with cylinder seals, c.3500 ­3400 bc Protocuneiform numerical flat clay tablets, sealed or unsealed, with impressions of three-dimensional tokens or imitations of token shapes by means of a stylus, c.3400 ­3300 bc; first logograms with numbers c.3300 bc ProtoElamite writing, c.3300(?)­3000 bc Egyptian hieroglyphic writing, Pharaonic civilization emerges, c.3250 bc 3000 bc EARLY BRONZE AGE Tokens disappear, c.3000 bc Sumerian cities flourish in Mesopotamia, c.2800­2340 bc Texts in Sumerian cuneiform that reflect order of words in speech; similar development in Egypt, c.2800­2400 bc Minoan civilization flourishes in Crete, c.2500­1450 bc Akkadian Empire in Mesopotamia, c.2334­2220 bc; Akkadian cuneiform Linear Elamite writing, c.2150 bc Third Dynasty of Ur, c.2120­2000 bc "Cretan hieroglyphs," c.2100 bc­c.1700 bc 2000 bc MIDDLE BRONZE AGE Arrival of Indo-European Greeks in Balkan Peninsula, c.2000 bc Babylon's ascendance under Hammurabi, c.1810­1750 bc; Old
-
-xviii
-
-Chronology Babylonian cuneiform Old Assyrian cuneiform, c.1800 bc Cretan Linear A, c.1800 bc­1450 bc LATE BRONZE AGE Hittite Empire rules in Anatolia, c.1600­1200 bc; Hittite cuneiform; "Luvian hieroglyphs" West Semitic syllabic writing invented, c.1500(?) bc Destruction of Cretan palaces, c.1450 bc Destruction of the rebuilt Cnossus, c.1375 bc Amarna tablets in Middle Babylonian cuneiform, c.1350 bc Trojan War occurs, c.1250(?) bc Destruction of Ugarit, c.1200 bc Chinese script first attested in the Shang Dynasty on oracle bones, c.1200 bc IRON AGE begins with destruction of Mycenaean cities in Greece and other sites in the Levant Earliest Mesoamerican "writing," from Olmec territory, c.1140­400 bc Greek colonies are settled in Asia Minor, c.1000 bc NeoAssyrian cuneiform, c.1000 ­ 600 bc NeoBabylonian cuneiform, c.1000 ­500 bc NeoHittite cities flourish in northern Syria, c.900 ­700 bc Earliest "Isthmian" writing, c.900 bc (?) GREEK ARCHAIC PERIOD begins with invention of the Greek alphabet, c.800 bc Iliad and the Odyssey, attributed to Homer, are written down, c.800 ­775 bc Greek colonies in southern Italy and Sicily, c.800 ­ 600 bc Olympic Games begin, 776 bc Hesiod's Theogony is written down, c.775 ­700(?) bc Rome, allegedly, is founded, 753 bc Formation of Hebrew Pentateuch (first "five books" of Bible) during Babylonian Captivity of the Hebrews, 586­538 bc Cyrus the Great of Persia, c.600 ­529 bc "Zapotec" writing from the valley of Oaxaca in Mexico, c.600 ­ 400 bc Expulsion of the Etruscan dynasty at Rome and the foundation of the "Roman Republic," 510 bc
-
-1600 bc
-
-1500 bc
-
-1100 bc
-
-1000 bc
-
-900 bc 800 bc
-
-600 bc
-
-Chronology 500 bc
-
-xix
-
-Late Babylonian cuneiform, c.500 bc­ad 75 Behistun inscriptions (Old Persian cuneiform, Late Babylonian cuneiform, Elamite cuneiform), c.500 bc CLASSICAL PERIOD begins with end of Persian Wars, 480 bc Herodotus, c.484 ­ 420 bc Thucydides, c.470 ­ 400 bc Plato, c.427­347 bc Aristotle, c.384 ­322 bc Alexander the Great conquers the Persian Empire, founds Alexandria 336­323 bc HELLENISTIC PERIOD begins with death of Alexander in 323 bc
-
-400 bc
-
-300 bc Earliest Mayan writing, c.250 bc Mouseion founded by Ptolemy II, ruled 285­246 bc 200 bc Ptolemy V carves the Rosetta Stone, 196 bc ROMAN PERIOD begins when Greece becomes Roman province, 146 100 bc Diodorus of Sicily, c.80 ­20 bc Vergil, 70 ­19 bc Augustus defeats Antony and Cleopatra at battle of Actium and annexes Egypt, 30 bc Augustus Caesar reigns, 27 bc­ad 14 Year 0 ad 200 Last Mesopotamian cuneiform, ad 75 Classic Maya Period, c. ad 250 until ad 900 Plotinus, a NeoPlatonist Greek philosopher writes that the hieroglyphs are allegories, c. ad 250 Coptic phase of pharaonic Egyptian recorded in modified Greek alphabet called Coptic script, c. third century ad Last hieroglyphs inscribed at Philae near Aswan, ad 396 European MEDIEVAL PERIOD begins with fall of Rome in ad 476 Hieroglyphics, by Horapollo (?), c. fifth century ad
-
-ad 300 ad 400
-
-xx ad 1500
-
-Chronology
-
-Hernán Cortés lands in Mexico, ad 1519 ad 1600 Mesoamerican writing disappears, c. ad 1600 Travelers' reports bring information about cuneiform to Europe ad 1700 MODERN PERIOD Rosetta stone found in Egypt, ad 1799 ad 1800 Jean François Champollion deciphers Egyptian hieroglyphs, ad 1822 Henry Rawlinson and others decipher Mesopotamian cuneiform, c. ad 1850 ad 1900 Michael Ventris deciphers Linear B, ad 1952 Yuri Knorosov establishes the phonetic basis of some Mayan signs, ad 1952
-
-Introduction: A Difficult Topic, Little Studied, Poorly Understood
-
-It is not hard to see that writing is the single most important technology in human life, yet it is not easy to study or to think about. Nonetheless we use it almost every minute of our lives. Naturally, many handbooks attempt to explain this extraordinary technology, some of good quality, but most suffer from a recurring blindness about what writing is, where it comes from, and how it functions in relationship to speech. All scientific speculation on the history of writing, without exception, is conducted by alphabet-users, including the present study, which gives a bias to our questions and to what we take as answers. Many historians of writing do not read nonalphabetic scripts or have a casual acquaintance with them. The alphabet-using historians of writing make prejudgments that harm our understanding. In this book I will struggle against such prejudgments by providing a scientific nomenclature for understanding writing built on a coherent model of the different internal structures that govern all writing. I want to explicate this nomenclature and this model (see diagram facing the title page) through the study of the history of writing in the ancient Mediterranean, China, and Mesoamerica. This book is not, then, a description of the endless variety of external form in the history of writing, for which good studies exist, but an examination through historical examples of the internal structural principles that govern all writing. By proceeding in this fashion through a dark forest filled with dragons, I hope to slay several and clear away some popular confusions:
-
-· · ·
-
-the illusion that the purpose, origin, and function of writing is to represent speech the common supposition that writing comes from pictures the misapprehension that writing necessarily evolves toward the goal of finer phonetic representation
-
-2
-
-Introduction: A Difficult Topic
-
-A Chaos of Terms
-In no sense is the history of writing a discipline with niches in universities filled by experts. Those who write about the history of writing come from different directions and bring with them the expectations of their own disciplines. Linguists occasionally write such books because they feel that "language" is their province and that writing is somehow language. They are unrealistic about the quality of the phonetic information encoded in systems of writing, and their explanations too often ignore the social and historical forces behind change in systems of writing. Archaeologists sometimes work directly with unfamiliar ancient scripts, but they are rarely trained philologists. Perhaps philologists are in the best position to study the history of writing, if they have learned a nonalphabetic script, because they have wrestled most with the problem of deriving meaning from symbols. Thus the Polish-American Assyriologist I. J. Gelb (1907­85), who worked at the University of Chicago and contributed to the decipherment of "Luvian hieroglyphs," wrote the most important analysis of writing in the twentieth century and laid the foundations for the modern scientific study of writing. His famous book A Study of Writing: The Foundations of Grammatology appeared first in 1952 (revised in 1963). Gelb was wrong in details, but he understood that the history of writing exists, with discoverable underlying principles, as in all historical study. His outline of those principles stands today, and I refer to them often in this book. Above all Gelb urged the use of a consistent and rational vocabulary in discussing the history of writing, although few follow his advice. In reading and thinking about writing we struggle with terms that have their origin in the history of study, not in the nature of the subject. For example, we just referred to "Luvian hieroglyphs" to distinguish this writing from "Hittite cuneiform," but there is nothing hieroglyphic about this writing except the casual and entirely superficial resemblance to the historically unrelated Egyptian hieroglyphs. Both scripts are iconic, that is, we can sometimes recognize in the signs objects from the everyday world ­ for example, a hand, a bird, or an animal ­ but there is no direct historical connection between the scripts and they work in different ways. Another example is the "Ugaritic cuneiform alphabet," which is unrelated to Mesopotamian cuneiform and is not an alphabet. Unfortunately, such terms have stuck, and we are stuck with them, and we are stuck constantly
-
-Introduction: A Difficult Topic
-
-3
-
-explaining that this or that term is inappropriate. I will put such casual and inaccurate but common terms in "quotations." But the misuse of three words more than any others have harmed the study of the history of writing: "pictogram," "ideogram" (or ideograph), and "alphabet." The word "pictogram" means "picture-writing," but carries with it so much imprecision that we must avoid it rigorously. The use of "pictogram" should be the hallmark of the amateur, but careless professionals go on using it. It is always tempting to call any sign that looks like something a "pictogram," implying that the message is communicated through pictures and not through the resources of speech. Underlying the use but usually unspoken is a specious theory that "writing" began as pictures, then somehow became attached to speech, yet still remained pictures. So written characters that resemble something in the world, like Egyptian hieroglyphs, are called pictograms, as if the sign stands for what they picture and not for elements of human speech or sounds of speech. We do find representations of recognizable objects in early writing, but these "pictures" can fulfill a wide range of functions. Even when such designs appear to stand for the object represented, really they stand for the word attached to the object; that is, they refer to elements of speech, and not directly to items found in the world. "Pictures" can fulfill other functions, for example, place the thing described in a category. When wishing to speak of the representational aspects of some writings, we can call these aspects "iconic". A similar situation pertains to the word "ideogram," often used, for example, of Chinese characters or of a class of signs in Cretan Linear B. Ideogram should mean "idea-writing," that is, the graphic symbolization of an "idea," a Platonic, invisible, eternal, unspoken reality. At one time scholars thought that Egyptian hieroglyphs were just that. But Chinese characters never represent eternal, unspoken realities, and neither do Linear B characters. Probably "ideograms" do not exist, so it makes little sense to talk about them. The deep problems surrounding the word "alphabet" will be the subject of a good part of this book.
-
-Writing, Language, Speech
-Writing is old, but writing attached to speech, which I will call lexigraphic writing, goes back only to around 3400 bc, as far as we know. That is a
-
-4
-
-Introduction: A Difficult Topic
-
-rough date, as are all dates in the fourth millennium, but one we can nonetheless work with. Immense changes have taken place in the art of lexigraphic writing since that time, as one will quickly discover if setting out to learn Akkadian cuneiform. Yet such changes rarely result from evolution, except in writing's earliest stages, and were never inevitable. They came about through the accidents of history and the intercession of individual men of genius working across racial and linguistic bounds, when fresh approaches were possible. There is no certain direction that a writing must take. Because writing systems are arbitrary and conventional they do not respond to nature (whose rules of behavior are not arbitrary and not conventional), but to the inventiveness of unknown creators, who had a purpose too often hidden from us. So improbable is it that anyone should devise a means of encoding elements of speech by means of graphic symbols that in the Old World lexigraphic writing was invented only once, in Mesopotamia, and perhaps a second time, much later, in China. But even in China the idea of "writing" must have come from Mesopotamia over the Gansu corridor north of the Himalayas, where caravan traffic was constant. China was never wholly separated from cultural developments in Mesopotamia. A separate invention did take place in Mesoamerica, providing a test case for principles distilled from the study of Near Eastern writing. We will spend one chapter on writing not attached to speech, which I call semasiography (after I. J. Gelb), but most of this book is about lexigraphic writing. Because such writing is attached to speech, we need a clear description of what we mean by speech. Unfortunately scholars often use "language" when really they mean "speech," as if they were the same thing. "Language" is a formal system of differences and by no means restricted to vocal utterances. In the language of speech, the spoken word "water" is not the spoken word "ice" because they have different forms, to which we attach different meanings. In the language of writing, Egyptian is not
-
-, though, both transliterate as sny: the one means "two" and the other means "companion." Different meanings accompany different forms. Similarly, in the language of writing [$] means something different from [%] because they have different forms to which we assign different significations. These signs belong to the language of writing, and they refer to words, though they do not have phonetic value.
-
-Introduction: A Difficult Topic
-
-5
-
-The broad category of "language" will also include Morse Code, semaphore, and American sign language, which may refer to speech, but can never be confused with it. Such forms of language as Unicode or mathematical notation do not refer to speech at all. In the study of writing we speak of the "underlying language" essential to deciphering an unknown script, so that we easily forget that writing is itself a kind of language. The confusion between "writing" and "language" is profound, ubiquitous, and disruptive, so that in a popular view Chinese "language" is the same as Chinese "writing," a confusion that turns out, oddly, to be true once we understand how little Chinese writing has to do with Chinese speech. Lexigraphic writing is based in speech, yes, but because we know of ancient speech only through written documents, it is easy to think that we are talking about "language" or "speech" when really we are talking about graphic representations that make use of spoken lexical elements, which may constitute in themselves a kind of language, but by no means intend to preserve actual speech. The intention is to communicate information, and for this purpose a graphic system with systematic phonetic ties to speech is a tool of earth-shaking power. It is not, however, a tool for the preservation of ancient speech. For this reason the Sumerian speech was of use to nonSumerian Semitic scribes, because the relationships between graphic symbols and symbols originating in speech had been established by ancient usage. Just so, it was logical and practical for medieval Europeans to use Latin as a basic system for understanding across the polyglot confusion of mutually unintelligible local dialects and languages. Sumerian written in cuneiform ("wedge-shaped") writing was a traditional system of signs for communicating information whether you were Sumerian or not, and as such worked well. For the same reason, during the dominance of Assyria over the Near East during the ninth to seventh centuries bc and of Persia in the sixth to fifth centuries bc, the West Semitic Aramaic script encoding lexical forms from the "Aramaic language" was used by nonAramaicspeaking scribes over an area stretching from the Mediterranean to northwest India. For example, in Figure 0.1, from the palace at Nineveh of Tiglath Pileser III (ruled 745­727 bc), one of the most successful commanders who ever lived, a beardless eunuch on the left calls out a list of booty while the presumably Assyrian-speaking eunuch in the middle records the inventory in the contemporary Assyrian dialect by impressing cuneiform characters with a stylus into a waxed wood tablet. The presumably Assyrian-speaking
-
-6
-
-Introduction: A Difficult Topic
-
-Figure 0.1 Relief of bilingual scribes, from the palace of Tiglath Pileser III at Nineveh (in modern Iraq), c.740 bc. (London, British Museum BM118882.)
-
-eunuch scribe on the right makes a duplicate record (to prevent cheating?) by writing on a roll of papyrus or leather, certainly West Semitic Aramaic characters tied to Aramaic speech. The difference in writing medium, part of any writing tradition, accompanies a difference in script and "underlying language." Lexigraphic writing may refer to elements of speech, but in real speech we find extraordinary local and social differences, so great among English speakers that TV interviews in a regional English are often given subtitles for the greater English-speaking audience; that is, by means of alphabetic writing the speech is reduced to a standard form. Even in the same town speakers may not understand one another across differences in class and social background, although they "speak the same language." In my own experience, once, in Alexandria, Egypt, my middle-class guide was unable to communicate with a street sweeper who may have known the location of our hotel, yet both spoke "Arabic." Only writing, and especially alphabetic writing supported by political power and social prestige, creates the illusion that a "language" such as English
-
-Introduction: A Difficult Topic
-
-7
-
-is a single thing, out there, bounded, defined, and capable of discovery. Writing's overarching power stabilizes speech, represses local differences, and fashions standards for thought and expression. Dante's Florentine dialect was one of hundreds of local Italic vernaculars descended from Latin, but his written Commedia in a fourteenth-century Florentine dialect created "the Italian language." Many books speak of the Phoenician, Hebrew, Moabite, Aramaic, and Syriac "languages" when, really, they are looking at small variations in the forms of West Semitic writing applied over a broad geographical area to a single speech-family that we might loosely call "Semitic," with local differences based on a similar phonology (a selection of voice sounds) and a similar inner structure. For example, in Hebrew the word for son is bn and in Aramaic it is br, but in Cambridge, Massachusetts, spirits to drink are /lika/ and in Seattle they are /likor/. Still, spoken communication takes place. The imperative "carry!" is qabur in the Hebrew "language," qabor in Syriac, 'uqbur in Arabic and qabar in Ethiopic, but all are mildly different expressions from a single underlying system. The great family of Semitic languages has very many regional variations, and we are simply never sure when a dialect has slipped over into a new "language," that is, when a speaker within one system can no longer understand a speaker from another system. But twenty years of study of the holy Quran, certainly written in Arabic, will not enable the student to converse, even about simple things, with an inhabitant of Fez, Cairo, or Damascus, where everyone speaks "Arabic." The confusion is clear in Figure 0.2, a type of chart that appears in many books on writing. The chart catalogues the transformations undergone by the West Semitic signary (in which a hypothetical but wholly unproven priority is given to Phoenician script). Such graphic variations are taken as designating the different languages of "Phoenician," "Moabite," various forms of "Aramaic," and "Hebrew." But such different "languages" are as close to one another as Quranic Arabic is to spoken Arabic in its myriad and often mutually unintelligible varieties. It is true that, schooled in the Phoenician script of 1000 bc, one will have a hard time reading "Palmyrene Aramaic" of the third century ad, the script and language used in the caravan city of Palmyra in the Syrian desert, but these are nonetheless the same script with formal differences growing over more than one thousand years. The underlying "language" has remained the same. Such charts are really a study in handwriting, or paleography, with limited importance for understanding the theory and history of writing, and they do not describe an evolution of "language."
-
-8
-
-Introduction: A Difficult Topic
-
-Monumental Nabataean Aramaic
-
-Palmyrene Aramaic
-
-Hebrew Ostraca (sixth century BC)
-
-Early Phoenician
-
-' b g d h w z h . t . y k l m n s ` p s . q r s t ^
-
-Figure 0.2 Various character forms for West Semitic writing, from c.1000 bc to modern times. (After Healey, 1987, fig. 15, p. 223.)
-
-In sum, the ambiguous correspondence of language and speech afflicts all such studies as this one, because speech, sometimes called "spoken language," certainly is a language, but not all language is speech. We will need constantly to speak of the "language" underlying systems of writing,
-
-"Square" Jewish/ Hebrew Printed
-
-Early Aramaic
-
-Late Aramaic Papyri
-
-Moabite
-
-Introduction: A Difficult Topic
-
-9
-
-even if we really mean "speech." In this case by "language" we refer to a system of phonic symbols intelligible to speaker and listener, more or less, over a wide range of variation. However, that system of phonic symbols could never itself be the "language" of the lexigraphic writing, because lexigraphic writing is its own language, making use of the resources of speech but never identical with it. "To speak a language" means something ­ if you speak Greek, you may enter the Mysteries at Eleusis; if you don't, you can't. Nonetheless, language, speech, and lexigraphic writing are all tangled up and, once we acknowledge their boundaries and differences, we must to some extent live with the confusion.
-
-Transliterations
-In the case of writing that is related to speech we must constantly deal with reconstructions of the sounds of speech encoded in the writing. In talking about the forms of characters and the sounds of speech I will follow the conventional practice of using brackets [ ] to enclose a given form or shape, how something looks, how it is written, and slashes / / to indicate the sound. For example, in Egyptian hieroglyphs the sign [ ] represents the sound /m/ (plus an implied vowel). Unfortunately, each discipline has its own system, or more than one, for transcribing sounds, which originated in the history of the discipline. Such systems, internal to a discipline, are not themselves consistent, but may differ in England and Germany and even in the same place. For example, the Egyptian character for /y/ is written sometimes as [è] and sometimes as [j]. The situation is worse between disciplines. The glottal stop, when the throat closes as before and between "uh-oh," is represented as ['] in transliterations from West Semitic, but as [Ç] by Egyptologists, although the sound is the same. Ideally, everyone might use the admirable International Phonetic Alphabet (IPA) as a means to suggest the sound values in systems of writing (see Fig. 14.3), and sometimes you do find this. However, few readers without formal training in linguistics understand the symbols of the IPA, the use of which can become a kind of game of phonetic precision that misrepresents the enormous phonetic ambiguity in all writing systems. Furthermore, the IPA is not easy to learn or to understand.
-
-10
-
-Introduction: A Difficult Topic
-
-The problem of consistency in transliteration is not solvable, and in this book I have chosen, as much as possible, to use systems of transliteration traditional within a discipline, explaining myself as I go, but cautioning the reader about the need for flexibility and attention to sometimes subtle distinctions.
-
-1
-
-What Is Writing?
-
-Writing, writing, it is everywhere, yet few have much to say about it, few know about it. Writing is an inherently difficult topic because discussion of it takes place by means of the very medium being discussed. As fish who know nothing of water, scholars who spend their lives studying different traditions of literature, and of writing, rarely reflect on the actual technology that makes their study possible: how it works, where it came from, and what relation it bears to other formal systems of thought. Writing is magical, mysterious, aggressive, dangerous, not to be trifled with. Although it takes many forms, it is always a technology of explosive force, a cultural artifact based not in nature (whose rules we did not create) but sprung from the human mind. Human groups who possess writing triumph over those who do not, without exception and swiftly. If humans had existed a year, writing was invented not even yesterday, but some time this afternoon, as far as we know. Writing cast a veil across the human past, separating the million human years that came before from the turbulent last five thousand years. In the brief period since the discovery in Sumer around 3400 bc of the phonetic principle in graphic representation ­ when conventional markings first represented sounds of the human voice ­ the cultures encoded in this and subsequent related traditions of writing have changed human life forever. Writing is the most important technology in the history of the human species, except how to make a fire. Writing is the lens through which literate peoples see the world, feel the world, hate the world, love the world, defy the world, and imagine change. What is writing that, like the lens you never see, creates the world? The difficult topic is muddled and mixed up with other things that have their own life ­ religion, artistic expression, speech, and human thought.
-
-12
-
-What Is Writing?
-
-The Magic, Romance, and Danger of Writing
-The holy Quran, encoded in the holy, even divine, script that the prophet himself used, is a sacred document that can never be changed or corrected or amended or mutilated or abused or transliterated into Roman characters: That would be an offense to God and punishable by death. Thus a book can be a fetish, as when one swears when placing a hand on a Bible or Quran: If the swearer is foresworn, he will suffer evil consequences. The text of the sacred Quran justifies mass murder, according to some interpretations, but you can never be sure because of the surprising obscurity of the wholly phonetic Arabic script, its distance from speech. What does it really say? The Jewish religion similarly depends on written documents in whose holy, magical, emotive symbols cabbalists discover secrets of the universe. Fortunately, the rabbi ("my master") can explicate textual obscurities to the ignorant, the less learned, as do the wise mullahs to the faithful. Ancient Egyptian civilization, too, was bound to the forms and expectations of hieroglyphic writing to an extraordinary degree. The conventions of hieroglyphic writing influenced the posture of statues and the shapes and layout of temples, and, in the revelator Akhenaten's sacred city of Akhetaten ("Horizon of the Aten," near the modern village of Amarna), the design of the whole city described the form of the hieroglyph for "horizon," over which the sun god daily rose. Egyptian writing could also make one live forever, a signal advantage. Mao Zedong (1893 ­1976), who pretended to hate the past, hoped to replace the obscurantist Chinese system of writing with an alphabet, but even his unlimited power could not accomplish the change. To change the writing would change the sacred ancient culture that the Chinese adore, which the mysterious and beautiful writing encodes. By changing the writing, one loses everything. That was precisely the intention of Kemal Atatürk when, in the 1920s, he outlawed the traditional Arabic script and ordered that Roman script now encode the Turkish language ­ thus did he break with the corrupt and ruinous past of the Ottoman sultans. Jesus wrote in the sand (John 8), but in stark wisdom left nothing behind for followers to kill themselves over. They found other reasons. He must have understood how writing, and writings, can lead to fanaticism, social division, oppression, and the tyranny of the mad and the intolerant over the common man. So great is the power of writing. We would like to know why writing has such exaggerated effects on human life and where it gets its power. The common definition of civilization as
-
-What Is Writing?
-
-13
-
-"human life in cities in the presence of writing" may be a historical judgment, but it is also a speculation on the superiority of a cultural practice that symbolizes human thought and carries it beyond the place and time of its origin. Writing enjoys intimate affection with the human faculty to create symbols, when one thing stands for another. Without this faculty, we would not be human. The relationship between the sounds of human speech and graphic material symbols that represent such sounds in lexigraphic writing is a central problem.
-
-A Definition of Writing
-Writing is hard to see because it governs our thoughts, and hard to talk about because of the lack of consistent names for real categories. We know that writing is there to be read, but are not sure what we mean by "writing," so that it is fashionable in criticism to "read" works of art or to "read" Greek culture or manners of dress or almost anything, as if in understanding a work of art or a building or a social practice we are doing the same thing as when we read a text. Writing has been defined time and again, always in different ways, but let us say that writing is a system of markings with a conventional reference that communicates information, like the signs on this page. Where does such a definition take us? Because writing is made up of markings it is material (not spiritual or emotional or mental). The meaning of such markings, their conventional reference, we might say their intellectual dimension, never comes from nature, as does the human faculty for symbolization and speech, nor from God (as many have believed), but from man. The elements of writing, the markings, are related in an organized way, in a conventional way, in order to tell the reader something, to communicate with the reader. Where there is writing there is a reader who understands the system of conventions, even if the reader is God or a god (as often).
-
-Change and Evolution in Systems of Writing
-General principles appear to govern how any writing can work, as they appear to underlie the formation of speech. The possibilities of organization are limited and in some way predetermined. Hence, the history of writing is
-
-14
-
-What Is Writing?
-
-a history of the discovery of these principles, drawn in intelligible patterns. Because systems of writing are conventional and exist by agreement rather than coming from nature or God, there is no right or wrong to how a system imparts its meanings. Systems of writing serve different purposes for different peoples at different times. It is wrong to imagine that the Bronze Age Mycenaean Greeks would have been better off with the later Greek alphabet or with Chinese writing or anything else. Linear B did what it was called to do, to keep economic accounts in a palace-centered redistributive economy, and no one required more. Nonetheless, because the history of writing is a history of discovery, we are tempted to compare writing systems as if they were in a competition for greatness and to say, for example, that the Greek alphabet is superior to Japanese writing, so complex that less than a dozen non-Japanese in the United States of America could read it when the Imperial Japanese Navy struck on December 7, 1941. Within the historical competition between human groups and the struggle for political and cultural dominion such comparisons are probably justified and fairly belong to an evaluation of the past. The Greek alphabet in its Roman form has in three thousand years become the dominant writing system by far, whereas Japanese writing remains confined to a small archipelago. Apologists for scripts unrelated to the Greek alphabet like to point out that it was not so much the Roman script as Western political power behind the script that brought the alphabet's hegemony, as if the script did not itself make possible (though not inevitable) such power. Because among the users of any writing the system will satisfy the needs placed upon it, we cannot expect to find improvement or radical change within a developed lexigraphic writing system except in its earliest stages of formation. Both Sumerian cuneiform and Egyptian hieroglyphs appear to undergo evolution in the several hundred years between the first clear evidence of phoneticization, c.3400­3200 bc, and the creation of texts that reflect grammar and syntax, c.2700 bc; hundreds of years more must pass before we find extended texts. We must, of course, depend on evidence from haphazard finds. In the Eastern civilizations of the ancient world, it was not so much that the scribes who developed the first complex lexigraphic systems served the power elite as that they themselves were that elite; once their systems were in place, they could hardly have imagined, let alone desired, developments that would simplify their systems and undermine their power, or even make them irrelevant in the scheme of things. The Egyptian schoolbook taught that one should
-
-What Is Writing?
-Be a scribe! . . . You are one who sits grandly in your house; your servants answer speedily; beer is poured copiously; all who see you rejoice in good cheer. Happy is the heart of him who writes; he is young each day. from Papyrus Lansing, c.1000 bc, a schoolbook (Lichtheim 1976: 173­74)
-
-15
-
-Yes, for
-The scribe, whatever his place at the Residence [pharaoh's court], he cannot be poor in it. from Satire on the Trades (or Instructions of Dua-Khety), c.1800 bc
-
-The scribe is wealthy and content and always in the ancient world male (but some women, especially in Rome, could read and write). Change within developed systems of writing, where it is found, is a kind of tinkering, and then, ordinarily, toward greater complexity and obscurity, more of the scribal art. Egyptian hieroglyphics managed with about 700 signs for most of its history, but, in a quirky development of the self-conscious Ptolemaic period (323 ­30 bc), increased its repertory to 5,000 signs. Attempts to "improve" a system of writing threaten the conventional basis by which it exists and diminish its intelligibility so that everything worsens. For example, many have complained about the famously inept ­ that is, nonphonetic ­ English or French spellings. The American Philological Association was founded in 1869 to study the world's languages; it boldly encouraged spelling reforms much in the air in the late nineteenth century by publishing its proceedings in a reformed spelling. Today, they can scarcely be read. When Mao Zedong found he could not impose the Roman script, in the interests of the people he simplified the bizarrely intricate Chinese writing by omitting strokes from many characters to improve readability. He thereby rendered Chinese writing unintelligible to Chinese living in Taiwan, San Francisco, and Southeast Asia, whose traditional Chinese characters are now unreadable on the mainland. Major changes in the structure of writing systems took place when the idea of writing passed from one people to another, always foreign people. Not bound by sacred tradition and the interests of a social class and intellectual elite, illiterate foreigners could make important changes. In the changes
-
-16
-
-What Is Writing?
-
-made in this way we can speak of the evolution of writing, of a process proceeding from less able to more able systems of writing.
-
-Writing Is Material
-Because writing has a material basis it can be created and destroyed, as bookburners throughout history understand. In the ancient Near East the origin of this life-transforming technology seems to be connected in some way with the use of material objets, abstract "counters" or tokens made of clay that represented commodities, according to a famous argument by Denise Schmandt-Besserat. One carried such material, tangible things in a pouch or on a string around the neck or dropped them accidentally on the ground or exchanged them during a transaction or wrapped them up in a hollow ball of clay, to preserve details of a commercial transaction. After five thousand years of such token use in the Near East, between c.8000 and c.3000 bc, the abstract shapes of some portable material tokens seem to have become characters in the first lexigraphic writing (see Chapter 3). Even such obsolete systems of communication based on writing as semaphore require material flags moving in someone's hands. Morse code seems immaterial. Consisting of an ON/OFF digital mode, it is the only digital-modulation mode that humans can understand without a computer. Nonetheless, messages transmitted by Morse code are directly transferred into written documents. As a property protected by law, writing in cyberspace is in an awkward position, because the relationship of cyberspace to the material world is not clear, and we are unsure how laws of copyright apply to a medium you cannot control. The power of hardcopy, whose doom many predicted, remains strong in comparison to electronic documents because the tangible hardcopy is not endlessly permutable and easy to lose. Contracts, wills, and certificates of marriage, anything having to do with money, remain in hardcopy. Even as pixels on a computer screen, even when floating in cyberspace, writing retains its material basis.
-
-Speech and Writing
-In seeking a definition of writing, scholars sometimes take account of writing's materiality but nonetheless emphasize writing as a secondary
-
-What Is Writing?
-
-17
-
-representation of the primary speech. The influential L. Bloomfield, in a book called Language (1933), wrote that "writing is not language, but merely a way of recording language by means of visible marks" (Bloomfield 1933: 21). By "language" he must mean "speech," which writing obviously is not. But is not writing really a language in its own right? The distinguished Mayanist Michael Coe, writing on progress in the decipherment of Maya glyphs, notes that "writing is speech put in visible form in such a way that any reader instructed in its conventions can reconstruct the vocal message. All linguists are agreed on this, and have been for a long time" (Coe 1992: 13, my italics). Coe agrees with Bloomfield, but sees that language and speech are different things. By having "visible form" writing must be material, but "vocal message" nonetheless lies at the heart of the definition. A. Parpola, the distinguished scholar of the Indus Valley writing, calls writing "a visual communication system based on the representation of spoken language by conventional marks of some durability" (Parpola 1994: 29). Is Braille a "visible communication system"? Certainly it is writing. Parpola's "durability" implies materiality, but still writing represents "spoken language." The great Assyriologist and historian of writing I. J. Gelb thought along similar lines, declaring that "writing is written language . . . I agree entirely with the linguists who believe that fully developed writing became a device for expressing linguistic elements by means of visible marks" (Gelb 1963: 13). Because in Gelb's view the phonographic element, "a device for expressing linguistic elements," is the essence of "fully developed writing," or "full writing," the Greek alphabet, beyond which the art of writing has not progressed, came at the apex of a long development. The Greek alphabet is even the telos, the immanent goal, toward which "writing" has always striven, because in the Greek alphabet the phonographic element is overriding. P. L. Daniels, in his and P. T. Bright's useful book The World's Writing Systems, thinks that "writing is defined as a system of more or less permanent marks used to represent an utterance in such a way that it can be recovered more or less exactly without the intervention of the utterer" (Daniels and Bright 1996: 3, original italics). By this definition he agrees that writing is bound up with speech (an utterance) and, in company with other scholars, excludes from "writing" communication by means of symbols or representations not couched in a specific linguistic form. However, in his insistence on recovering an utterance "more or less exactly" Daniels's surprising formulation would exclude all forms of writing up to the Greek alphabet, and even, strictly speaking, the Greek alphabet itself, because
-
-18
-
-What Is Writing?
-
-no writing before or including it permitted the recovery of an original utterance "more or less exactly." When such recovery took place in actual usage it did so on the basis of a shared language between writer and reader and shared expectations based on the context of the message, not on the basis of the phonetic and semantic information encoded in the script. Such understandings of writing as being a secondary representation of the primary speech are always re-expressions of F. Saussure's famous dictum: "A language and its written form constitutes two separate systems of signs. The sole reason for the existence of the latter is to represent the former" (Saussure [1922] 1983: 24). Saussure only echoed Aristotle's formulation: "Spoken words are the symbols of mental experience and written words are the symbols of spoken words" (Aristotle, de Interpretatione 1.1). First comes "language," then comes its "written form," which depends on "language." Yet in its dependence on a material basis, writing is fundamentally unlike speech, which is never tangible. The relationship between written form and speech is more complicated than such commentators believe. Writing is a technology with a material basis, while speech is never a technology and never material but an essentially human aptitude. If dolphins could speak, they would be humans with an odd-shaped nose. In our own definition that writing is a system of markings with a conventional reference that communicates information, we do not refer to speech, language, or utterance. In the definitions of commentators quoted above, the words "speech" and "language" are treated interchangeably and in the clumsy way we complained about earlier. How writing functions will depend on the innate faculty of humans to communicate by means of symbols. A language is any system of symbols that serves this innate faculty to communicate through symbols: speech is one such system of symbols, writing is another (see diagram opposite title page).
-
-
