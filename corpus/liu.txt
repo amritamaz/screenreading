@@ -1,0 +1,546 @@
+CRITICAL TERMS FOR MEDIA· STUDIES.
+Edited by and
+W. J . T . M I T CH E L L MARK B · N · HAN S EN
+
+THE UNIVERSITY OF CHICAGO PRESS
+
+ChicagoandLondon.
+
+.
+
+.
+
+'l'htt University of Chicago Press, Chicago 6o637 'l1htl Univeraity of Chicago Press, Ltd., London (I!) :1010 by The University of Chicago
+
+All rlght!lo reserved. Published 2010
+Printed In the United States of America
+18 17 16 15 14 13 12 11 10
+
+1 2 3 4 5
+
+ISDN·13: 978-o-226-53254-7 (doth)
+UIDN·10: 0·226-53254-2 (doth)
+
+IIJDN·:L3! 978-o-226-53255-4 (paper) ISBN·:LO! 0-226-53255-0 (paper)
+
+Library of Congress Cataloging-in-Publication Data
+
+Critical tenfis for media studies I edited by W. J. T. Mitchell and Mark
+Hansen.
+
+p. em. Includes index. ISBN-13: 978-o-226-53254-7 (doth·: alk. ·paper) ·. ISBN·:LO: o-226-53254-2 (doth: alk. paper) ISBN·13: 978-o-226-s3255-4 (pbk. : alk. paper) liBN·:J.o: o-226-53255-o (pbk. : alk. paper) Ljt<1ratureand tedmology. 2. Art and technology. 3· Technology4· Digital media. 5· Mass media. 6. Image (Philosophy). J. T. (William John Thomas), 1942- IT. Hansen,
+Ma~ckBori·· N>cola),1965-
+
+the minimum requirements of
+
+,....
+
+Contents
+Introduction · W. J. T. Mitchell and Mark B. N. Hansen vii
+AU'I'tiUT!CS
+
+l Art · Johanna Drucker
+
+3
+19
+
+I Body · Bernadette Wegenstein
+
+I Image · W. J. T. Mitchell 35 4 Materialij:y · Bill Brown 49
+Memory · Bernard Stiegler, with an introduction by Mark B. N. Hansen
+.i l>'. . c . ,,·
+
+64
+
+Caroline Jones 88 '" ~1m.e anCI Space · W. J. T. Mitchell and Mark B. N. Hansen 101
+. ,.··· ·
+
+J. T. Mitchell and Mark
+
+ilorne·:liil' · Eugene Thacker
+
+117
+
+j,mlmllni·cation · Bruce Clarke 131
+
+¥bjlrnetl·:s · N. Katherine Hayles
+llfcmrtatlion · Bruce Clarke 157
+
+145
+
+ogy. 3· Tec~ology age (Philosophy). z- II. Hansen,
+
+Media · Mark B. N. Hansen 172 ... Hardware/Software/Wetware · Geoffrey Winthrop-Young 186 · : , 'l'eehnology · John Johnston .199
+
+II Bxchange · David Graeber
+2009030841
+tm requirements of
+~nces-Permanen~e
+
+217
+
+l8 Language · Cary Wolfe
+
+233
+
+1'1
+992.
+
+Law · Peter Goodrich 249
+
+18 Mass Media · John Durham Peters 266 Ill Networks · Alexander R. Galloway 280 10 Systems · David Wellbery 297
+
+111 Writing · Lydia H. Liu
+Contributors 327 Index 331 ·
+J
+
+310
+
+21
+
+WRITING
+
+A bone, a pebble, and a ramskin ... Thus an inventory ofprimc>rdlaj, jects that James Joyce evokes in his novel Finnegans Wake to dis:tirlgu writing from other media. The setting forth of writing in this draws our attention to the stark muteness of three-dimensional or ~a-dimensional surfaces which all inscriptions begin and This insight is worth pondering 1"sofar as it permits us to reckon the biomechanics of writing as a, technology. But is writing not a tern of representation like other visual and verbal codes? Yes, no doubt about it, and we will address the symbolic function ofwr:iti in__,due course. As we. launch int9 the subject, it is iinportimt to in mind that first and
+
+d\
+
+to" microchips. writing involves at least paring material. surfaces on which signs are to of coordinating the human motor skills (or prosthetic robot arms) quired to make the inscription.· In the age of informatics and c:on1p11ter' technology, writing increasingly penetrates the biomechanics of human llj?eech to the extent that sound, including speech, is n 0w being turned ipto an artifact, ·a notable exan1ple being texHo-speech (TTS) synthe,, ~j.$·~4lte colossal amount of written and printed record and electronic inQpnap.on stored in data banks, libraries, museums, archival centers, and u(:onlmunication networks further indicates how much the techpf writing and print·have evolved to shape modem life and the if.~lurnaJrtity,with major inlplica~ons for our planetary and inter-
+
+unthinkable without writing.' This'tomm0n observareevaluation of the concept of civilization itself (and tli!~S l>eyond the scope of this essay.4 Insomuch as the pf}f)'ritingis always evoked, explicitly or implicitly,
+
+as a positive index in the ranking of human societies and their intellec-
+
+tual attributes, we need to come to a basic understanding of what writing is and what it does and ask why the stakes are generally very high in
+LYDIA H. LIU
+
+discourses on this subject. 5 In this essay, we identify and discuss six key :registers concerning writing and consider their implications for unde!standing politics, technology, histoqr and socjoeconomic organizatio~:
+
+(1) How much do we know about the origins of writing? Is the question
+of origin inevitable and important? (2) In what sense is literacy central to political governance and imperial projects, past and present? What kinds
+of sodal, territorial, and political control are exercised on a population by
+
+'
+
+I
+
+ory of primordial obIS Wake to distinguish
+Titing in this manner
+
+'e-dimensional tokens .ptions begin and end.
+.mits us to reckon with ut is l"Vfiting not a sys-
+
+rbal codes? Yes, there is bolic function of writing It is important to keep it
+· and foremost as a tech- · · ations, empires, long-
+
+pzation possible. From day '' It a twofold process of pre· )defa:e to be inscrmed and . prosthetic robot arms) re·
+·,>···.}flnformatics and computer
+
+·ithe biomechanics of human
+:; speech, is now being tamed ,text-to-speech (TTS) synthe.
+inted record and electronic 1
+
+,kiting.' This common .i concept of civilization its·elf(an il'" of this essay. 4 Insomuch as ys evoked, explicitly or implic:it
+
+the ruling class, the state, or empire through writing? (3) By what script and visual medium is writing to be known or knowable? How do alphabetical and nonalphabetical writing, on the one hand, and mathematical and cryptographic symbols, on the other; compare in the context of a broader semiotic conception of the visual/verbal/ spatial production of meaning? (4) How did writing evolve from antiquity to the invention of print and mass media? This bears upon the technological dimensions of writin'g that open the dialectic of orality and literacy to fortlier inquiry in . light of mechanical (re)production$ of the audiovisual sensorial contioc uum. (s) Is writing a visual represe*tation of speech? This familiar issue brings a "itumber of different positidJ:!S into play, including structural linguistics, metaphysics, and grammatology; our discussion will highlight the relevance of these positions to some of the other registers treated in this essay. (6) Finally, in what ways does digital media transformthe idea of alphabeticil writing to take us where we are, or into what media theorist Marshall McLuhan termed global village"? The past century has Witnessed spectacular archaeological discoveries that makeit easier than ever for scholars to map out the writing systems of the world and hypothesize their origin~. Whereas the iconographic origin of writing is widely observed across civilizations, scholars disagree . as to how one might interpret ancient iconic signs, such as petroglyphs or Amerindian pictographs, as instances of writing. The beginnings of Mesopotamian writing, or proto-cuneiform, are commonly dated to the end of the fourth millennium BCE, the first consonantai alphabet in , Phoenida to 1200 BCE, and the adoption of alphabets in Greece to 750 BCE.6 Direct archaeological evidence suggests that a we:Jl-cie,·ei<lpe:d torr~. of Chinese writing already existed in the last quarter of the second lennium BCE.7 The evidence brought to ~ght thus far has given good reason to believe that the earliest scripts were invented in· different parts of the four maracterized by urbanization, and a Mesopotamia, Egypt, China, and Mesqamerica,
+
+"a
+
+,,
+
+0
+
+cation by means of conventional visible marks," sees iconic signs precursor to full writing systems and terms such signs "s,,m,>si<)gral Florian that a major shift took
+
+on however, rule out the consideration of graphic movement or a "syntactic" standing of graphism.) The widespread use of the rebus principle in logographic developments would have corresponded to this coJlCe:pt~ shift. 10 In general, scholars who are keen on developing a general of writing on the basis of linguistic theory have tended to downplay importance of iconicity and to treat non-language-related im;taJOCE!B c graphism as nonwriting.11 The majority of them insist that, regardless scripts, all full writing systems (broadly classified as alphabetic, sylla~~ logographic, or phonographic), must meet the criterion of adE!quate netic representati'on oflanguage. 12 Is this view of writing defensible the standpoint of media and semiotic considerations? Since ou:riuomedl ate focus here is media and writing rather than phonetic symbolism rowly conceived, it behooves us to open the issue to broad social beyond the horizons of linguistic representation. The issu:eofphonoc<en l(risrn is" something we will deal with later, but suffice it to rnentio;, the anxieties role the West
+
+,./J
+
+312 · LYDIA H. LIU
+
+ystem of human intercommun i sees iconic signs as tf1<· .ms such signs "semasiograph.s_''li :onceptual shift took place wh('ll 1egan to be differentiat~~: from .1 name of the object-' (Coulma:;':; 1properties, however, appears 111 tovement or a "syntactic" undf'l use of the rebus principle in ear! y corresponded to this conceptlloll 1 on developing a general conn·1H ory have tended to downplay ! he 1n-language-related instances (d. of them insist that, regardless 11! 'classified as alphabetic, syllabi< 1 c.---· eet the criterion of adequate pho is view of writing defensible from Jnsiderations? Since our immedt~ ,efthah phonetic symbolism' tlftf· n the issue to broad social viatu
+~marks,"
+~
+
+generation to another, writing was highly esteemed in Its nesh, the elephant-faced god of wisdom, was credited wlt:h tion of writing and is said to have broken off one of his tusks a pencil. 15 These legends bear witness to the magical power of writing and thw upheavals caused by its introduction into societies previously domt..· nated by oral communication, but they tell us little about how and why writing emerged. Since no direct means exist that will give us firsthand knowledge about prehistoric langoage and the origin of writing, scholars have speculated on the basis of available evidence or by analogy with so-called primitive or preliterate societies in the present day. Of the multifarious theories they have advanced, Andre Leroi-Gourhan's paleontology of writing ,offers some of the most interesting theoretical specula-tions to date. In his hook Gesture and Speech, Leroi-Gourha.n examines the evidence of excavated fossil anthropoids preceding Homo sapiens to gather clues about their tool-making and symbol"making activities. Dating what he calls "~birth of graphism" among the late Palaeoanthropians to roughly 35,000 BC!j, he notes neurological linkages between the ·-hand/tools an~e/laz.""lguage, as well as their simultaneous participation in the construction of communication symbols:
+Humans, though they started out with the same_formula as primateS, can make tools as well as symbols, both of which derive from the same process or, rather, draw upon the same basic equipment in the brain . ... As soon as there are prehistoric tOols, there is a possibility of a prehistoric language, for tools and language are neurologically linked and cannot be dissociated within the social structure of mankind. (>993, U3)
+
+.f--"-
+
+'1; of writing is necessarily " logical evidence and by '.hinges on the existence how and why writtins ilizations appear to
+
+·Lerol-Gourhan believes that graphism and langoage have never been mutually exclusive, just as gesture has always paralleled speech in the development of mind and language. This insight appears ta anticipate the notion of arche-writing (arche-l'ecriture) that Derrida would develop later, which c.;;;_tests the predbminant view that writing is a secondary · symbolic system vis-a-vis speech.'6 More importantly, Lerpi-Gourhan's ~phasis on the mutual embeddedness of human labor and symbol of"the w.e must pose is, Were the prehis:-. . con<Jitions of labor, symbol making, and social organization that ?n1:rilmt:edto the evolution of humans and their civilizations (see chap, "Memory")? To this question no one has a definitive answer, angles provided by the question itself may guide us tOJI'la,J:d ''""~ ~<·1llllldeJ:s1:im<lin,g <>f observable traces of comparative conditi<).l!l,l
+
+The magical power attributed to writing by the mythological accounts we have observed provides some useful hints as to how theo .. era tic and imperial authorities in ancient Egyptian, Sumerian, Chinese, Mesoamerican, and other ancient civilizations might have exerted con· trol or monopoly over the written sign and written document. Just as literacy is about access to power and upward social mobility in modern society, "\!Vliting in ancient civilizations marked. the social division be..
+
+\.
+
+i£'1 oJiY \~~~
+
+~ 1V ~t? tween those who had access to knowledge and power and those who did '\, ~~C not. The complexity of social organizationsin Egyptian, Babylonian, and \f Chinese civilizations-often associated with record keeping, accumu.. lated wealth, religious power, commerce, law and treaty making, and so on -conferred special prestige upon writing and, by extension, scribes. Priests, who were often scribes, sometimes held a monopoly of know!· edge through which they dominated the organizations of political power. Whe'lHammurabi completed the transition from Sumerian script to Ak· kadian and made the Semitic language official, he claimed that he had re· ceived the laws from the god of justice in order to subordinate the eccle· siastical establishment to civil courts. 17 Insomuch as writing as social practice camiot be separated from re~ ligion, law, politics, and Commerce, it is inextricably associated with the emergence of new spatial/temporal configurations and new forms of geopolitical consciol)sness (see chapter 7, "Time and Space"). If "the city as a form of social. organization is unknown among oral cultures," writing is so much more linked with empire making, because spatial expansion and bureaucratiC Centralization presuPpose efficient ~Ommuni cation across long distances.18 Harold A. Innis sugg~sts that the monarchies of Egypt and Persia, the Roman Empire, and the city-states should be understood as products of writing (Innis i972, 10). In China, writing was the first thing that drew the attention of the first emperor, Qin Shi . .! Huang. of the Qin Dynasty (221-206 BCE), upon his suc~essful imperial cpriquest. The emperor outlawed a multiplicity of scripts that had ex! lilted before his. rule and uftposed a standard script (the squarO-bloclc . Li!&l!racters still in use today), standard orthography (the'minor zhuan, or .'·.~~A).c;c~Ugraphy} and .standard legal codes and bureaucratic procedures, 4!.bng~tb.l!l'\!.fg~m weights .and me'asure, unlfer:q:r cpinage, rmiform imper~:tl~a~~tl;l~;·arid soon,~llin the·service~fcentralized rule; Thus beganzp;\1io*il'fulf:ni\wom"l!lenn,laioliimperial)listorlography in China, an unbrokenlre¢6j@.!ilitqwe1a~g,worldcivi!izations. This deep historiography wouldJ!fav~l6'~j;Uil,'tili~kable:outside of a teXtual tradition supported by success!veclzn.:fll!rial\rule andacstandard written script." . Weights, measures,· and;eu'ri'encypresuppose accurate numerical notation and record keeping, which appear to have played a seminal role
+3J.4 · LYDIA H. LIU
+
+I
+
+i
+
+® · ·········
+5 6 7 8 9 --:....:.:.m..~:~:
+
+0
+
+1
+
+2
+
+3
+
+4
+
+------=
+15 16
+
+==---· ·········
+17 18 19
+
+10
+
+...:.....:.&..sr.:.s:u
+The Mayan vigesimal numerical system consists of three symbols: a dot (one), a dash (five), and a shell (zero).
+
+11
+
+12
+
+13
+
+14
+
+ln the development of ancient writing. The striking predominance of numerical notations-using pebbles, tallies, tokens, and clay containers (bul/ae)-in some of the earliest recorded commerdal transactions, ···. which date back ten thousmd years, has caused some theorists to view mathematics as the earliest precursor to writing.~ Rather than evolvIng, as many suppose, from pictograph to syllabic writing and then to phonetidzation, writing systems could have emerged from a much more complex set of semiotic situations than the single need to record human speech. This conjecture is tangentially supported by the etymology of the Phoenician word spr, to which the English word scribe (and its Latin ro?t and Greek equivalent) can be. traced. The Phoenician word descended ·originally from the verb to count and did not j'cquire the meaning to write untillater.21 This shared ancestry for "inscription" and "counting" sheds Interesting light on the alphabet as an alphanumerical system inaddii tion to being a phonetic tool. In ancient Greek, as in other ahcientwriting systems, the function of the alphabet was already constrained by therequirement of mathematics, because the twenty-four letters of the alphabet plus three additional alphanumeric signs (digamma, koppa, sampi) notated unspoken mathematical concepts based on the enneads of the Egyptian numerical system. In.short, the twenty-seven Greek characters
+were part of a total semiotic universe of writing-a11:d reasoning. that en-
+
+compassed phonetic representation 'but went well beyond it. 22 In ordinary parlance; ~alphabet" is used interchangeably with "script" on the one hand and "writing system" on the other. It is helpful to maintain careful distinctions among these terms to avoid contusion when we discuss writing. For instance, when the Greeks adspted the conventional P_hoenirian Semjtjc consonantal aiM-abet and Cypriote syllabary to their spoken language, what they imported into·Greek was not a writing sysf<which·they created a new writing systeffi: tem b By Coulmas's definition, writing·systems are langnage-spe c w ere scripts typically are not-therehave be!!n faifewer scripts than writing systems .in the world. A script may coiricide with a single writing system,
+
+such as the Korean phonetic script Han'gul, which is used for no other
+
+language, but the opposite is often true. The Devanagari script in India,
+to take an example, is used for a variety of languages, such as Hindi, Ne-
+
+pali, and Marathi. Alternatively, Hindi and Urdu are virtually the same spoken language. but Hindi is written in pevanagari whereas Urdu is written in Perso-Arabic script. 23 The (Chinese) square-block character script has been adopted to create a great variety of writing systems in Asia: Japanese, classical Korean, Vietnamese, among others, including some obsolete ones. The Roman alphabet, in the course of Christian evangelization and modern colonialism, has been adapted to numerous languages in Africa, Asia, and the Americas. For instance, the Wade-Giles system
+
+and, more recently, the Pinyin alphabet (with twenty-one consonants and fifteen vowels/diphthongs)-used to transcribe the phonemes of written Chinese characters for the purpose of standardized translation,
+school pedagogy, and, increasingly in our time, access to global "elec-
+
+tracy" (literacy in electronic media), whiCh is primarily coded in English -are not themselves writing systems but notational scripts based on the Roman alphabet. , From the viewpoint ofbiomechanicmedia, the dissemination of writing has been accompanied by an impressive variety of instruments of
+
+inscriptio~, ranging from bones, shells, clay, bronzes, stone, papyrus,
+parchment, bamboo, silk, wood, brushes, quills, and ink, all the way to the invention of paper, print or typography, and chips for electronic processing. Different mediums have no doubt made their imprints on writing, reading, and bo(>krnaking. Tsuen-Hsuin Tsien suggests that the predominantly do"!!lward strokes of written Chinese characters and the vertical, right to left,· arrangement of lines have to do with the material and tools of writing before the invention of paper in China in 105 CE. The hand holding the writing brush (by a right-handed scribe) was constrained by the grain of bamboo and wood surfaces and by the narrow strips,which allowed only a single line ofcharacters.:' Likewise, Egyptian hieroglyphs, when chiseled on stone monuments, were carefully formed and decorative in shape when compared with writing on papyrus, which peinlitt;ed cursive or hieratic forms to develop and accommodated rapid W:rltirtg (Innis 1972, 16). Papyrus, parchment, and paper each gave rise to . .c·rn·s of manuscript culture that have greatly affected the. forms organization in history." Commenting. on the-Roman Emi_s· :~uE:gests that "the written tradition. dependent on papyrus >ll::sUI>pa·rtE!d an emphasis on centralized bureaucratic admin~lji~re:a~ ]pat:chment as a medium in medieval Europe helped l'ia·mc>hc>poly of knowledge through monasticism. 26 The ¢p·po:lyv,.as greatly wealcened by the introduction of pa-
+
+'lll'"
+
+'gu/, which is used for no other
+The Devanagari script in India,
+
+per and printing from China, which led to the rise of vernacular literatures and nationalism in Europe. 27
+
+of languages, such as Hindi, Nend Urdu are virtually the same ~vanagari whereas Urdu is writ) square-block character scri!Ji: of writing systems in Asia: Japng others, including some obourse of Christian evangeliza-
+
+The spread of Buddhism in China prompted the invention of woodblock printing early in the eighth century. Large-scale productions of printed books and their dissemination across Asia facilitated widespread
+socioeconomic transformations that would eventually sweep across the
+
+lapted to numerous languages tance, the Wade-Giles system
+
+·wiY:t twenty-one consonants
+1
+
+transcribe the phonemes of
+
+' of standardized translation ' time, access to global "elech is primarily coded in Engbut notational scripts based a, the dissemination of write variety of instruments. of
+
+y,
+
+bronzes, stone, papyrus,
+
+rills, and ink, all the way to
+IOd chips for electronic pro~de their imprints on writrsien suggests that the prec lrinese characters and the 've to do with the material paper in China in 105 CE. · t·han:ded scribe) was conrtaces and by the narrow ters. 24 Likewise, Egyptian its, were carefully formed titing on papyrus, which f'ld accommodated rapid ~paper each gave rise to reatly affected the forms ling on the Roman Em,dependent on papyrus ed bureaucratic adminledieval Europe helped gh monasticism. 26 The the introduction of pa-
+
+whole world~ Movable tvJ?e was invented in China in 1041-1048 CE.': Interestingly, besides the printing of Buddhist scripture, this technology was adopted in the printing of the earliest paper currency, within decades of the invention of paper money in China around this time, which suggests that the standardization and serialization of metal type also served the needs for the organization and control of early modem economy in Asia. 29 Following the introduction of paper manufacture to Europe, block prints also began to appear in European cities in the latter part of the fourteenth century as a result of the westward expansion of the Mongol Empire. The adaptability of the alphabet to movable type and large· scale machine industry translated gradually into the rise of universal _Aif·~acy, newspapers, vernacular fiction, advertising, and new forms of .-/ trade and politics. Observing th!' tremendous effects of printing on the transformation of psychic and social life in Europe and elsewhere, Marshall McLnban pointed out in The Gutenberg Galaxy that "the invention of typography confirmed and extended the 11ew visual stress of applied knowledge, providing the first uniformly repeatable commodity, the first assembly-line, and the first mass-production."30 The mechanization of scribal art introduced a new level of "repeatable precision that inspired totally new forms of extending social energies :'31 In English literature, as W.. J. T. Mitchell d,emonstrates in Picture Theory, this typographic imagination gav~ rise to William Blake's innovative poetic idiom and "a visible
+
+language of graphic and typographic signifiers",(1994, 129). Writing and its relation to visuality lie at the heart of a long-standing phil<;\sophical discourse on writing, scripts, language, repres~ntation,' and truth in the West." In Phaedrus, Plato's ambivalence about writing· shows up in his distrust of visual arts in general and his fear that ing might supplant or destroy memory (which, not surplisinglly,,;ant;i~ pated the kinds of anxieties that followed upon the introduction in fifteenth-century Europe and the personal computer inour.time fantasy about downlgading the human mind or memory mt:o ·t:n!j puter resonates with that fear). The aa'c~a~·d~e~n~tial~~~~~i hieroglyphs 'in the eighteenth century gave parative spin to the discourse on visuality and Wliting.ca: the course of and
+33
+
+than on, the history of writing began to assume an evolutionary guise or what Mitchell characterizes as "a story of progress from primitive picture-writing and gestural sign language to hieroglyphics to alphabetic writing 'proper"' (1994, 113). Thus, Jean-Jacques Rousseau hypothesized In The Origin of Language that "the depicting of objects is appropriate to a savage people; signs of words and of propositions, to a barbaric people, and the alphabet to civilized people." 35 Dr. Johnson called the Chinese 1 'barbarians" on a sliding scale of evolutionary progress for the reason that "they have not an alphabet."" The superiority of the alphabet to pictographic, syllabic, and ideographic scripts is generally attributed to its unique ability to represent speech." ../ This colonial, evolutionary theory of writing has posed numerous obstacles to a dear understanding of the relationship among visuality, writing, and language. Not only does it misrepresent nonalphabetical writing as a failure in the teleological mard1 toward.phoneticization, but it simultaneously obscures the process whereby alphabetic writing has evolved as an alphanumerical technology from antiquity to the rise of informatics. As we know, alphabetic letters are no less visual symbols than nonalphabetic writing but, compared >yith the latter, are mud> easier to learn and to reproduce. The linearity, simplicity, and analytical powers of alphabetical writing have facilitated its dissemination around the world, although the same phonetic function is also capable of suppressing the spatial, ard1itectori.ic~ cilld-gesturaJ. dimensions of h~an communication. T~he mod:ernist poet Ezra Pound saw the limitations and tried to mitigate them by incorporating nonalphabetic d1aracters in his English verse. Depending on how one frames the issue and what social functions one expects writing to fuifill, $ere are advantages and limitations to both alphabetical · and nonalphabetical forms of writing that need not be elaborated here. From .the hindsight of informatics, the sing)llar advantage enjoyed by j alphabetical writing over nonalphabetic writing is the algorithmic po, tentials of alphabetic letters with respect to cryptography, ·machine, and mathematics; whid1 overshadow its mud> tOl-\ted power of phoneticiza. tion '!Jith respect to hum,an communication. If the sin1pJtcity of phonetic rej>reserttationwere the telos of~uman cOmmunication, then literature, and ·rhetoric would have been superfluous to the malcing of civilip~albioJns,.but the same simplicity greatly aided the invention of Morse le,-ilnf·Drtnatics, and mad1ine language, which we will discuss below. ·the. ambiguous status of alphabetical letters with regard to and modem often
+
+.ry guise
+rimitive
+
+inherited much of the phonocentrism of earlier European evolutionary theories. In the Course in General Linguistics (first published by his stu·
+dents in 1916), Ferdinand de Saussure inaugurated structural linguistics. "
+
+>habetic :hesized
+1riate to
+
+formalizing a systematic al5fr0ach to the study oflmguage with an emphasis on synchronic structUre. The linguistic sign, in his definition, con-
+
+" .
+
+people, 2hinese
+reason
+
+ttopicd to its
+JUS
+
+ob-
+
+y, writ-
+
+vriting simullvedas n.atics. alphaand to >etical
+~hthe
+archi~
+
+sists of a signifier and a signified. The signifier is a discrete linguistic el1 ement, such as the sound unit known as the ·phoneme," or a graphic <;<( '· .(\ image, but it primarily assumes the material aspect of the sign in the~ form of a sound image. The signified consists of a conceptual image or , ~ j\V t'( idea which is arbitrarily fixed onto the sound image, arbitrarily in the 1 sense that no natural correspon4ence exists between so~nd and concept. ~t;J The relation between signifier and signified and their relation to other signs within the system determine the differential value of each sign. According to Saussure, synchronic analysis can shed important light on the diachronic understanding of language change as well: Let there be.no mistake about the meaning that we attach to the word 'change'. One might think that it deals especially with phonetic changes undergone by the signifier,. or perhaps, changes in meaning which af, feet the signified concept. That view would. be inadequate. Regardless of
+what the foUeS of change are, whether in isolation or in combination, they always result in a shift in the relationship between the signified and the signifier. 36 :
+
+nAvf'l
+
+f"(jl\! fils,
+
+)V>j..,;_tlf' ;I:/' ·
+
+'modem by
+~ding
+
+:writ·tical I>ere. ~d by
+' ~po-
+
+fand
+
+This insight enabled Saussure to analyze linguistic meaning as a differential function of the signifier and the signified rather than as a result / of natural correspondence between symbol and idea. This. powerful eJ<, planator}'model enabled,the French anthropologist_Q.ande I Ovj Stianss to'launch st~\lctural anthropologwwhich would transform the discipline of anthropology in i:he West for several,decades.' In.structural anthropology-as in linguistics; speech is.primary, suggesting immediacy, Pl"I'S~ ence, identity, and authenticity, whereas writi'!g, a secondary system of
+represfntation, figures defermen~. absence, difference, and inauthen-
+
+i:izaietic lire,
+
+,vi!iprse
+
+w.
+
+I to
+;...._..:_
+~ro
+
+lOg.
+
+~o
+
+pas
+I
+
+ticity (eve!l though Saussure was not unaware of instances of writing such as the rebus; the anagram,-and the written letter). Derrida dubs the structuralist's preoccupation with phonetic inscription ·logocentric" and discerns in its operation ·a supplementary logic that simultaneously exdudes writing from tbe linguistic system and relies on alphabetical writing to enable phonemic aruuyses.39 JBut writing persists in ,spite of the linguistic sipt1. Jacques Lacan troubles the Saussurian sign byperfoniung a psychoanalytical reading of the signifier in his famous seminar 0\1 Edgar Allen Poe's detective story "The Purloined Letter," He demonstrate!' that the stolen letter in the
+Writing · 319
+
+~
+
+story signifies and circulates among the various agents without the help
+of any particular signified. As a pure signifier, the letter's movement,
+
+displacement, and retrieval alone can support the full weight of a fictional drama about royal intrigues and detective interventions. 40 Poe, of
+
+course, had been fascinated by cryptographic code and other pure signifiers in his time. The central enigma of another of his celebrated stories,
+
+"The Gold-Bug," for example, presents itself as a textual problem: How to crack an unknown code to find the hidden treasure? Curiously, the code-handwritten on a piece of parchment-consists of not only familiar numerals, letters, and punctuation marks but typographical symbols (*, ~.f. t, etc.) that would have been rare or nonexistent in manuscript (parchment) culture but are abundant in typography-whicli was the medium of Poe's story. Friedrich Kittler's contention that Lacan's theoretical apparatus was indebted to the evolution of modern media technologies might easily be extended to explain Poe, whose passion for typography and cryptoanalysis anticipated the arrival of information theory in our own time. For Lacan, the symbolic enjoys the status of typography, whereas the real and the imaginary correspond, respectively, to phonography and film (Kittler 1999, 18). In the other words, the typewriter, gramophone, and film provide the conceptual and technological framework within which Lacanian psychoanalysis begins to make sense. · · Kittler reminds us further that Nietzsche "changed from argrunents ' to aphorisms, from thoughts to puns, from rhetoric to telegram style" when he became the first philosopher to use a typewriter (1999, 203). Through print and electronic media, alphabetic writing has .come to dominate the world of communication. McLul1an was quick to grasp the implications of this development and·tef!Oed the phonetic alphabet a "cool. and uniform visual medium"rfor good reason. 41 Intuitive refiect:ion,s .on the function of the phonetic alphabet seem to support the in1pression that letters stand for the sounds of speech. But what sounds? C. K Ogden, the ar~tect of BASIC English along with the literary critic I. A. Richards, once complained about the irregularities of phonetic represen" taqon in English, stating that ''the vowels represent not 7 sounds but 54,.the 26letters of the alphabet giving a total of 107 v.jlues, or with the \'owel digraphs ('each', 'ou', etc.) and multigraphs ('eau', etc.) 28o." Com1\l~.dirtg the burden of 280 sound.values and their various combinatoare tlj.e statisticalhu~dles at the level of English vocabulary. "To ail these in a v<:'c.abularyof 2o,ooo words, or even 2,ooo," says l·.i"'1~c·es·oitattes an am<?,unt of drudgery which has given phonetilyocat·es of synthetic languages their opportunity."42 contested theory of which discrete units of speech <in·phon<,ticall}' be represented by which letters (as in the
+
+case of /ks/, written as one letter, x, in English), there is also the cognitive question of how the written code relates meaningfully to the linguistic image in the mind. In a cybernetic leap of faith, Norbert Wiener and his colleagues experimented with the idea of bypassing both hearing and vision so that deaf-mutes could arrive at instant comprehension of verbal signs through touch rather than gesture. Their experiment brings to mind Rousseau's description in The Origin of Language of how traders in India conducted business by taking each other by the hand, varying their grip in such a way as to perform secret transactions in public, unobserved by others and without uttering a single word. 43 That is to ~ say, sight, hearing, and speech need not to be present for communica=_&' tion.to take place. Wjener's experiment rested on a similar premise about communication, except that it also involved a translation of acoustic signals in the form of physical vibrations in the air, which, fed through a tactile device, would correspond to an experience of meaning in the recfiver's mind.44 Even so, Wiener's sensory prosthesis begs the question of how the tactile code relates to the conceptual processes in the mind. Cryptography and information theory tried to get around the cogni" tive issue byworlcing exclusively with alphanumerical symbols in a math·'e'matical remapping of communication. Alan Turing and Claude Shan.non unifonnly took the printed letters d£ the English alphabet as therr cpoint of departure. Shannon, the inventor of information theory, approached English as a statistical system, which he termed "Printed Enc glish," and subjected alphabetic writing to algorithmic thinking and engineering on behalf of informatics. This peculiar English is comp,;sed of the twenty-six-letter alphabet (A to Z) plus a twenty-seventh letter that mathematically codes "space." In otherword'e, Printed English is an ideographical alphabet with a definable .statistical structure. As a postphonetic system, .-it functions as a conce tual interface between natu I:ingU.age and .Wam;_ue:Jan.gJrqge This postphone c co · tis predicated on the symbolic correspondences between the twenty-seven letters and their numeral· counterparts in lieu of mapping the letters onto the phonemic units in. the spoken language. The alphanumerical correspondence not only facilitates the encoding of messages in information systems but also enables a rethinking of the idea of communication. The centrality of printed S)llilbol for tei:hnology has something to do with the · fact that; to use Friedrich A. Kittler's words, "in contrast to the flow of handwriting, we nowhave discrete elements separated by spaces" (1999; 16). The "space" symbol in Printed English is a conceptual figure, ·l)!>t<!'; viSible Word divider as is commonly observed in some WYiti;tlgs)'o!l:~i'1J The sign. may showup as a negative value or as the visible abo;encec ters, but.the twenty-seventh letter is just as likely to bem>>tll.&l
+
+0
+
+~
+
+represented by "o" as by one or two types of electric pulse on a transmission system. This lett~r owes its existence to the statistical. rather than
+visual-or phonemic, parameters of symbols. It has no linguistic insofar as conventional semantics is concerned but it is fully funcoonal
+
+me~ning
+
+as a meaningful ideographical notion.
+Nietzsche made a prescient remark in 1.878: "The press, the machine,
+
+the railway, the telegraph are premises whose thousand-year conclusion no one has yet dared to draw.''4S As one of the most significant inventions since World War II, Printed English is a direct offspring of telegraphy because it is based on a dose analysis of Morse code conducted by Shannon himself. In his pathbreaking essay "A Mathematical Theory of Communi_cation" published in the Bell System Technical Journal194B, shannon lrud the statistical foundation of information theory. Two years later, he published another article called "Prediction and Entropy of Printed Eng~sh," _which further elaborated the experimental work in co_nnecti_on With his work. These studies suggest numerous connecttons w:tth ·. 'Shannon s code work in World War II when he had investigated the statistical aspects of alphabetic writing i~ cryptoanalysis and helped design secrecy systems at Bell Laboratories for the U.S. military. As a discrete, i~eo~aphic symbol, Shannon's twenty-seventhletter is meanin~ preasely m this cryptographic sense. As if mJrroring cryptography, Prmted English has a corresponding, transJated teXt in numerical symbols. The original t~t "with an alphabet of 27 symbols, A, B, ... z, spa~~· ha_s been tran~lated mto a new language with thealp~abet 1, 2, ... 27· This_ c~nceptton lays the theoretical foundation for what would become digttal computer science. Through a built-in of Printed English achieVes its ultimate embodiment m the mathematical figuring of o/1 binary opposrttons: . In our time, the alphabet seems more thoroughly and universally digtc tal has been. Be it word processing, digital imaging, genetic
+
+~arlier
+
+tedmo~ogyin nume~cal ~slation,
+
+mechani~m alph~ ~d~o-grap~c
+
+neenng,
+
+~nit en~ intera~tive games, or simulated. and actual warfare; we are liv-
+
+ing in the midst of a digital revolution that is dissolving conceptual . boundaries and introducing new ones. Digital media transform contemporary.dvilization by turning one of the oldest technologies-alplutbetitwriting-into a universal coding system to unlock the mind and s.ecret of life itself (see chapter s, "Biomedia"). It seems that the spatial/ . c~ordinates of our future cognitive world will eVo~ve in~o ever tnsifiE·d of hll]J'{an and machine or sitnilar kinds of ~etiic:~·oncliti<>ns enabled by digital media. But a§ Mitchell's discusrrredia in chapter 3 suggests, "digital imaging may be ano.ther layer of the perceptible cognitive world that we
+
+ol~er
+
+~e
+
+tnterdependenc~
+
+~~:ge~ami
+
+l'tl!U'ha11in1g al.ways been
+
+there."~
+
+hitto,
+~ulun
+
+ttlonu
+
+.ly b~ mnon
+
+to "nking of alphabetic writing as a phonetic system of transcription that Shannon's treatment of the English alphabet as a total ideographic (~gorithmic) system rna me as a s o t t e same time, · g:t-t technology is converting nonalphabetic writing systems such as Chinese into a kind of subcode of global English. Once again, a tower of Babel is being erected on the promised land of universal communicability, machine translation (MT), or machine-aided translation (MAT), a dream that is forever haunted by the memories of a not so distant oracle.
+
+inn on
+ter, ho
+
+mmu·
+
+Notes
+1. The six-dot matrix within which characters are differentiated in Braille is a formal mechaniSm that relies on spatial rather than visual arrangement. For a discussion of writing as the organization of graphic space, see Harris, Signs of Writing {1995, 45). 2. TIS, a branch of artificial intelligence, is one of the areas where the relationship between . writing and speech can be fruitfully investigated for both engineering and theoretical purposes. See Richard Sproat, A ·Computational Theory ofWriting Systems {Cambridge: Cambri~ge
+
+~e sta·
+esign
+
+/s with
+
+~dEn· ~ction
+
+University Press, 2000).
+
+· 3. The shared Chinese and Japanese kanji word wenming rcivilization .. ; litera tty, .. illumination through text"), with its positive emphasis on
+
+wen or "text/textuality, .. brings .out the
+
+·etymology of writing more forcefully than the Latin equivalent. civilis. 4. For helpful reference on the subject, see Jack Goody, The Domestication of the Savage
+
+been ~is con.. digital /falpha/graphic #ons.47 hllydigiltic engi~are livnceptual rcontemc-alphaHand the
+
+Mind (Cambridge: Cambridge University Press, 197().
+
+I
+
+5. For example, Jacques Derrida discerns a'n inh~rent ethnOcentrism in anthropologic~l discourse on writing in his reading of "A Writing Lesson;· by Levi-Strauss in which the latter describes -his fieldwork among the "innocent.. Nambikwara tribe. See «The Violence of the Letter: from Levi-Strauss to Rousseau .. in Derrida, OfGrammatology, trans. Gayatri Chakravorty Spivak (Baltimore: The Johns Hopkins University Press, 19'11), pp.101-40. 6. The Phoenicians are often credited as the inventors of the alphabet. M. O'Co,nnor ~rgues, however, that "the Phoenicians did not "invent' the alphabet. A variety of scripts (and peoples) were invOlved in the diffusion of the alphabet arOund the region, even if the Phoenicians played a majOr role in the process ... See Peter T. Daniels and William Bright, eds., The
+WorldS Writing_ Systems (Oxford: Oxford University Press, 1996), 96.
+
+7. A vocabulary of mo[e than four thousand written characters and/or ¥'JOrds has been brought to light by archaeologists: These were inscribed on the oracle bones used by the royal houses· for divination and are rega'rded a·s the royal archiveS of the period. Only abouthalf of.th~ characters have. been successfully decoded thus far. From the evidence of these oracle bone inscriptionS; it is clear'tl)at-the.earliest beginnings of Chinese writing go ffiuch' further back, but there is considerable controversy over the dates due to the lack of dire~t' archaeological evidence. Much of thiS ctlntrove·rsy·also hinges on how one views Recently, the journal Antiquity published a field report by archaeologist Li
+
+~spatial/
+
+iinto·ever t kinds of !'s discus,lgmaybe ldthatwe
+~cal func-
+
+Xueqiin··uidl h
+
+Chiliese and American collaborators, who speculate tentatively that __,the ·aritiqtrit}inese writing might be dated to the seventh mitlennium BCE. Li Xueqin et'aL · Writing? Sign Use in· the Seventh Millennium BC at Jiahu, Henan
+J
+
+Pr<>vir1ce,: Ottirto
+
+77,
+
+no,
+
+295/2003]: 31-44. For representative works on this subject, see David N. Keighttey,
+
+"The Origin of Writing in China: Scripts and Cultural Contexts," in The Origins of Writing, ed.
+Wayne M. Senner {~incoln: University of Nebraska Press, 19891, 170-202.
+
+J
+
+8. I. J. Gelb, A Study of Writing (Chicago: University of Chicago Press, 1963). Gelb provides
+some of the most infl4ential taxonomies for twentieth-century theories of writing anti
+
+coined the term grammatology, which Derrida later adopted in his philosophical work. See also Coulmas, The Writing Systems of the World (Oxford: Basil Blackwell, 1989), 1.
+
+9. See Coulmas. Writing Systems: An Introduction to Their Linguistic Analysis [Cambridge:
+Cambridge University Press, 2003), 192-96.
+
+10. The ter~hich was Gelb's coinage, means word writing. It is widely adopted
+
+to distinguish a written sign that transcribes a word unit rather than a sound unit in speech. The rebus principle involves a process of phonetic abstraction whereby the graph of one word is borrowed to transcribe another word on the basis of homophony although the two words are semantically unrelated. A modern example in English is "U2" used as shorthand for "you, too" or "you two."
+
+11. For a systematic critique of the mutual exclusion of picture and word in the West. see
+Mitchell, (19941, esp. chaps. 1-3.
+
+12. John DeFrancis has been one of the.most vocal defenders of this view. See his book Visible Speech: The Diverse Oneness of Writing Systems '!Honolulu: University of Hawaii Press,
+1989}, especially the chapter NA Critique of Writing about Writing," 211-47.
+
+13.-lt bears pointing out that in Plaio·s account, Socrat~s also attributed the invention "of
+number. arithmetic, geometry, an.d astronomy, of games involving draughts and dice" to the deity Theuth. See Plato, Phaedrus,- trans. Robin Waterfield (Oxford: Oxford University Press, 2002), 68-69. ,,, For analysis of earty Chinese. legends about lhe origin of writing. see William G. Boltz;
+
+The Origin and Early f!evelopmentpfthe Chinese Writing System..(New Haven: American-Oriental Society, 1994), 129-38.
+
+15. Coulmas, Writing Systems of the World, 5. 16.1n a footnote to the preface to Of'Grammatology, Derrida states tha_t-the ffrst part of his
+book, 'Writitig before the Lett~r," was originally written in 1965 as an es.say in response to the publication of three important works, one of which was Leroi-Gourhan's Le geste et La
+
+parole H965).
+
+17. See-Innis (1972, 31-:--32). For the impaCt of writing on the .concept of "law" and "justice,"
+
+See Jon Stratton, "Writing and the Concept of Law in Ancient Greece," Visible Language 14,
+no. 2 {1980), 99-121.
+~8·. CclUIImas,Writing syStems of the World, 7.
+
+a detailed study of the .role of writing in early imperiC!l China, see .Mark .Edward
+
+uvm·~n·10 an_d Authority inJ:hin~ {Albany: State Universi~y of_ New York Press, 19991.
+l;le_rri'at, Science _in History, 4 vols. (London: C. A. Watts: 19-71), 119. See . also 1dt-Bes!;er.at,MThe Earliest PreCursors of Writing," Scientific Amet:ican, ,238
+
+"l#.s sc;:ribes phoenico-puniques," in Phoinikeia .G'rammi3ta, ed. Cl. Baund 'i(,:e:,;n,gs{N<lm<Jro So~iete des Etudes Classiques, 199_1 ), 150.
+
+'P:s:ycfioy·bsi('JihecFo;rg0tten Art of lsopsephy and the Magic Number KZ.~
+
+24. Chinese recorded history indicates that Cai Lun !Ts'ai Lun/, an offlelal of lh@
+
+lmp~l'lfd
+
+court, first reported the invention of paper to the emperor in the year 105 Cl!, but rt!Gitl11 !if· chaeological findings place the actual invention of papermaking a couple of hundred ytHtft1 earUer. Tsuen-Hsuin Tsien, Written on Bamboo and Silk: The Beginnings of Chin<J!Jt? Bookf4 and
+Inscriptions !Chicago: University of Chicago Press. 2004), 204.
+
+25. Parchment is made from the treated hides of calves or sheep; papyrus is a naturnl prod· uct, sliced from the stem of the papyrus plant; and paper is manufactured by chemica:! pw· cess from rags or plant fibers. For a detailed account of the invention of paper in Chlnll, tHlh Tsien, ~Paper and Paper Manuscripts," in Written on Bamboo and Silk, 145-74. 26. See Innis (1972, 107, 135]. 27. Innis mentions that "Greeks began to use paper in manuscripts in the twelfth century and Italians in the thirteenth century, but it was sparingly used, in spite of the very high cost of parchment notably in the thirteenth century, until the fifteenth
+century~
+
+(1972, 138-39).
+
+28. Bi Sheng lor Pi Sheng, ca. 990-10511 employed clay types when he first invented movable type. Historical documents suggest that wooden and metal types began to appear In Ch!n!'l as earty as the thirteenth century, although surviving prints from prior to the four· teenth century are rare. By the fifteenth century bronze movable type had been widely adopte"d in China·and Korea, but for aesthetic, technical, and socioeconomic reasons, mov· able type could not compete with the popularity of block prints in China until the end of the nineteenth century. For an account of the rise of early woodblock printing to the spr~ad of ··printing from movable type as w~ll as Gutenberg's exposure to this technology before 14.56, see Joseph Needham's series Science and Civilization in China, specifically vol. 5, pt. 1,
+Pap:rand Printing by Tsien Tsuen-Hsuin ICI'Imbridge:.Cambridge University Press, 1985),
+
+201-22,313-19. 29. For up-to-date and detailed research, consult Pan Jixing's book .in Chinese, Zhongguo jinshu huozi yinshua jishu shi [A history of'metal movable type arid printing teChnology In China] (Shenyang: Liaoning kexue jishu chubanshe, 2001). 30. Marshall Mcluhan, The Guten.berg .Galaxy: The Makitig of Typographic Man (Toronto: University of .Toronto Press, 1965),124. 31. Marshall Mcluhan, Understanding Media: The Extensions of Man (Cambridge, MA: MIT Press, 1994), 172. 32. Derrida's meth.od of. ~_econstruction in OfGrammatology has _centered on this problem. 33. For Derri~a·s insightful reading ofthis fou~p.ationat text. see .. Plato's Pharmacy, .. in Dis· .semination, trans. B-arbara Johnson (Chi.cago: University_ of. Chicago Press, 1981), 61-155. 34. Walter Ong, Orality and Lit;racy: The Technologizing.,ol.the Word tN~W York: Routledge, 19821.80. 35. Jean-Jacques Rousseau, On' the Origin of Language, trans. John H.. Moran and Alexander Gode (Chicago: University of ChicagO Press, 1966), 17.1ronically, the decoding of the Rosetti Stone (1799) .twenty yea.rs after Rou~seau's de~th relied on the p~onetic principle fthe \f'i bus) tor its success, after pictographic interpretation had come to a dead end. "'36. James Bos'«ell, ~ife of Johnson, 6 vots., ~d. G. B. Hill and L. j=. Powell (Oxford: O.xford University P_re.~~. ·1934), 3:33~. ~s ·quoted in David Porter,ldeographia.IStanford, CA: Stan.._ ford University Press, 2001), 76. 37. This. view is also shared by Mcluhan in Understanding Media, 83-84. 38. See Ferdinand de Saussure, Course in General Linguistics, tf"an·s. Wade· Baskin fNtW York: McGraw-Hill Book Company, 1966); ?4-75.
+Wr!~ng
+
+·
+
+39. For Derrida's critique, see ''Linguistics and Grammatology" in Derrida {1971, 27~73}. ·By no accident did Roman Jakobsen and Claude LE!vi-Strauss follow the same logic in their
+subsequent development of structural poetics and structural anthropology. They privileged speech and linguistic systems and treated their object of analysis, whether poetry or society, as a closed system of relations governed by rules. For Derrida's reading of Levi-Strauss and Rousseau, see "'Nature, Culture, Writing" {ibid., 95-140).
+40. Jacques Lacan, "The Purloined Letter,"' in The Seminar of Jacques Lacan, book 2, The Ego
+
+in Freud's Theory and in the Technique of Psychoanalysis, 1954-1955, ed. Jacques-Alain Miller, trans. Sylvana Tomaselli {New York: W. W. Norton, 1991}, 191-205.
+41. McLuhan, Understanding Media, 84.
+
+42. C. K. Ogden, Basic English: A General introduction with Rules and Grammar {London: Kegan Paul, Trench, Trubner & Co., 1935}, 21. BASIC (the acronym stands for British, American, Scientific, International, and Commercial) consists of a vocabulary of 850 common Eng !ish words.
+
+43. Rousseau, On the Origin of Language, 9-10. 44. Norbert Wiener, The Human Use of Human Beings (New York: Da·Capo Press, 19501, 168-70. 45. Friedrich Nietzsche, Human, All Too Hurrian: A Book for Free Spirits, trans. R. J. ~o!ing
+dale (Cambridge: Cambridge University Press, 1986]. 378. 46. Claude Shannon, "Prediction and Entropy of Printed English, Journal, January 19Ji1, 56. 47. For a detailed acCount of Shannon's work, see my article "iSpace: The Theory Machine after Joyce, Shah non, and Derr]da ... Criticallnquiry32 (spring 2006]: 516-50.
+H
+
+aeu System Technical
+
+References a11d Suggested Readings
+Bernal, Martin: 1990. Cadmean Lette'rs: The Transmission of the Alphabet to the Aegean and Furth"er West before 1400 B.C.
+
+Win~na Lake: EisenbiBuns.
+
+Coulmas; Florian. 2003. Writing Systems: An Introduction to Their Linguistic Analysis. Cambridge: Cambridge University Press. Derrida, Jacques. 1971. Of Grammatology, trans. Gayatri Chakravorty Spivak. Baltimore: JOhns Hopkins University Press. DOnald, Merlin. 1993. Origins of the Modern Mind:. Three Stages in the Evolution· of Cultur.e and Cognition. Cambridge, MA: Harvard University Piess. Hards;"Roy. 1995_. SignS of Writing. ·London: 'Routledg~. I Harold A. 2007. Empire atid Communications. Boulder: Rowman & Littlefield. Fr1edrieh:_1999; GramoPhone, Film,· TYpewriter, trans. Geoffrey Winthrop:.. YoUng arid Wutz. Stanford, CA: Stanford University Press.
+
+i'OI'·iloUit·an, Andre. 1993. GestUre and Speech, trans. Anna Bostock Berger:. Cambridge,
+T:1994. Picture Theory. ChicagO: University of Chicago Press.
+:ee,~Sier.i,t. Denise. 1997. How Writing Came About. Austin: UniVersity of Texas·
+
+
