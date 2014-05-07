@@ -1,0 +1,81 @@
+common_link {
+
+}
+
+word_freq {
+    {'baron.txt',
+	{
+	  {reading,115},
+	  {hard,26},
+	  {read,26},
+	  {students,24},
+	  {copy,21},
+	  {digital,21},
+	  {print.,20},
+	  {online,19},
+	  {new,18},
+	  {book,17},
+	  {n't,17},
+	  {study,16},
+	  {subjects,16},
+	  {text,15},
+	  {information,14},
+	  {mobile,14},
+	  {reading.,14},
+	  {books,12},
+	  {cognitive,12},
+	  {platforms,12},
+	  {time,12},
+	  {2011.,11},
+	  {readers,11},
+	  {asked,10},
+	  {books.,10},
+	  {internet,10},
+	  {least,10},
+	  {liked,10},
+	  {many,10},
+	  {media,10},
+	}}
+    {'birkerts.txt',{}}
+    {'carr.txt',{}}
+    {'chartier1989.txt',{}}
+    {'chartier1994.txt',{}}
+    {'craigmod.txt',{}}
+    {'decerteau.txt',{}}
+    {'drucker.txt',{}}
+    {'febvre_wooton.txt',{}}
+    {'fischer.txt',{}}
+    {'friedberg.txt',{}}
+    {'garvey.txt',{}}
+    {'grafton.txt',{}}
+    {'hermeneutics.txt',{}}
+    {'johns.txt',{}}
+    {'kittler.txt',{}}
+    {'lanier.txt',{}}
+    {'leroi_guourhan.txt',{}}
+    {'liu.txt',{}}
+    {'madrigal.txt',{}}
+    {'mcgann.txt',{}}
+    {'mckitterick.txt',{}}
+    {'mcluhan.txt',{}}
+    {'mills.txt',{}}
+    {'ong.txt',{}}
+    {'piper.txt',{}}
+    {'powell.txt',{}}
+    {'schmandt_besserat.txt',{}}
+    {'sparrow.txt',{}}
+}
+
+keywords {
+
+}
+
+topic_analysis {
+
+}
+
+print_v_screen {
+
+}
+
+
