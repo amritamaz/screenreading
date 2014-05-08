@@ -1,0 +1,132 @@
+@import url(http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700,300italic|Open+Sans:300italic,700italic,300,700);
+
+html,
+button,
+input,
+select,
+textarea {
+}
+
+body {
+    font: 16px/26px;
+    font-family: 'Open Sans', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    line-height: 1.4;
+    width: 100%;
+	margin: auto;
+    background-color: #fdf6e3;
+    color: #444;
+}
+
+h1,h2,h3,h4,h5{
+    font-family: 'Open Sans Condensed';
+}
+
+
+.content {
+    width: 100%;
+}
+a {
+}
+
+header h2{
+    letter-spacing: 3px;
+}
+
+hr {
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #666;
+    margin: 1em 0;
+    padding: 0;
+}
+
+img {
+    vertical-align: middle;
+}
+
+textarea {
+    resize: vertical;
+}
+
+header {
+    text-align: center;
+    margin: 0;
+    background-color: #eee8d5;
+    color: #073642;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+header h1{
+    font-size: 5em;
+    letter-spacing: 15px;
+    margin-top: .5em;
+    margin-bottom: 0em;
+    color: #2aa198;
+}
+
+header h2{
+    font-size: 2em;
+    margin: 0;
+}
+section{
+    padding: 50px;
+}
+
+section#intro{
+    background-color: #073642;
+    color: #eee8d5;
+}
+
+section#intro h1{
+    color: #dc322f;
+}
+
+section#incommon h1{
+    color: #268bd2;
+}
+
+section#freqs{
+    background-color: #586e75;
+    color: #eee8d5
+}
+
+section#freqs h1{
+    color: #b58900;
+}
+
+section#keywords{
+    background-color: #444;
+    color: #eee8d5;
+}
+
+section#topics{
+    background-color: #839496;
+    color: #eee8d5
+}
+
+section#topics h1{
+    color: #d33682;
+}
+
+
+section#printvscreen{
+    background-color: #073642;
+    color: #eee8d5
+}
+
+section#printvscreen h1{
+    color: #6c71c4;
+}
+
+
+section#reflections{
+    color: #444
+}
+
+section#reflections h1{
+    color: #b58900;
+}
+
