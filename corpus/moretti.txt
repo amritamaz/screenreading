@@ -1,0 +1,2639 @@
+GRAPHS, MAPS, TREES
+
+Abstract Models for a Literary History
+FRANCO MORETTI
+
+VERSO
+london · New York
+
+CONTENTS
+
+First published by Verso 2005 © Franco Moretti 2005 All rights reserved The moral rights of the author have been asserted
+I
+
+List of figures Graphs, maps, trees Graphs Maps Trees
+
+VI I
+
+3 35
+
+357 9
+
+IO
+
+864
+
+2
+
+Verso UK: 6 Meard Street, London WIF OEG USA: r8o Varick Street, New York, NY roor4-46o6 www.versobooks.com Verso is the imprint of New Left Books
+ISBN
+
+67
+
+Afterword by Alberto Piazza
+Index
+
+95 II5
+
+1-84467-026-0
+
+British Library Cataloguing in Publication Data A catalogue reJ:ord for this book is available from the British Library Library of Congress Cataloging-in-Publication Data A catalog record for this book is available from the Library of Congress Typeset in Scala by New Left Review Printed in the USA by R. R. Donnelley & Sons
+
+LIST OF FIGURES
+
+24. Mary Milford, Our Village, volume v [r832] 25. Luddism, r8n-r2, and Captain Swing disturbances, r8 o 3 26. Mary Milford, location of stories in volumes r, III, v
+
+59 6o 6r 62 68
+
+I.
+
+The rise of the novel, r8th to 2oth century
+
+6 7
+IO
+II II
+
+27. Cranford 28. Divergence of character 29. Linguistic trees 30. Presence of clues and the genesis of detective fiction-r 31. Presence of clues and the genesis of detective fiction-2 32. Tree of Culture 33· Free indirect style in modern nanative, 1800_2000
+
+2. The three rises of the British novel 3· The fall of the novel: Japan 4· The fall of the novel: Denmark 5· The fall of the novel: France, Italy 6. Book imports into India 7· British hegemonic forms, r76o-r85o 8. Market quotas of British hegemonic forms, r76o-r85o 9· British novelistic genres, I740-I9oo IO. British novelistic genres, '740-1915 (duration in years)
+II.
+
+7'
+73 75 79 84
+
+!2 '5 r6 19 23
+
+US comedies as a percentage of top five box office hits, 1986-95 25
+
+12. Authorship of new novels, Britain r8oo-29: gender breakdown 28 13- Three Mile Cross '4· Mary Mitford, Our Village, volume r [r824] 15. The parish ofHelpston in r8o9, before the enclosure r6. The parish ofHelpston in r82o, after the enclosure 36 37 40 41 43 45 47 48 50 55 58
+
+'7· Central Places
+r8. Mary Milford, Our Village: spatial division oflabour 19. John Galt, Annals of the Parish: first decade [q6o-69] 20. John Galt, Annals of the Parish: last decade [r8or-ro] 2r. Berthold Auerbach, Black Forest Village Stories [1843-53] 22. Protagonists of Parisian novels, and objects of their desire 23. Mary Milford, Our Village, volume III [r828]
+
+Graphs, maps, trees
+
+A man who wants the truth becomes a scientist; a man who wants to give free play to his subjectivity may become a writer; but what should a man do who wants something in between? Robert Musil, The Man without Qualities
+
+The title of this short book deserves a few words of explanation. To begin with, this is an essay on literary history: literature, the old territory (more or less), unlike the drift towards other discourses so typical of recent years. But within that old territory, a new object of study: instead of concrete, individual works, a trio of artificial constructsgraphs, maps, and trees-in which the reality of the text undergoes a process of deliberate reduction and abstraction. 'Distant reading', I have once called this type of approach;' where distance is however not an obstacle, but a specific form ofknowledge: fewer elements, hence a sharper sense of their overall interconnection. Shapes, relations, structures. Forms. Models. From texts to models, then; and models drawn from three disciplines with which literary studies have had little or no interaction: graphs
+1
+
+'Conjectures on World Literature', New Left Review I, Jan-Feb 2000.
+
+from quantitative history, maps from geography, and trees from evolutionary theory. The distant reason for these choices lies in my Marxist formation, which was profoundly influenced by Galvano DellaVolpe, and entailed therefore (in principle, if not always in practice) a great respect for the scientific spirit. And so, while recent literary theory was turning for inspiration towards French and German metaphysics, I kept thinking that there was actually much more to be learned from the natural and the social sciences. This book is a result of that conviction, and also, in its small way, an attempt to open a new front of discussion. Finally, these three models are indeed, as the subtitle intimates, abstract. But their consequences are on the other hand extremely concrete: graphs, maps, and trees place the literary field literally in front of our eyes-and show us how little we still know about it. It is a double lesson, of humility and euphoria at the same time: humility for what literary history has accomplished so far (not enough), and euphoria for what still remains to be done (a lot). Here, the methodology of the book reveals its pragmatic ambition: for me, abstraction is not an end in itself, but a way to widen the domain of the literary historian, and enrich its internal problematic. How this may be done, is what I will try to explain.'
+
+Graphs
+
+Before the advent of the Annales, Krzysztof Pomian once wrote,
+the gaze of the historian [was directed] towards extraordinary events · .. historians resembled collectors: both gathered only rare and curi~ ous objects, disregarding whatever looked banal, everyday, normal ... History was an idiographic discipline, having as its object that which
+
+does not repeat itsel£ r
+
+History was ... Pomian speaks in the past tense here, as is probably accurate in the case of social history, but certainly not for its literary counterpart, where the collector of rare and curious works, that do not repeat themselves, exceptional-and which close reading makes even more exceptionaL by emphasizing the uniqueness of exactly this word and this sentence here--is still by far the dominant figure. But what would happen if literary historians, too, decided to 'shift their gaze' (Pomian again) 'from the extraordinary to the everyday, from exceptional events to the large mass of facts'? What literature would we find, in 'the large mass offacts'? All questions that occurred to me some years ago, when the study of national bibliographies made me realize what a minimal fraction
+KrzysztofPomian, 'L'histoire des structures', in Jacques Le Goff, Roger Chartier, Jacques Revel, eds, La nouvelle histoire, Paris 1978, pp. n5-16.
+1
+
+z This book was first imagined at the Wissenschaftskolleg in Berlin, and presented in an early version as the Beckman Lectures at Berkeley, and then elsewhere. My thanks to the many people who have helped me to clarify my ideas, and to Matt )ockers, who patiently taught me how to improve the book's visual side.
+
+,...
+
+--;::::-----
+
+4
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Graphs
+
+5
+
+of the literary field we all work on: a canon of two hundred novels, for instance, sounds very large for nineteenth-century Britain (and is much larger than the current one), but is still less than one per cent of the novels that were actually published: twenty thousand, thirty, more, no one really knows-and close reading won't help here, a novel a day every day of the year would take a century or so ... And it's not even a matter of time, but of method: a field this large cannot be understood by stitching together separate bits of knowledge about individual cases, because it isn't a sum of individual cases: it's a collective system, that should be grasped as such, as a whole-and the graphs that follow are one way to begin doing this. Or as Fernand Braude! put it in the lecture on history he gave to his companions in the German prison camp near Lubeck:
+An incredible number of dice, always rolling, dominate and determine each individual existence: uncertainty, then, in the realm of individual history; but in that of collective history ... simplicity and consistency. History is indeed 'a poor little conjectural science' when it selects individuals as its objects ... but much more rational in its procedures and results, when it examines groups and repetitions."
+
+A more rational literary history. That is the idea.
+
+I
+
+The quantitative approach to literature can take several different forms-from computational stylistics to thematic databases, book history, and more. For reasons of space, I will here limit myself to book history, building on work originally done by McBurney, Beasley, Raven, Garside and Block for Britain; Angus, Mylne and Frautschi for France; Zwicker for Japan; Petersen for Denmark; Ragone for Italy;
+z
+
+Marti-Lopez and Santana for Spain; Joshi for India; and Griswold for Nigeria. And I mention these names right away because quantitative work IS truly cooperation: not only in the pragmatic sense that It takes forever to gather the data, but because such data are ideally mdependent from any individual researcher, and can thus be shared by ~thers, and combined in more than one way. Figurer (overleaf), whiCh ch~rts the take~off of the novel in Britain, Japan, Italy, Spain and Nigena, IS a case m pomt. See how similar those shapes are: five countries, three continents, over two centuries apart, and it's really the same pattern, the same old metaphor of the 'rise' of the novel come alive: in twenty years or so (in Britain, 1720-40; Japan, 174565; Italy, r82o-4o; Spain, r845 to early r86os; Nigeria, 196s-8o), the graph leaps from five-ten new titles per year, which means one new novel every month or two, to one new novel per week. And at this point, the horizon of novel-reading changes. As long as only a handful of new titles are published each year, I mean, novels remain unreliable products, that disappear for long stretches of time, and cannot re~lly command the loyalty of the reading public; they are commodities, yes-but commodities still waiting for a fully developed market. A new novel per week, by contrast, is already the great capitahst oxymoron of the regular novelty: the unexpected that is produced with such efficiency and punctuality that readers become unable to do without it. The novel 'becomes a necessity of life', to paraphrase the title of a book by William Gilmore-Lehne, and the jer' emiads that Immediately multiply around it-novels make readers lazy, stupid, dissolute, insane, insubordinate: exactly like films two centuries later-are the clearest sign of its symbolic triumph.
+
+II
+
+Femand Braudel, 'L'histoire, mesure du monde', in Les icrits de Fernand Braudel, vol. II, Paris I997·
+
+The rise of the novel, then; or, better, one rise in a history which had begun many centuries earlier, and will go through several other accelerations, as emerges quite clearly from the data on the publication
+
+MORETTI_:
+
+Graphs
+
+7
+
+FIGURE 2:
+200
+
+The three rises ofthe British novel
+
+150
+
+100
+
+so
+
+0~-----------------------------------------------1700 1720 1740
+1760
+
+1780
+
+1800
+
+1820
+
+1840
+
+New novels per year, by 5-year average. Sources: McBurney, Check List of English Prose Fiction, 1JOD-J9i Beasley, The Novels of the 1740s; Raven, British Fiction 1750-Jo; Peter Garside, James Raven and Rainer SchOwerling, eds, The English Novel IJJ0-1829, 2 vols, Oxford 20oo; Andrew Block, The English Novel, 174o-z8so, London r961.
+
+M
+
+0
+
+0
+
+of new novels in Britain between r7ro and r85o (figure 2). Here, three phases seem to stand out, each subdivided into a first period of rapid growth and a second one of stabilization, and each modifYing in a specific way the social role of the novel. The first phase, from1720 to around 1770, is the one discussed above: a leap in 1720-40, and a consolidation in the following decades. In the second phase, which runs from 1770 to around r82o, the further increase in the number of new titles induces for its part a drastic reorientation of audiences towards the present. Up to then, I mean, the 'extensive' reading so typical of the novel--reading many texts once and superficially, rather than a few texts often and intensely--would easily outgrow the yearly output of titles, forcing readers to turn to the past for (much of) their entertainment: all sorts of reprints and abridge· ments of eighteenth-century bestsellers, British as well as foreign,
+
+8
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Graphs
+
+9
+
+plus the old, and even the few ancient classics of the genre. But as the total of new novels doubles, compared to the previous phase--So in 1788; 91 in 1796; m in 1808-the popularity of old books suddenly collapses, and novelistic audiences tum resolutely (and irreversibly) towards the current season.' The third phase, which begins around 1820, and which unfortunately I can only follow for the first thirty years, is the one in which the internal composition of the market changes. So far, the typical reader of novels had been a 'generalist' -someone 'who reads absolutely anything, at random', as Thibaudet was to write with a touch of contempt in Le liseur de romans.4 Now, however, the growth of the market creates all sorts of niches for 'specialist' readers and genres (nautical tales, sporting novels, school stories, mysteres): the books aimed at urban workers in the second quarter of the nineteenth century, or at boys, and then girls, in the following generation, are simply the most visible instances of this larger process, which culminates at the turn of the century in the super-niches of detective fiction and then science fiction. Abstract models for literary history ... and we certainly have abstraction here: Pamela, The Monk, The Wild Irish Girl, Persuasion, Oliver Twist-where are they? five tiny dots in the graph of figure 2, indistinguishable from all others. But graphs are not really models; they are not simplified, intuitive versions ofa theoretical structure in the way maps . and (especially) evolutionary trees will be in the next two chapters.
+3 'In Italy,' writes Giovanni Ragone, 'in the first twenty years of the nineteenth century virtually all the bestsellers of the previous century disappear', 'ltalia r8rs-r87o', in It romanzo, vol. III, pp. 343-54. A similar shift seems to occur in France, where, however, the caesura of the revolution offers a very strong altema~ tive explanation. The 'pastness of the past' is of course the key message of the two genres-gothic, and then historical novels-most responsible for the turn towards the present. 'Albert Thibaudet, Illettore di romanzi [r925], Napoli 2000, p. 49·
+
+Quantitative research provides a type of data which is ideally independent of interpretations, I said earlier, and that is of course also its limit: it provides data, not interpretation. That figure 2 shows a first 'rise' (when the novel becomes a necessity of life), and then a second (the shift from the past to the present), and then a third (the multiplication of market niches), seems to me a good account of the data, but is certainly far from inevitable. Quantitative data can tell us when Britain produced one new novel per month, or week, or day, or hour for that matter, but where the significant turning points lie along the continuum-and why-is something that must be decided on a different basis.
+
+III
+
+A-multiple--rise of the novel. But with an interesting twist, which is particularly visible in the japanese case of figure 3 (overleaf): after the rise from one novel per month in the mid-1740s to one per week twenty years later (and even more in the following years: between 1750 and 1820, in fact, many more novels are published in japan than in Britain; a fact which deserves a good explanation!)-several equally rapid downturns occur in 1780-90, the 1810s to the 183os, and in 1860-70. The fall of the novel. And the reason behind the downturns seems to be always the same: politics-a direct, virulent censorship· dnring the Kansei and Tempo periods, and an indirect influence in the years leading up to the Meiji Restoration, when there was no specific repression of the book trade, and the crisis was thus probably due to a more general dissonance between the rhythm of political crises and the writing of novels. It's the same in Denmark during the Napoleonic wars (figure 4, overleaf), or in France and Italy (better, Milan) in comparable situations (figure 5, overleaf): after 1789, the publication of French novels drops about 8o per cent; after the first Risorgimento war, the Milanese downturn is around 90 per cent, with only 3 novels published in the course of 1849, against 43 in 1842.
+
+m
+FIGURE
+
+3: Thefallofthenovel:]apan
+Towards the end of the Tempo era (18]0-44) commercial publishing came under ... a legislative onslaught [which] started with a ban on woodblock prints depicting kabuki actors or courtesans ... The light jktions known as gokan were also banned, on the grounds that the plots and illustrations were closely related to the kabuki theater and indulged in luxury colour covers and wrappers. Authors were urged instead to write uplijting tales offilial piety and chastity, both of which were somewhat alien to the traditions ofpopular literature . The principal literary victim ofthe new regime ofenforcement was the genre of romantic novels known as ninjobon. Peter Komicki, The Book in japan
+
+140
+
+120
+
+100
+
+80
+
+60
+(Matsudaira} Sadanobu saw popular fiction as hann}UI to public nwrality, especially when authors tcok. ill-concealed potshots at government . . To assure that publishers and authors tcolc him seriously, in 1781 [Sadanobu'sj censors made an example of Santo Kyoden, one of the most popular fiction writers ofthe day, convicting him ofviolating the law and handcuffing him for fifty days. Conrad Totman, Barty Modern Japan
+
+40
+
+20
+
+0 1720 1740 1760
+
+1780
+
+1800
+
+1820
+
+1840
+
+1860
+
+1880
+
+New novels per year, by s-year average. Source: Jonathan Zwicker, 'Il lungo Ottocento del romanzo giapponese', in Jl ronumzo, vol. In. See also Totman, Early Modern Japan, Berkeley 1993; Kornicki, The Book in Japan, Leiden xggS.
+
+j ~~ ?- ~~
+>;:::.§ 't::l <3 ~ ,.~
+
+~ft;t
+
+0
+
+N
+
+~
+
+~
+
+0
+
+Vl
+
+0 0
+
+~
+
+N
+
+~
+
+0
+
+~ ~
+
+..,
+~
+
+.o
+
+. ..
+=t><(l:q !"'
+
+s-~ ~
+
+"
+
+~
+
+~
+
+.. "'
+~
+
+c: "
+
+""~
+~
+~
+
+t5 "". §~
+~
+
+~~
+
+0
+
+0
+
+N
+
+g
+
+0
+
+w 0
+
+.
+0
+
+~
+
+0
+
+m
+0
+
+.., c: " ..
+~
+
+i3 , .
+0
+
+r-(3;::!
+
+~ ~
+
+S
+
+:;,;!
+';;>
+<Q.,
+
+g
+~
+
+Vl
+
+..
+(3{§
+~-
+
+It~
+
+-!>~
+
+"'
+
+:;,;!
+~
+';;>
+<Q.,
+0
+
+~ ~
+
+""
+
+,g-£ @ t;· ;e.
+1} ... t;l --~ ~
+
+Q~~ s !;<;:I
+
+[~ g
+
+13
+~
+
+ii'
+
+0
+
+2
+
+'7' "
+
+"' "' "
+~
+
+M"
+_!:-1
+
+if'1i; ·~ ,
+
+'<
+
+.
+;;1
+~
+
+~ ~
+
+""
+
+g.: 'i' "'
+~-
+
+~-
+
+:::::,.0 ;S. Q'-1 §
+
+~r;;-s
+
+[~ e; "(j P';: I»?
+
+(;, E::
+
+g
+00
+
+=
+
+" "' J'
+
+4'
+
+.~ ~
+
+'"m "'""
+p.
+
+." . """
+~~
+~0
+
+~ ~
+
+~
+0
+
+~
+
+"' "' "
+~
+
+0
+
+~
+
+~
+N
+
+if
+
+;: g 0 ?§;E:: 3:: SO'S.
+,_o;:lo...
+
+R ':11.,
+
+::::'-"';:I
+
+0
+
+§~~
+~
+
+:::::?.$
+
+'.g§C: .·. g.
+~
+
+.. "8"" .
+" 4' ..... ~
+
+t
+00
+
+~~
+
+1~
+
+~
+
+~ ~~~ f$..~ ~~[;i'§ @:a."' ~-oF~~~ g g :..:<[6 ~ ... ~ 5-s.g ~~@
+::s
+"
+
+g,g~~~l~R-~ 3:: "' P".""' "' ;:t i'l "' ,., :;.-: rr;: ;:-[z;;...,- c; t.~ ,.. ::> OSl ~ cQ., 8' E ~::: "' 3 it~--!) ~ if~- ~ ~:~ g_ J>o0o'-'>:;:: ... ;;,_,
+
+"
+:i'
+~
+
+g "
+
+~
+
+"' ~
+~
+~
+
+*
+
+i
+
+il
+il
+
+"
+
+·.
+to
+
+-<
+
+~
+
+";: ;: ::- "'<o ~ a'~~ ;_ ~ ~0 :;::
+
+,.,. "'
+
+::1. ;:
+
+-
+
+:;.-: ~ 5'~~"': ~ 3~g. ~ ·o·~'~--o ~~a~ a:::
+;:1
+
+~ ~
+;:1
+
+;: -
+
+:;.-:
+
+Lr E
+
+£::~ "''o·:;.-: £;'~
+!0 "
+
+£i. ;;: ~-
+
+~
+
+ff
+
+<5
+
+g)
+
+l"' ~-
+
+;-~P-~1 ~E
+
+e:.~""'oii Lr~ S'~ 5.""' § ff~ F. ';'·-., ... -I>-
+
+~ ~r-::: ~-<;""'
+
+8"
+
+iil.
+0
+
+" "
+
+~
+
+" "
+
+::3
+~
+
+I2
+
+GRAPHS, MAPS, TREES MORETTI:
+
+Graphs
+
+13
+
+FIGURE
+
+6: Book imports into India
+
+300 250 200 150 100 50 0
+
+1850
+
+L___,________________1_8~70~-------:1~8:8:0------~1~89~0;-------1~900
+1860
+
+notwithstanding its greater institutional stability. The American and the Napoleonic wars may well be behind the slumps of 1775-83 and r8ro-r7 (which are clearly visible in figure 2), write Raven and Garside in their splendid bibliographic studies; but then they add to the political factor 'a decade of poorly produced novels', 'reprints', the possible 'greater relative popularity ... of other fictional forms', 'a backlash against low fiction', the high cost of paper ... ' And as possible causes multiply, one wonders: what are we trying to explain here-two unrelated individual events, or two moments in a recurring pattern of ups and downs? Because if the downturns are individual events, then looking for individual causes (Napoleon, reprints, the cost of paper, whatever) makes perfect sense; but if they are parts of a pattern, then what we must explain is the pattern as a whole, not just one of its phases. The whole pattern; or, as some historians would say, the whole cycle: 'An increasingly clear idea has emerged ... of the multiplicity of time', writes Braude! in the essay on longue durie:
+Traditional history, with its concern for the short time span, for the indi~ vidual and the event, has long accustomed us to the headlong, dramatic, breathless rush of its narrative ... The new economic and social history puts cyclical movement in the forefront of its research ... large sections of the past, ten, twenty, fifty years at a stretch ... Far beyond this ... we find a history capable of traversing even greater distances ... to be measured in centuries ... the long, even the very long time span, the
+
+Thousands of pounds sterling. Source: Priya Joshi, In Another Country: Colonialism, Culture, and the English Novel in Irnlia, New York 2002.
+
+The only exception I know to this pattern is the import of British books into India charted by Priya Joshi (figure 6), which nses s~arpli ft th 857 rebellion· but as Joshi points out, the loglC of a co oma a er e r is reversed, ' and the peak rs · a srg · n of Britain relationship h suddenly . . .s accelerating the pace of symbolic hegemony; then, once t e cnsrs 1 over, the flow returns to its pre-r857levels.
+
+longue durie. 6 -
+
+IV
+
+An antipathy between politics and the novel. Still, it would be odd~ all crises in novelistic production had a political ongm: the ~rene downturn of the '790S was sharp, true, but there had been o ers m the '750S and '770s--as there had been in Bntam, for that matter,
+
+> James Raven, 'Historical Introduction: the Novel Comes of Age', and Peter Garside, 'The English Novel in the Romantic Era: Consolidation and Dispersal', in Peter Garside, James Raven and Rainer Sch6werling, eds, The English Novel 1770-182g, 2 vols, Oxford 2000; vol. 1, p. 27, and vol. n, p. 4+ 6 Fernand Braudel, 'History and the Social Sciences. The longue durie', in On History, Chicago 1980, p. 27. The first extended treatment of economic cycles was of course Nikolai Kondratiev's The Long Wave Cycle, written between 1922 and 1928.
+
+14
+
+G RAPHS 1 MAPS 1 TREES
+
+Event, cycle, longue duree: three time frames which have fared very unevenly in literary studies. Most critics are perfectly at ease with the first one, the circumscribed domain of the event and of the individual case; most theorists are at home at the opposite end of the temporal spectrum, in the very long span of nearly unchanging structures. But the middle level has remained somewhat unexplored by literary historians; and it's not even that we don't work within that time frame, it's that we haven't yet fully understood its specificity: the fact, I mean, that cycles constitute temporary structures within the historical flow. That is, after all, the hidden logic behind Brandel's tripartition: the short span is all flow and no structure, the longue duree all structure and no flow, and cycles are the--unstable-border country between them. Structures, because they introduce repetition in history, and hence regularity, order, pattern; and temporary, because they're short (ten, twenty, fifty years, this depends on the theory). Now, 'temporary structures' is also a good definition for-genres: morphological arrangements that last in time, but always only for some time. Janus-like creatures, with one face turned to history and the other to form, genres are thus the true protagonists of this middle layer of literary history-this more 'rationaf layer where flow and form meet. It's the regularity of figures 7 and 8 (overleaf), with their three waves of epistolary novels from 1760 to 1790, and then gothic novels from 1790 to r8r5, and then historical novels from r8r5 to the r84os. Each wave produces more or less the same number of novels per year, and lasts the same 25-30 years, and each also rises only after the previous wave has begun to ebb away (see how the up- and downward trends intersect around 1790 and r8r5). 'The new form makes its appearance to replace an old form that has outlived its artistic usefulness', writes Shklovsky, and the decline of a ruling genre seems indeed here to be the necessary precondition for its successor's takeoff. Which may explain those odd 'latency periods' in the early history of genres: Pamela is published in 1740, and The Castle of Otranto in 1764, but very few epistolary or gothic novels are written until r760
+
+M
+
+0
+
+MORETTI:
+
+Graphs
+
+I7
+
+0
+
+N
+
+~
+
+and r790 respectively. Why the lag? Almost certainly, because as long as a hegemonic form has not lost its 'artistic usefulness', there is not much that a rival form can do: there can always be an exceptional text, yes, but the exception wUl not change the system. It's only when Ptolemaic astronomy begins to generate one 'monstrosity' after another, writes Kuhn in The Structure of Scientific Revolutions, that 'the time comes to give a competitor a chance'-and the same is true here: a historical novel written in r8oo, such as Castle Rackrent (or in r8o5, like Waverley's abandoned first draft) simply didn't have the incredible opportunity to reshape the literary field that the collapse of the gothic offered Waverley in r8r4- 7
+!',
+
+·
+
+~
+
+~ <J
+
+u
+
+0
+
+:;; " :;::
+
+~
+
+v
+From individual cases to series; from series to cycles, and then to genres as their morphological embodiment. And these three genres
+7
+
+]
+~
+
+t
+
+0 0
+
+~
+
+1
+'0
+0
+
+il
+0
+
+:',
+
+m
+
+'
+
+~
+
+~
+
+"
+
+A few more words on why a form loses its 'artistic usefulness' and disappears. For Shklovsky, the reason is the purely inner dialectic of art, which begins in ere· ative estrangement, and ends in stale automatism: 'Each art form travels down
+
+'
+
+I
+I
+
+I
+I
+
+0
+
+the inevitable road from birth to death; from seeing and sensory perception, when every detail in the object is savoured and relished, to mere recognition, when form becomes a dull epigone which our senses register mechanically, a piece of merchandise not visible even to the buyer.' {The passage is from an article collected. in The Knight's Move, and is quoted by Victor Erlich in Russian Formalism, New Haven 1955, p. 252.) This journey 'down the inevitable road from birth to death' can however also be explained by focusing, not so much on the relationship between the 'young' and the 'old' versions of the same form, but rather on that between the form and its historical context: a genre exhausts its potentialities-and the time comes to give a competitor a chance-when its inner form is no longer capable of representing the most significant aspects of contemporary reality. At which point, either the genre loses its form under the impact of reality, thereby disintegrating, or it turns its back to reality in the name ofform, becoming a 'dull epigone' indeed. (I develop this point in the appendix to the new edition of The Way of the World, "'A useless longing for myself': The crisis of the European Bildungsroman, r898-r914', London 2000.) But we will soon see another, more draconian explanation for the disappearance of forms.
+
+r:
+
+I
+I
+I
+
+I
+
+f
+I
+
+Jr
+
+r8
+
+GRAPHS, MAPS, TREES
+
+seem indeed to follow a rather regular 'life-cycle', as some economists would call it. These genres-or all genres? Is this wave-like pattern a sort of hidden pendulum ofliterary history? Here, the gathering of data is obviously crucial, and I decided to rely entirely on other people's work: since we are all eager to find what we are looking for, using the evidence gathered by other scholars, with completely different research programmes, is always a good corrective to one's desires. So, first Brad Pasanek, at Stanford, and then I, consulted over a hundred studies of British genres between 1740 and 1900; there were some dubious cases, of course, and some (not very significant) disagreements in periodization;8 and although this is still very much work-in-progress, especially at the two ends of the temporal spectrum, the forty-four genres of figure 9 provide a large enough set to support some reflections. Forty-four genres over r6o years; but instead of finding one new genre every four years or so, as a random distribution would have it, over two thirds of them cluster in just thirty years, divided in six major bursts of creativity: the late r76os, early 1790s, late r82os, r8so, early r87os, and mid-late r88os. And the genres also tend to disappear in clusters: with the exception of the turbulence ofr79o-r8ro, a rather regular changing of the guard takes place, where half a dozen genres quickly leave the scene, as many move in, and then remain in place for twenty-five years or so. Instead of changing all the time and a little at a time, then, the system stands still for decades, and is then 'punctuated' by brief bursts of invention: forms change once, rapidly, across the board, and then repeat themselves for two-three decades: 'normal literature', we could call it, in analogy to Kuhn's normal
+8
+
+FIGURE
+
+9: British novelistic genres, 1740_1900
+Kailyard school New Woman novel Imperial gothic Naturalist novel Decadent novel Nursery stories Regional no~el Cockney school Utopia Invasion literature Imperial romances School stories Children's adventures Fantasy Sensation novel Provincial novel Domestic novel Religious novel Bildungsromon Multiplet novel Mysteries Chartist novel Sporting novel Industrial novel Conversion novel Newgate novel Nautical tales M!Htary novel Si!ver·fork novel Romantic farrago Historical novel Evangelical novel Village stories National tale Anti·Jacobin novel
+c:=::3
+
+=
+~·
+
+=
+
+=
+
+=
+
+=
+
+=
+
+= =
+
+=
+
+Gothic novel jacobin novel Ramble novel 'Spy' novel Sentimental novel Epistolary novel Oriental tale Picaresque Courtship novel
+
+=
+
+=
+
+=
+
+When specialists disagreed, I always opted for the periodization arising out of the more convincing morphological argument: in the case ofindustrial novels, for instance, I followed Gallagher rather than Cazamian, although the latter's perio· dization ofi83o-5o would have fitted my argument much better than Gallagher's r832-67. For details, see 'A Note on the Taxonomy of the Forms', p. JI.
+
+1700
+
+1750
+
+1800
+
+1850
+
+1900
+
+For sources, see 'A Note on the Taxonomy of the Fo'm"' "'page 31.
+
+');
+
+20
+
+GRAPHS, MAPS, TREES
+
+MORETII:
+
+Graphs
+
+2!
+
+science. Or think ofJauss's 'horizon of expectations': a metaphor we tend to evoke only 'negatively' (that is to say, when a text transcends the given horizon), but which these graphs present instead, 'positively', for what it is: figures 7-8 showing how difficult It actually IS to transcend the hegemonic horizon, figure 9 presentlng the multiple horizons active at any given moment, and so on.
+
+This, then, is where those 25-30 years come from: generations. Not a concept I am very fond of, actually, but the only one that seems to make se;:tse of figure 9· And indeed, in Mannheim's great essay of 1927, the best evidence for his thesis comes precisely from the aesthetic sphere: 'a rhythm in the sequence of generations', he writes, following Mentre's Les generations sociales, published a few years earlier,
+is far more apparent in the realm ofthe siries lib res-free human groupings such as salons and literary circles-than in the realm of the institutions which for the most part lay down a lasting pattern of behaviour, eithe; by pres~riptions or by the organization of collective undertakings, thus preventing the new generation from showing its originality ... The aesthetic sphere is perhaps the most appropriate to reflect overall changes of mental c1imate.9
+
+VI
+
+Normal literature remains in place for twenty-five years or so ... But where does this rhythm come from? Shklovsky's hypothesis (however modified) cannot explain it, because the connexion between the decline of an old form and the rise of a new one implies nothing about the regularity of the replacement. And widespread regularity: not just the few hegemonic genres, but (almost) all genres active at any given time seem to arise and disappear together accordmg to some hidden rhythm. The simultaneity of the turnover, at first sight so uncanny, is probably the key to the solution. When one genre replaces another, ifs reasonable to assume that the cause is internal to the two genres, and historically specific: amorous epistolary fiction being ill-equipped to capture the traumas of the revolutionary years, say-and gothiC novels being particularly good at it. But when several genres disappear together from the literary field, and then another group, and so on, then the reason has to be different, because all these forms cannot have run independently and simultaneously into insoluble problems-it would be simply too much of a coincidence. The causal mechanism must thus be external to the genres, and common to all: like a sudden, total change of their ecosystem. Which is to say: a change of their audience. Books survive if they are read and disappear if they aren't: and when an entire generic system vanishes at once, the likeliest explanation is that its readers vanished at once.
+
+Overall changes ofthe mental climate: the five, six shifts in the British novelistic field between 1740 and 1900. But since people are born every day, not every twenty-five years, on what basis can the biological continuum be segmented into discrete units? Mannheim again:
+Whether a new generation style emerges every year, every thirty, every hundred years, or whether it emerges rhythmically at all, depends entirely on
+
+the trigger action of the social and cultural process ... We shall therefore speak of a generation as an actuality only where a concrete bond is created between members of a generation by their being exposed to the social and intellec~al symptoms of a process of dynamic destabilization. 10
+
+A bond due to a process of dynamic destabilization; and one who was eighteen in 1968 understands. But again, this cannot possibly explain the regularity of generational replacement, unless one assumes-absurdly-that the 'destabilizations' themselves occur punctually every twenty-five or thirty years. And so, I close on a note
+Karl Mannheim, 'The Problem of Generations', in Essays on the Sociology of Knowledge, London 1952, p. 279. 10 Essays on the Sociology of Knowledge, pp. 303, 3ro.
+9
+
+22
+
+GRAPHS, MAPS, TREES
+
+of perplexity: faute de mieux, some kind of generational mechanism seems the best way to account for the regularity of the novelistic cycle-but 'generation' is itself a very questionable concept. Clearly, we must do better."
+
+~]«;
+<I)
+
+_.2.'S'E~6!::!
+~----<3..,~
+<:!
+
+<::1
+
+~]
+
+.....14 fr
+
+~
+
+I:
+
+~
+
+·;::: ~ ~ =o:.-;'Z
+
+VII
+~
+
+1;->:E 1t ~..2 g
+
+~ .2 ;:,.,-->!] -~
+~
+
+.... ·;:::~~I: I:
+
+.~..,
+
+'(.,
+
+Normal literature remains in place for a generation or so ... It's the central group of figure ro, which rearranges the forty-four genres according to their duration, and where about two thirds of them last indeed between 23 and 35 years." The one large exception is formed by those genres-nine years, ten, twelve-on the left end of the spec· trum: why so short-lived? Almost certainly, because of politics again: Jacobin, anti- Jacobin, evangelical novels around the turn ofthe century,
+" A possible solution: at some point, a particularly significant 'destabilization' gives rise to a clearly defined generation, which occupies centre stage for 20-30 years, attracting within its orbit, and shaping after its mould, slightly younger or older individuals. Once biological age pushes this generation to the periphery of the cultural system, there is suddenly room for a new generation, which comes into being simply because it can, destabilization or not; and so on, and on. A regular series would thus emerge even without a 'trigger action' for each new generation: once the generational clock has been set in motion, it will run its course-for some time at least. (This is in fact Mentre's approach to the problem, especially in the long chapter in which he sketches an unbroken series of generations throughout French literature from ISIS to rgrs.) n A first look at French literature from the seventeenth to the nineteenth century suggests that most of its narrative genres have a similar 30-year span: pastoral and heroic novels, the nouvelle historique, romans galants and contes philosophiques, sentimental novels, the Bildungsroman, the roman gai, the two main phases ('heroic' and 'sentimental') of the roman-feuilleton . .. On the other hand, Sandra Guardini Vasconcelos and other Brazilian literary historians have pointed out that when a country imports most of its novels, the regular turnover of the AngloFrench generations is replaced by a much more accelerated and possibly uneven tempo. If they are right-and I think they are-then the Western European case would once more be the exception rather than the rule of world literature.
+
+.;;;
+.;?
+
+~
+
+~
+
+.i ~ ~~·-:£~ .... Q-->!1::~~~
+<::1 ··
+
+:;~ g,~';-!i
+~:!: g<' \':! ...
+~ ~
+
+~~-~-t2 ~
+~ ... <3
+0
+
+t2l:ti~":~ "<:I .S<.::! I:
+
+g
+
+~
+
+"
+
+;:t
+
+i!. "<:I .lQ
+
+-~ ~..-:!. j1~
+frog~~
+
+l:q
+
+<:!
+
+;>..,
+
+~
+
+"
+
+"' ;r;
+~
+
+""> ~
+
+""'ii ~..s~ ;,~ ~~I:]('...., .... ~5~~:;]<£ ~~:£--§~·~
+~~~El$"·-~
+
+~-~§h- ~~ ~
+
+..;;
+
+~
+
+!\ :l.
+
+"
+
+~ ~
+
+E._g o'-2.. -~ ..S.~,..,og_~ 2;.2
+..,·""<:!
+I: ~ ~"Q-
+
+o
+
+""s.g . .-~'?.l
+
+E
+
+~
+
+· il
+0
+
+J
+s
+0 0
+~
+
+-
+
+~~'::: £J;F~ ;£'.<':~'"'1! 0"' ;~;§a't::§
+
+~·@~.2~~-R
+
+;:,.,tt:,tl..st':::;-.
+
+.., " .:<;
+·1:
+
+~
+c
+H
+
+.s
+0
+
+" .B
+~
+
+"
+
+z
+
+0
+
+" · · "
+:i
+~
+
+I
+
+l [
+
+"'
+0
+
+"
+H
+
+I I
+
+"-<
+
+"
+
+"' "
+
+~
+
+" 2
+
+I I
+
+24
+
+GRAPHS, MAPS, TREES
+MORETTI:
+
+Graphs
+
+25
+
+Chartist and religious narratives in the r84os, New Woman novels in the r89os ... And as often happens with politics and the novel, the outcome is a string of explicit ideological declarations: jacobin novels trying to reform their villains by 'discussion and reasoning', as Gary Kelly puts it; Right Reason, adds Marilyn Butler in Jane Austen and the War of Ideas: a 'puzzling' choice, she goes on, the great 'missed opportunity' of the jacobin novel as a form. Missed opportunity, yes, but puzzling, perhaps not: if a novel wants to engage the political sphere directly, a series of unambiguous statements, however narratively dull, is a perfectly rational choice. And then, ideological exchanges are an easy way to capture Braudel's 'dramatic rush of the event': to tum a book into A tale of the times, A tale of the day, The philosophy of the day, to quote some typical 179os subtitles. But the conjunction of course works both ways: if what most attracts readers is the drama of the day, then, once the day is over, so is the novel ...
+
+FIGURE II:
+
+us comedies as a percentage oftop five box office hits, '986-95
+
+~'f:t;? ~>-~~-1?
+
+(u~sA~20%~/~ \\. ~
+0~
+0
+
+L
+
+~ ~
+
+~'if~o
+~
+
+\('~
+
+c?~#
+
+~))
+\
+
+~
+*
+
+,
+
+/
+
+\. u
+
+~·~
+~
+
+C2) '
+~
+
+0 more than US percentage
+same as US percentage
+
+VIII
+
+A less than US percentage
+
+Lowest percentages; Serbia O% Malaysia 0% Taiwan Q'>A> Chile 0% Mexico 5% Egypt 7% Spain 9% Japan 9% jamaica 10%
+
+Highest percentages: Czech Republic 30% Hungary 29 % Austria 27% Israel 27% Bulgaria 25% Colombia 25% Denmark 22% Slovakia 22% Puerto Rico 21% UK 21%
+
+.h
+
+Why did most British genres last 25-30 years, then, but some of them only ten? Because these 'political' forms subordinated narrative logic to the tempo of the short span, I have conjectured, and thus they also disappeared with the short span; and I hope the answer sounds plausible. But the real point, here, is less the specific answer, than the total heterogeneity ofproblem and solution: to make sense of quantitative data, I had to abandon the quantitative universe, and tum to morphology: evoke form, in order to explain figures. Here, the figures of the literary market. But when I studied the international impact of American filrris, I encountered exactly the same problematic: in the sample decade (1986-95), comedies amounted to zo% of the top box office hits within the United States, whereas elsewhere, as figure n shows, they were a lot less successful (especially in Asia and in the Mediterranean).'' The figures were crystal clear. But if one then
+'3
+
+wondered why this was so-why, in other words, comedies were so much harder to export tha n, say, action · fil ms-percentages offered no help, and the explanation had to be sought once again in the realm of form: as contemporary comedies make large use of jokes, which are often lost m translation, American comedies are quite simply a lot ~ess funny m japanese or Egyptian or Spanish than in English. (Not ;r nothmg, the great international age of comic films-Chaplin, eaton, Uoyd, Laurel and Hardy-coincided with silent cinema.)'4
+'4 See here ~ow a quantitative history of literature is also a profondly formal· t ~n~speaally at the b~ginning and at the end ofthe research process. At thee:~
+
+'Planet Hollywood', New Left Review 9, May-June 2001, pp.
+
+90-IOI.
+
+. or t e reasons we have Just seen; and at the beginning, because a formal conce ~ ~s usually what makes quantification possible in the first place: since a series mu~t ' e co;n~os~d of homogeneous objects, a morphological category is needednove ' anh·Jacobin novel', 'comedy', etc-to establish such homogeneity.
+
+26
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Graphs
+
+27
+
+Quantification poses the problem, then, and form offers the solution. But let me add: if you are lucky. Because the asymmetry of a quantitative explanandum and a qualitative explanans leaves you often with a perfectly clear problem-and no idea of a solution. In _'Planet Hollywood', for instance, it turned out that absolutely all Itahan box office hits of the sample decade were comedies; why that was so, however, was completely unclear. I felt I had to say something, so I presented an 'explanation', and NLR indulgently printed it; but it was silly of me, because the most interesting aspect of those data was that I had found a problem for which I had absolutely no solutwn. N:id problems without a solution are exactly what we n:'ed m a field hke ours, where we are used to asking only those questions for whrch we already have an answer. 'I have noticed,' says Brecht's Herr Keuner, 'that we put many people off our teaching because we have an answer to everything. Could we not, in the interest of propaganda, draw up a list of the questions that appear to us completely unsolved?'
+
+IX
+
+Two brief theoretical conclusions. The first is again on the cycle as the hidden thread ofliterary history. 'For the elevation ofthe novel to occur', writes William Warner in Licensing Entertainment, 'the novel of amorous intrigue must ... disappear'; it is 'the Great Gender Shift' of the mid-eighteenth century, adds April Alliston: the disappearance of earlier fiction by women writers, with the related increase in the number of male novelists. And it's all true, except for the article: the shift? The third quarter of the nineteenth century, write Tuchman and Fo_rtin in Edging Women Out, was 'the period of invasion' of the novelistic field by male authors, who eventually 'edge out' their female competitors. ' 5
+·s William B. Warner, Licensing Entertainment. The Elevation of Novel Reading in Britain, r685-r750, Berkeley 1998, p. 44; April Alliston, 'Love in Excess', in Il
+
+But, clearly, a mid-Victorian 'invasion' presupposes a reversal of the gender shift of the 1740s. And, in fact, this is what the historical record show,s: if between 1750 and r78o, as a result of the initial shift, men publish indeed twice as many novels as women, in the late r78os a second shift reverses the gender ratio, as one can see in Garside's breakdown for a slightly later period (figure 12, overleaf), in which women novelists (among them Burney, Radcliffe, Edgeworth, Austen) remain the majority until a third shift occurs, around r82o, towards male writers (Scott; then Bulwer; Dickens, Thackeray), to be followed by a fourth shift back to women in mid-century (the Brontes, Gaskell, Braddon, Eliot), and then by a fifth one-the 'edging out'in the r87os. Similar data are beginning to emerge for France, Spain, the us, and it's fascinating to see how researchers are convinced that they are all describing something unique (the gender shift, the elevation of the novel, the gentrification, the invention of high and low, the feminization, the sentimental education, the invasion ... ), whereas in all likelihood they are all observing the same comet that keeps crossing and recrossing the sky: the same literary cyde, where gender and genre are probably in synchrony with each other-a generation of military novels, nautical tales, and historical novels ala Scott attracting male writers, one of domestic, provincial and sensation novels attracting women writers, and so on. Now, let me be clear, saying that these studies describe the return of the same literary cycle is not an objection: quite the opposite, my thesis depends on their findings, and it even corroborates tlrem somehow, by finding the common mechanism which is at work in all those instances. But it's also true that if one reframes individual instances as moments of a cycle, then the nature of the questions changes: 'Events don't interest Lucien Febvre for what in them is unique', writes Pomian, but 'as units in a series, which reveal the conjunctural variations in . . . a conflict that remains constant throughout the period.'' 6
+16
+
+romanzo, vol. 1, La cultura deL romanzo, Torino 2001, p. 650; Gaye Tuchman and Nina Fortin, Edging Women Out, New Haven 1989, pp. 7-8.
+
+Pomian, 'L'histoire des structures', p.
+
+II].
+
+MORETTI:
+
+Graphs
+
+29
+
+0
+
+«>
+
+M
+
+Variations in a conflict that remains constant: this is what emerges at the level of the cycle-and if the conflict remains constant, then the point is not who prevails in this or that skirmish, but exactly the opposite: no victory is ever definitive, neither men nor women writers 'occupy' the British novel once and for all, and the form keeps oscillating back and forth between the two groups. And if this sounds like nothing is happening, no, what is happening is the oscillation, which allows the novel to use a double pool of talents and of forms, thereby boosting its productivity, and giving it an edge over its many competitors. But this process can only be glimpsed at the level of the cycle: individual episodes tend, if anything, to conceal it, and only the abstract pattern reveals the true nature of the historical process.'7
+
+0
+
+«>
+
+N
+
+X
+
+Do cycles and genres explain everything, in the history of the novel? Of course not. But they bring to light its hidden tempo, and suggest some questions on what we could call its internal shape. For most literary historians, I mean, there is a categorical difference between 'the novel' and the various 'novelistic (sub)genres': the novel is, so to speak, the substance of the form, and deserves a full general
+:;;
+0
+
+l7 A comparable oscillation is probably at work between High and Low forms, whose simultaneous existence is a well-known, if often ignored, fact of novel-
+
+istic history: from the Hellenistic beginnings (divided between 'subliterary'
+and 'idealized' genres) through the Middle Ages, the seventeenth century (the Bibliotheque Bleue, and aristocratic novels), eighteenth (Warner's pair of 'entertainment' and 'elevation'), nineteenth (fouilletons, railway novels-and 'serious' realism'), and twentieth century (pulp fiction-modernist experiments). Here, too, the strength of the novel is not to be fourid in one of the two positions, but in its rhythmical oscillation between them: the novel is not hegemonic because it makes it into High Culture (it does, yes, but it's so desperately professorial to be awed by this fact), but for the opposite reason: it is never only in High Culture, and it can keep playing on two tables, preserving its double nature, where vulgar and refined are almost inextricable.
+
+0
+
+30
+
+GRAPHS, MAPS, TREES
+
+MORETTI: Graphs
+A NOTE ON TiiE TAXONOMY OF THE FORMS
+
+31
+
+theory; subgenres are more like accidents, and their study, however interesting, remains local in character, without real theoretical consequences. The forty-four genres of figure 9, however, suggest a different historical picture, where the novel does not develop as a single entity-where is 'the' novel, there?-but by periodically generating a whole set of genres, and then another, and another ... Both synchronically and diachronically, in other words, the novel is the system of its genres: the whole diagram, not one privileged part of it. Some genres are morphologically more significant, of course, or more popular, or both-and we must account for this: but not by pretending that they are the only ones that exist. And instead, all great theories of the novel have precisely reduced the novel to one basic form only (realism, the dialogic, romance, meta-novels ...); and if the reduction has given them their elegance and power, it has also erased nine tenths ofliterary history. Too much. I began this chapter by saying that quantitative data are useful because they are independent of interpretation; then, that they are challenging because they often demand an interpretation that transcends the quantitative realm; now, most radically, we see them falsify existing theoretical explanations, and ask for a theory, not so much of 'the' novel, but of a whole family of novelistic forms. A theory-of diversity. What this may mean, will be the topic of my third chapter.
+
+The genres Of figures 9 and ro are listed below in the following way: current definition (in capitals); dates of beginning and end; and critical study from which I have drawn the chosen (and not always explicit) periodization. Since both figures are meant as a first panorama of a very large territory, soon to be improved by further work, a few words of caution are in order. First, except for the (rare) cases in which quantitative data or full bibliographies are available, the initial date refers to the genre's first recognizable example rather than to its genuine take-off, which occurs usually several years later; as our knowledge improves, therefore, it is likely that the chronological span of novelistic genres will turn out to be significantly shorter than the one given here. On the other hand, a few genres experience brief but intense revivals decades after their original peak, like the oriental tale in r8r9-25, or the gothic after r885, or the historical novel (more than once). How to account for these Draculaesque reawakenings is a fascinating topic, which however will have to wait for another occasion. Finally, the chart shows neither detective fiction nor science fiction; although both genres achieve their modern form around r89o (Doyle and Wells), and undergo a major change in the 192os, in step with the overall pattern, their peculiar long duration seems to require a different approach.
+
+COURTSHIP NOVEL, I740-I82o: Katherine Sobba Green, The Courtship Novel 1740-1820, Kentucky 1991. PICARESQUE, 1748-90: F. W. Chandler, The Literature of Roguery, London 1907. ORIENTAL TALE, 1759-87: Ernest Baker, The History of the English Novel, London I924, VOl. V. EPISTOLARY NOVEL, 1766-95: James Raven, 'Historical Introduction', in Garside, Raven and Schiiwerling, eds, The English Nove/1770-1829, VOl. I. SENTIMENTAL NOVEL, I768-9o: John Mullan,
+
+32
+
+GRAPHS, MAPS, TREES
+
+MORETTI: Graphs
+
+33
+
+'Sentimental Novels', in John Richetti, ed., The Cambridge Companion to the Eighteenth-Century Nove/, Cambridge I996. 'Spy' NOVEL, I770I8oo: Christopher Flint, 'Speaking Objects: The Circulation of Stories in Eighteenth-Century Prose Fiction', PMIA II3 (2), March I998, pp. 2I2-26. RAMBLE NOVEL, I773-90: Simon Dickie, The Mid-Century 'Ramble' Novels, PhD dissertation, Stanford 2000. jACOBIN NOVEL, I789-I8os: Gary Kelly, The English Jacobin Novel I78o-1805, Oxford I976. GoTHIC NOVEL, I790-I82o: Peter Garside, 'The English Novel in the Romantic Era', in Garside, Raven and Schiiwerling, eds, The English Novel 1770-1829, voJ. II. ANTI-JACOBIN NOVEL, I79I-I8os: M. 0. Grenby, The Anti-]acobin Novel, Cambridge 2001. NATIONAL TALE, I8oo-31: Katie Trumpener, 'National Tale', in Paul Schellinger, ed., The Encyclopedia of the Novel, Chicago I998, vol. n. VILLAGE STORIES, I804-32: Gary Kelly, English Fiction of the Romantic Period, 1789-1830, London I989. EvANGELICAL NOVEL, 18o8-I9: Peter Garside, 'The English Novel in the Romantic Era'. HISTORICAL NOVEL, I8I4-48: Nicholas Rance, The Historical Novel and Popular Politics in Nineteenth-Century England, New York I975· RoMANTIC FARRAGO, I822-4T Gary Kelly, English Fiction of the Romantic Period. SILVER-FORK NOVEL, 1825-42: Alison Adburgham, Silver Fork Society, London I983. MILITARY NOVEL, I826-so: Peter Garside, 'The English Novel in the Romantic Era'. NAUTICAL TALES, I828-5o: Michael Wheeler, English Fiction of the Victorian Period: 18]0-90, London I985. NEWGATE NOVEL, I830-4T Keith Hollingsworth, The Newgate Novel, 1830-47· Detroit I963- CONVERSION NOVEL, I830-53: Sarah Gracombe, Anxieties of Influence: jewishness and English Culture in the Victorian Nove/, PhD dissertation, Columbia University 2003INDUSTRIAL NOVEL, I8p-67: Catherine Gallagher, The Industrial Reformation of English Fiction, Chicago 1985. SPORTING NOVEL, 18386T John Sutherland, The Stanford Companion to Victorian Literature, Stanford 1989. CHARTIST NOVEL, I839-52: Gustav Klaus, The Literature of Labour, New York I985. MYSTERIES, I846-7o: Richard Maxwell, The Mysteries of Paris and London, Charlottesville, VA I992MuLTIPLOT NOVEL, 1846-72: Crisi Benford, The Multiplot Novel and
+
+Victorian Culture, PhD dissertation, Stanford 2003. BILDUNGSROMAN, I847-72: Michael Minden, 'Bildungsroman', in Schellinger, ed., The Encyclopedia ofthe Novel, vol. II. RELIGIOUS NOVEL, I848-56: Wheeler, English Fiction of the Victorian Period. DOMESTIC NOVEL, I849-72: Sutherland, Stanford Companion to Victorian Literature. PROVINCIAL
+NOVEL, r85o-73: Ian Duncan, 'The Provincial or Regional Novel', in Patrick Brantlinger and William Thesing, eds, A Companion to the Victorian Nove/, Oxford 2003. SENSATION NOVEL, I850-76: Nicholas Rance, Wilkie Collins and Other Sensation Novelists, London I99'FANTASY, r850-95: C. N. Manlove, Modern Fantasy: Five Studies, Cambridge I975· CHILDREN'S ADVENTURES, I85I-83: Sutherland, Stanford Companion to Victorian Literature. ScHOOL STORIES, I8578I: Isabel Quigly, The Heirs of Tom Brown, London I982. IMPERIAL ROMANCES, I868-I902: Joseph Bristow, Empire Boys, London I99'INVASION LITERATURE, I87I-14:!. F. Clarke, The Tale ofthe Next Great War, 1871-1914, Liverpool I995· UTOPIA, I872-I901: Wheeler, English Fiction ofthe Victorian Period. CocKNEY SCHOOL, I872-97: Sutherland, Stanford Companion to Victorian Literature. REGIONAL NOVEL, 187396: Duncan, 'The Provincial or Regional Novel'. NuRSERY STORIES, I876-I9o6: Gillian Avery, Nineteenth Century Children, London I965. DECADENT NOVEL, I884-1906: A. A. Mandai, 'Decadent Novel', in Schellinger, ed., The Encyclopedia of the Novel, vol. r. NATURALIST NOVEL, r885-I915: William Frierson, L'influence du naturalisme.franyais sur les romanciers anglais de 1885 1900, Paris I925. IMPERIAL GOTHIC, I885-1916: Patrick Brantlinger, Rule of Darkness, Ithaca I988. NEw WoMAN NOVEL, r888-99: Ann L. Ardis, New Women, New Novels, New Brunswick I990. KAILYARD SCHOOL, I888-1900: Sutherland,
+
+a
+
+Stanford Companion to Victorian Literature.
+
+Maps
+There is a very simple question about literary maps: what exactly do they do? What do they do that cannot be done with words, that is; because, if it can be done with words, then maps are superfluous. Take Bakhtin's essay on the chronotope: it is the greatest study ever written on space and narrative, and it doesn't have a single map. Carlo Dionisotti's Geografia e storia della letteratura italiana, the same. Raymond Williams's The Country and the City, the same. Henri Lafon's £spaces romanesques du xvnre siecle ... Do maps add anything, to our knowledge ofliterature?
+
+I
+
+Village stories were a popular British genre of the first quarter of the nineteenth century, peaking with Mary Milford's Our Village, published in five volumes between r824 and r8p. The village was Three Mile Cross, in Berkshire (figure r3, overleaf), a dozen miles south of Reading, on the road to Hampshire; and the road is explicitly foregrounded in Milford's opening sketch; where it also forms the basis for her presentation of the village as one house after another along a 'straggling, winding streef. So you think, 'Yonville',' and imagine
+r 'There is nothing further to see in Yonville. The street, the only one, about a gunshot in length, with a few shops on each side .. .'(Madame Bovary, II. I)
+
+36
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Maps
+
+37
+
+FIGURE I3: Three Mile Cross
+
+FIGURE I4: Mary Mitford, Our Village, volume r [1824]
+
+Vil/(lge: 'Our village'; 'Lucy'; 'The talking lady'; 'A~ old bachelor'; 'A village beau'; 'Mrs. Mosse'; 'Aunt Martha'; 'A parting glance at our v!!lage'
+
+l
+
+fr~wnofB-
+
+I
+
+""'""'""' 'Modern antiques'; 'The talking gentleman' 1 L____ _ _ _ ____j
+
+1 mile
+
+A visit
+
+Tom Cord(\r'y Frost ~nd thaw
+A country cricket match
+
+Ellen
+
+The grekt farm·house Cousin Mary'
+
+*
+
+Violeting
+
+The first primrose
+
+Three Mile Cross
+
+A small neighbourhood is as good in sober waking reality as in poetry or prose; a village neighbour· hood, such as this Berkshire hamlet in which l write, a long, straggling, winding street, at the bottom ofa fine eminence, with a road through it, always abounding in carts, horsemen and carriages, and lately enlivened by a stage-coach from B- to 5-.
+Mary Mitford, 'Our Village'
+
+Bramley maying
+
+Locy
+
+Source: Thomas Maule, The English Counties Delineated [1837], London 1994
+
+this village of two or three hundred people as a mere site of transit between larger places (Effi Briest: 'no, the Gdansk-Berlin express does not stop here .. .'). Easy. Then you make a map of the book, and everything changes. The twenty-four stories of Milford's first volume, figure r4 shows, arrange themselves in a little solar system, with the village at the centre of the
+
+pattern, and two roughly concentric rings around it. The first ring IS closer to the VIllage, and focuses largely on personal relationships ('Ellen', 'Hannah', 'Cousin Mary'); the second ring, its components more numerous, is at a distance of a couple of miles, and emphasizes natural spectacles ('Frost and thaw', 'Violeting', 'The first primrose'), plus collective events like cricket and maying. But in both cases the road 'from B- to S-', so present at the beginning of the book, has disappeared: narrative space is not linear here, it is circular. Which
+
+38
+
+GRAPHS) MAPS) TREES
+MORETTI:
+
+Maps
+
+39
+
+is surprising: while mapping nineteenth-century genres for the Atlas of the European Novel I encountered all sorts of shapes-linear trajectories, binary fields, triangulations, multi-polar stories-but never a circular pattern. Where on earth do these rings come from?
+
+II
+
+John Barrell, The Idea of Landscape and the Sense of Place 17J0-184o:
+There is a sense in which an open~field parish in the late eighteenth and early nineteenth centuries [which is exactly what the one in Our Village is likeJ could be said to have a different geography according to who was looking at it: thus, for those of its inhabitants who rarely went beyond the parish boundary, the parish itself was so to speak at the centre of the landscape ... For those inhabitants accustomed to moving outside it, however, and for those travellers who passed through it, the parish was ... defined not by some circular system of geography but by a linear one.z
+
+A circular 'system of geography', and a linear one: behind these two perspectives lies the dramatic transformation of rural space produced by parliamentary enclosure, which Barrell has so well visualized in his two maps of Helpston, and where a perceptual (because productive) system in which the village is still largely self-sufficient, and can therefore feel at the centre of'its own' space, is replaced by an abstract grid, within which Helpston becomes just one of the many 'beads' that the various roads will run through (figures rs-r6, overleaf). Against this background, Our Village's spatial pattern becomes at once clearer, and more surprising: by opening with a linear perspective, and then shifting to a circular one, Milford reverses the direction
+'John Barrell, The Idea of Landscape and the Sense of Place IJ]0-1840, Cambridge 1972, p. 95· For the sources of the two Helpston maps (figures rs-r6), see pp. 225-7·
+
+of history, making her urban readers (Our Village was published by Whitaker, Ave-Maria-Lane, London) look at the world according to the older, 'centred' viewpoint of an unenclosed village. And the key to this perceptual shift lies in Milford's most typical episode: the country walk. In story after story, the young narrator leaves the village, each time in a different direction, reaches the destinations charted in figure 14, then turns around and goes home. 'When a system is free to spread its energy in space', writes Rudolf Arnheim, 'it sends out its vectors evenly all around, like the rays emanating from a source of light. The resulting ... pattern is the prototype of centric composition.'' Exactly: out of the free movements of Our Village's narrator, spread evenly all around like the petals of a daisy, a circular pattern crystallizes-as it does, we shall see, in all village stories, of which it constitutes the fundamental chronotope. But in order to see this pattern, we must first extract it from the narrative flow, and the only way to do so is with a map. Not, of course, that the map is already an explanation; but at least it shows us that there is something that needs to be explained. One step at a time.
+
+III
+
+A rounded pattern in Helpston before the enclosure; and a rounded pattern in Our Village. But with a difference: in Milford's walks,· Barrell's 'rough circle ... in which the villagers work and move' is rewritten as a· space of leisure rather than work. Slow easy strolls, thoughtless, happy, in the company of a greyhound called May; all around, a countryside full of picturesque natural views, but where very few people are actually doing anything. Decorative: for each page devoted to agricultural labour, there must be twenty on flowers and trees, described with meticulous precision. If urban readers are
+Rudolf Arnheim, The Power of the Center. A Study of Composition in the Visual Arts, new version, Berkeley and Los Angeles r988, p. 43
+
+FIGURE 15:
+
+The parish ofHelpston in 1809, before the enclosure
+
+FIGURE 16:
+
+The parish ofHelpston in 1820, after the enclosure
+
+\
+To
+
+· \
+
+'l
+
+To Etton
+
+·
+
+\
+
+· \
+
+To Peterborough
+
+·
+
+Heath and Common Woods
+
+The characteristic sense of space which the topography and organization ofan open:field parish created was circular, while the landscape qf parliamentary enclosure expressed a more linear sense ... the village of Helpston is at the centre of the parish, where the three fields of the parish come together: they form around the settlement a rough circle, which represents the area in which the villagers work and move. fohn Barrell, The Idea of Landscape and the Sense of Place 17J0-184o
+
+Priest's idea of a road is that it should be threaded through one village and another like a string through beads: he thinks of the road as in some sense prior to the villages on it, and not of the villages existing separately first. John Barrell, The Idea oflandscape and the Sense of Place 1730-1840
+
+42
+
+GRAPHS, MAPS, TREES
+
+made to share the village's perception of space, then, it's also true that this space has been thoroughly gentrified; as if Milford had travelled forward in time, and discovered what city-dwellers will want to find in the countryside during a brief weekend visit. Not surprisingly, country walks were by far the most popular part of Our Village, and remained long in print by themselves while the rest was forgotten. Behind the similarity of figures 14 and 15, then, lie very different experiences of social space. Barrell's r8o9 'system of geography' corresponds to the omnipresent, half-submerged culture of daily routines-position of the fields, local paths, perception of distances, horizon-which historians tend to call mentalite, and which is often entwined with the performance of material labour. Milford's neat stylization of rural space, however-with its alchemical transmutation of the 'rough circle' of work into a ring of pleasure-is not menta!ite, but rather ideology: the world-view of a different social actor (an urban visitor), whose movements duplicate the perimeter of rural mentalite, but completely reverse its symbolic associations. A map of ideology emerging from a map of menta!ite, emerging from the material substratum of the physical territory. Granted, things are not always so neat. But when they are, it's interesting.
+
+I
+
+I
+
+r
+MORETTI: Maps
+
+43
+
+sanitation'), which in order to reach as many customers as possible are located in 'a few necessarily central points, to be consumed at many scattered points'. 4 The more specialized a service is, the more 'central' it also is, and on this socio-geometrical principle arises the urban hierarchy synthesized by Christaller himself in figure 17. The rule here is simple: around each G-centre of the first rank there is a 'market region' which includes six B-centres of the second rank, with
+FIGURE 17:
+
+Central Places
+
+®
+Q
+0
+0
+
+G-place 8-place K-p!ace A.place M-pface Boundary of the G-region Boundary of the 8-region Boundary of the K-region Boundary of the A-region Boundary of the M-region
+
+-
+
+IV
+
+_Source: Central Places in Southern Germany
+
+The formula just used for Milford-a 'stylization' of space-is even more appropriate for Walter Christaller's classic study on Central Places in Southern Germany. Written in the early Thirties, the book explains the geographical distribution of urban centres on the basis of the 'ordering principle, heretofore unrecognized' of the spatial division of labour: towns provide specialized services, writes Christaller ('banking, administration, cultural and spiritual offerings [church, school, theatre, professional and business organizations],
+
+Walter Christaller, Central Places in Southern Germany [1933], Englewood Cliffs, 1966, p. 20. Christaller's model presupposes an 'isotropic' space, where movement can occur with equal ease in every direction; this is of course a theoretical abstraction, whose empirical validity is limited to homogeneous agricultural flatlands ~like indeed much of Southern Germany). The assumption of an isotropic space IS the common denominator bet\.veen Christaller's theory and the structure of village narratives; I briefly discuss the problematic nature of this idea in footnote 12 below.
+NJ
+
+4
+
+i
+
+I
+
+I I '
+
+I
+
+44
+
+GRAPHS, MAPS, TREES
+
+f
+FrG URE r8: Mary Mitford, Our Village: spatial division oflabour
+TownofBhatter military people itinerant show-woman 'living skeleton' theatre fair Rosedale cosmopolitan tenants
+Haze/by
+
+fewer and less specialized services; around each B-centre there are six K-centres of the third rank, and so on, until, at the very bottom of the hierarchy, we encounter ... Our Village: the 'central region of the lowest order', as Christaller calls it, whose radius (2-3 kilometres) is exactly the same as one of the book's country walks. And figure r8, Christaller-like, visualizes the services offered by Mitford's village, and by the other urban centres mentioned in her book. In the village: shoemaker, blacksmith, carpenter, mason; in London and the other towns: French teachers, hatters, fashionable tailors, horse races. Serious daily needs versus frivolous superfluities: this is Mitford's social geography. Its roots are in one of the most ancient, and most widespread, of narrative forms: the idyll. 'Birth, labour, love, marriage, death', wrote Bakhtin of this longue duree chronotope: 'only a few oflife's basic realities ... a little world ... sufficient unto itself, not linked in any intrinsic way with other places.'' Sufficient unto itself: this is why village stories organize themselves in circular patterns: a circle is a simple, 'naturaf form, which maximizes the proximity of each point to the centre of the 'little world', while simultaneously sealing it off from the vast universe that lies outside its perimeter. 'Sugar and coffee and salt: we wanted nothing else from the outside world', declares proudly the protagonist of a German village story of the same period, Auerbach's Brigitta. But the past tense of that 'wanted' is a sign that the days of the idyll are numbered.
+
+apothecary emign!fteacher pubfpoo! pastry shopf!lbrary
+
+bi(d.catche~ ,
+
+rat-catcher mole-catcher
+
+"""
+races gypsies
+
+farmers
+cottage~s
+
+--cura* shoemaker bliicksrtiithfconstab!i! collar-maker ' carpenter wheerer masoti inn multifaiious 'shop'>
+
+London
+
+workhouse
+
+partnerof'great house' fashionable tailor 'talking lady' Mr Moon the conjuror
+
+2miles
+
+__J__
+
+I
+
+There are two main methods by which one can distribute ods to the sumer. one can offer them at the central place to which th~onsumer conco~, or one can travel with the goods and offer them to the consumer a7~~t ; : ence. Th~former method leads necessarily to the formation of centr~~
+
+v
+The changing geography of village narratives is particularly clear in another book of the r82os, john Galt's Annals of the Parish (r82r). The parish is Dalmailing, near the west coast of Scotland, and the
+; Mikhail Bakhtin, 'Forms ofTime and of the Chronotope in the Novel', 1937-38, in The Dialogic Imagination, Austin r98r, p. 225.
+
+hla::; ~n::~: r.:::,::,~;,;~~::zi:;~:~~:~~:;:;~~e~:~: ;~;~:~:::::.~
+
+e, ts o ay. e pedlar, the knife~sharpener, the wandering minstrel or th Mrddle Ages, and the travelling priest all brought goods to the 'J e Walter Christaller, Central Places in Southe:ns;e=~ny
+
+In Our Village, the curate, shoemaker. or inn are . . and bird~catcher-who are encounter~d 0 t .d ~:tri~~tal semces, whereas rat-, mole1 ~ractically and symbolically, on the border~:~::n th: ~ age, and whose occupation lies, mstances ofthe older type like th bi uman and the natural world-are 'II ' e memora e 'reddleman' of Th R t ,r h . VI age's weak division of labour prod e e urn O; t e Natwe. The 1 ma~y all~purpose entities like the 'multifarious bazaar' of the village shop th ~ce~ a s~th such as John Wilson, 'a handy feilo e ~c s~d; o doubles as a constable, or characters bricklayer, painter, gardener, gamek:~;er~ ~~~ o any sort of work-thatcher, carpenter,
+
+46
+
+GRAPHS, MAPS, TREES
+
+text covers the half century from r76o to r8ro: each year a chapter, where the minister Balwhidder registers the main events in the crowded and often confusing mode of annalistic writing (fires, weddings, wars, births, portents ...), of which the first ten years of the book-charted in figure 19-offer a typical instance. Here, from the still idyllic daily life of Dalmailing, in the bottom left corner ('birth, labour, marriage, death .. .'), we can follow two possible threads through the figure's materials. The first runs through Irville (Irvine), Glasgow, and Edinburgh, and shows the system of central places at work: school in Irville, university in Glasgow, lawyers and doctors in Edinburgh; second-hand news in Irville, and first-hand news in Glasgow; celebration dinner, honeymoon, marble headstone ... As services become more unusual, they move 'up' in the urban hierarchy, and further away from Dalmailing; but since Galt's world is still fundamentally one of simple everyday needs, such services are seldom required, and central places like Edinburgh or London remain barely visible. Extremely visible on the other hand are the many 'novelties' listed in the second column from the left, which reach the parish from the West Indies, the Baltic, and other unspecified places. Behind them is the British empire, of course, but perhaps even more the sheer fact of distance: in Dalmailing, a parrot, Rososolus, or a cockernut (Balwhidder's half-Dutch spelling for coconut) are truly things from another world. Wonders. Or, more prosaically, luxuries; products of long-distance trade which shine for a moment on the horizon of the everyday, leaving behind a sense of incommensurable universes: on the one side birth, labour, marriage, and death; on the other, coconut, Riga balsam, parrot, and Danzig cordial. Home, and the World. But since the world does not really change everyday existence (its wonders are all singular: one donkey, one coconut, one bottle of this and that), the antithesis is at once radical, and totally irrelevant: wonders appear, are admired, and then vanish (except for tea, of course). The world is an astonishing place, but
+
+MORETTI:
+
+Maps
+
+49
+
+the Dalmailing idyll goes on as it always has, 'not linked in any intrinsic way to other places'· But in 1788 a cotton-mill is built-'nothing like it had been s~en before in our day and generation'-and With lt the manufactunng town ofc ayenneville , and the parish's spatial coordinates.are forever 1 changed. If one compares the first decade of the book ';"th the ~st, charted in figure 20, it's impossible to miss the dramatic re:centnn? of social life induced by manufacture: the sen~e of the regl~n , so strong a generation earlier-Dalmailing's daily hfe, the lrv!lle where children went to school, the villages where spou_ses c_a:U~ from ...-is gone, replaced by a 'web of commerCial ~eC!proC!ties (Cayenneville-Glasgow-Manchester-London), whose every touch F!G URE 2o: john Galt, Annals of the Parish: last decade [r8or-10]
+Glasgow: Catholic church opens cotton mill manager goes to company buys mill
+Cayennevil/e [2-3 milts]: a turtle bookshop
+London dailies
+
+or stir [is] felt in our corner' (year r8o8). Between Home and the World, a new spatial reality has wedged itself, subordinating them both: the national market, whose intermediate distance is traversed every weeK, if not day, by those regular novelties-books, newspapers, politics: all plurals-which will keep multiplying throughout the industrial nineteenth century. From the old Age of Wonders, only a turtle survives.
+
+VI
+
+Manchester: cotton mill overseer
+'English engineer'
+
+Jacobinism Catholic church opensfdoses workers pay for their own church company stops payment overseer commits suicide
+Dalmai/ing:
+- parish poet
+inn buys its own chaise
+
+london:
+concern owns share of Cayenneville cotton mill manager goes to overseer's orphan sent to
+
+villagll parade
+relaxation of religious discipline
+empty seats in church
+
+new habits at funerals
+marriages
+
+France fears of invasion
+
+One last collection, German this time. Berthold Auerbach's Black Forest Village Stories, written between r843 and r853, were among the great bestsellers of the century, and figure 2r (overleaf) charts about one third of the Doljgeschichten collected in Cotta's r940 ten-volume edition. Here, too, three spaces interact and compete for attention. The first is composed by Nordstetten and the other Black Forest villages, and its features should by now be familiar: narrow geographic range, daily needs, basic services-all contained within the same circular pattern we have encountered in Britain. But if the spatial logic of the idyll is more or less the same everywhere (probably because of its extreme narrative simplicity), Auerbach's international space is already quite different from Mitford's or Galt's: instead of spo-. radic wonders, we find war memories (Germany as 'the battlefield of Europe', in Thomas Mann's words), threats of economic competition, and especially the basso continuo of emigration (America, first of all; then Switzerland, France, Greece, Russia, Spain ...). Except for Switzerland, which is very close, the narrative never actually moves into these foreign countries, but the voices of those who have left echo in almost every story, as if they were a large, hidden chorus. Nostalgic, usually; but in the more optimistic momentslike the letter from 'Nordstetten on the Ohio' ('we'll send for a parson from Germany. And my fields have just the same names
+
+~
+
+I
+MORETTI:
+
+Maps
+
+51
+
+FIGuRE 2 I: Berthold Auerbach, Black Forest Village Stories [1843-53]
+Stuttgart [50 miles]
+TUbingen university
+suicide army
+
+Ludwigsburg
+army
+
+they used to have .. .')-also capable oflooking at a distant land as almost a second home. But in the meantime, just as earlier in Galt, a third, quasi-national space ('quasf, because German unity is still a generation away), is forcing its way into village life through 'central places' such as Horb, Freiburg, Rottenburg and Stuttgart. What we find there, though, is not manufacture, banks, and services, as in Britain, but law courts, jails, army barracks, and the like. The state. The state as repression: a grim determination to achieve the monopoly of legitimate violence that outlaws regional traditions, drafts people against their will, takes them to court, jails them if they run away ... 'You have ordered and commanded so much that there is nothing left to be ordered or commanded', complains the representative of Nordstetten to a county judge in the story 'Good government': 'and you will end up by putting a policeman under every tree to keep it from quarrelling with the wind and drinking too much when it rains'. 6 Here, even rivals in love-gamekeepers, soldiers, land surveyors-belong to repressive bodies. The formation of nation-states entailed a conflict between national and local loyalties, wrote Charles Tilly, and here it is: the local loyalty towards an older, smaller homeland stubbornly resisting its integration into the Germany to come. Heimat against Vaterland; the collective rituals so dear to Auerbach (and Mitford); our village; our society (the title of the first chapter of Cranford, Elizabeth Gaskell's village collection, whose last word is us). 'To be authorized to say we!', exclaims Mitford in 'A country cricket match'; and if one traces the
+6
+
+Alsace
+emigration
+
+Rotten burg lawsuit
+
+appeal court newspaper failed speculation painter successful rival
+
+penitentiary
+
+Crai/sheim
+
+Baden-Baden great hotel gambling losses
+
+[90 miles] old friend Schwllbisch Hal/
+
+possible suitor
+
+Pforzheim
+silversmith
+
+suc:ceSSful'iiv'al-
+
+{8omiles]
+old friend
+
+weddil')g
+
+/
+curate
+b!3cksi"nith
+ma~ory
+murder
+
+wedtjiiig
+
+w/i:Jing
+
+'
+Ulm [5o miles]
+
+c_arpent:r_
+
+----' \;->
+famous pipe
+
+I
+
+-iaveh1 ,,, : townhOUSe: ?::-t:;/
+maypole
+
+schoOlmaster
+
+\
+
+s~Uction
+Ehlingen [40 miles] conventjschool
+
+\
+
+/
+
+S~ighing trip dan~,e
+
+smugglers
+Herb
+Neustadt
+
+Freiburg lawsuit
+
+old friend
+
+corpse dissection
+
+army jail jail lawcourt grammar school
+doctor
+
+land surveyor recruiting officer wedding clothes gambling losses
+
+I
+
+2 miles
+
+__L
+Nordstetten
+
+emigration emigration emigration emigration emigration competition swindler Brazil lawsuit ruins villager
+
+"'
+
+France
+
+Switzerland
+emigration emigration
+
+invading army
+competition
+
+competition
+Spain
+
+brother dies beloved runs away emigration emigration
+Greece
+
+Russia emigration villagers die special dock
+Balkans villager turns Turk
+
+Other villages
+
+failed speculation
+
+Then, more threateningly: "'You want to take everything from us: now, there happens to be one thing our minds are made up to hold on to." Raising his axe and gnashing his teeth he continued: "And if I must split every door between me and the king with this very axe, I will not give it out of my hand. From time immemorial it is our right to carry axes".'
+
+52
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Maps
+
+53
+
+diffusion of this pronoun in r9th-century culture, two forms-two rival forms of collective identity-immediately stand out from the rest: village stories, and national anthems.' That the local form leans towards the more proximate and 'inclusive' form (we as I+ you), and the national anthem towards the more martial, 'exclusive' one (we as I+ they versus you: war, enemy, glory ... ), is the apt final touch to their symbolic opposition. In their animosity towards national centralization, village stories diverge sharply from the provincial novels with which they are often confused, and are, if anything, much closer to regional novels-as is clear in Auerbach's explicit conjunction (Village stories of the Black Forest), or later in Hardy. 'The region is a place in itself', writes Ian Duncan, 'the source of its own terms of meaning and identity ... while the province is defined by its difference from [the capital].'8 Exactly: village and region are alternative homelands of sorts, whereas the provinces embody the capitulation of local reality to the national centre-Emma Bovary's idea that life is 'quelque chose de sublime' in Paris (or Madrid, or Moscow), and a desert everywhere
+' Of twenty-eight European anthems I have been able to check, twenty-two establish a significant semantic: field around the first person plural, beginning of course with the very first word-Allons-of the greatest of them all. Nothing seems as essential to national anthems as this grammatical sign of collective identity; even the name of the country receives fewer mentions {zo), while the . semantic field of 'glory' has '9· 'past' and 'war' I5, 'enemy' and 'nature' '3· and 'God' a mere I2. Interestingly enough, the three European anthems older than the Marseillaise-the Dutch, English, and Danish anthems: 'William of Nassau', 'God Save the Queen', and 'King Christian'-all foreground the figme of the sovereign, and shoW no interest in the first person plural (except for 'God Save the Queen', which however places it in the object position: 'long to reign over u~', 'God save us all', 'may she defend our laws'). The difference between a dynastic and a collective basis for national identity is beautifully captured by this gram~ matical detail. s Ian Duncan, 'The Provincial or Regional Novel', in Patrick Brantlinger and William Thesing, eds, A Companion to the Victorian Novel, Oxford 2002.
+
+else. 9 Like the provinciae of antiquity, subject to Rome but denied full citizenship, the provinces are 'negative' entities, defined by what is not there; _which also explains, by the way, why one cannot map provincial novels-you cannot map what is not there. It happens, there are un-mappable forms (Christmas stories are another one, for different reasons), and these setbacks, disappointing at first, are actually the sign of a method still in touch with reality: geography is a useful tool, yes, but does not explain everything. For that, we have astrology and 'Theory'.
+
+VII
+What do literary maps do ... First, they are a good way to prepare a text for analysis. You choose a unit-walks, lawsuits, luxury goods, whatever-find its occurrences, place them in space ... or in other words: you reduce the text to a few elements, and abstract them from the narrative flow, and construct a new, artificial object like the maps that I have been discussing. And with a little luck, these maps will be more than the sum oftheir parts: they will possess 'emerging' qualities, which were not visible at the lower level. Everybody, from the first readers onwards, had noticed the country walks of Our Village; but no one had ever reflected on the circular pattern they project on the English countryside, because no one-in the absence of a map . of the book-had ever managed to actually see it. Not that the map is itself an explanation, of course: but at least, it offers a model of the
+
+If London does not enjoy the same mythical status as other European capitals, the reason is probably that the English provinces were more self:confident than their continental counterparts, especially after 'their' industrial revolution (Manchester, Birmingham, Leeds, Sheffield ... ). The hollow sense of unreality of Emma Bovary, or Ana de Ozores, or the three Prozorov sisters is thus hard to imagine in places like Milton or Middlemarch: full of problems, to be sure, but where life is absolutely real.
+
+9
+
+54
+
+GRAPHS 1 MAPS, TREES FIGuRE 2 2:
+
+MORETTI:
+
+Maps
+
+55
+
+narrative universe which rearranges its components in a non-trivial way, and may bring some hidden patterns to the surface. And patterns are indeed what I have been discussing throughout this chapter. But are they also the proper object of geographical study? In an intelligent critique of the Atlas of the European Novel, the Italian geographer Claudio Cerreti has questioned this assumption, pointing out how patterns entail a Cartesian reduction of space to extension, where 'objects are analysed in terms of reciprocal positions and distances ... whether they are close or far from each other or from something else'. This however is not really geography, Cerreti goes on, but rather geometry; and the figures of the Atlas, for their part, are not really maps, but diagrams. The diagrams look like maps, yes, because they have been 'superimposed on a cartographic plane': but their true nature emerges unmistakably from the way I analyse them, which disregards the specificity of the various locations, to focus almost entirely on their mutual relations; which is indeed the way to read diagrams, but certainly not maps. w Let me give you an instance of what Cerreti means. Figure 22, reproduced from the Atlas, is a map of young protagonists of Parisian novels, and of their objects of desire; and I remember the little epiphany I had in front of this figure, when I realized that most young men live on one side of the Seine, and their lovers on the opposite side (or in the separate world of the Faubourg St-Germain). The epiphany, in other words, was Paris as diagram:" a matrix of relations, not a cluster of individual locations. I could see that the young men were in the Latin Quarter, of course, and the women in the crescent from the
+
+Protagonists of Parisian novels, and objects of their desire
+
+*
+
+objects of desire
+
+i;,
+
+'\'?$)
+
+Faubou~g St-Germain to the Chaussee d'Antin, and I accounted for rt; but without enthusiasm. These specific positions seemed to be the premrse of cartography, more than its result. Locations as such did not seem that significant, if compared to the relations that the map· had revealed among them.
+Relations among locations as more significant than locations as such ... But ~or geogra~hy, locations as such are significant; geography is :ot JUSt extenswn (Cerreti ag~m), b~t 'intension' too: 'the quality of grven space ... the stratification of mtnnsically different qualities and heterogeneous phenomena': _the Latin Quarter as Latin Quarter, in other words, and not only m rts opposition to the Chaussee d'A ti And he is right, of course, and the reason I kept 'forgetting' g:o;: raphy for geometry was, first of all, ignorance: in order to write the
+
+'° Claudio Cerreti, Bollettino della Societd Geograjica ltaliana, 1998, pp. 141-8.
+nOr better, again, as a succession of diagrams (figures 46abcd in the Atlas): first, where the young men settle; second, what they desire; third, where they indulge in their fantasies; fourth, where they end up. Each map photographed a particular stage in the plot. Atlas of the European Novel, London 1998, pp. 96-9.
+
+56
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Maps
+
+57
+
+Atlas I had studied some cartography, but had learned it only up to a point, and so I made mistakes. True. But if the Atlas is full of diagrams-and, in fact, so is this chapter. where I decided not even to 'superimpose' them onto geographic maps to make the point absolutely clear-if I keep making diagrams, then, it is because for me geometry 'signifies' more than geography." More, in the sense that a geometrical pattern is too orderly a shape to be the product of chance. It is a sign that something is at work here--that something has made the pattern the way it is.
+But what?
+
+VIII
+
+'The form of any portion of matter, whether it be living or dead', writes D'Arcy Thompson in his strange wonderful book On Growth and Form, 'may in all cases alike be described as due to the action of force. In short, the form of an object is a "diagram of forces" .. .''3
+" Geometry signifies more than geography: but it seldom signifies by itself. Here, the choice of village stories as the basis of this theoretical sketch may have been unfortunate, as the isotropic space which is so typical of this genre tends to overemphasize the role of geometry at the expense of geography: a fact I became aware of only after long, detailed exchanges with Claudio Cerreti and jacques Levy (who have all my gratitude, and shouldn't be held in the least responsible for the views I am expressing). In fact, the most common type of hterary map (in the Atlas of the European Novel, at any rate) looks less like those of Our Village than like that of Parisian novels, where the geometrical pattern is distorted by the specificity of PariS's social geography-as is particularly dear in the case ofthose three characters who start on the 'wrong' side of the Seine. (For two of them, Du Tillet and Popinot, the explanation is simple: they belong to the space of trade rather than to that of intellectual life in the Latin Quarter; for the third character, Wenceslas, I cannot find a satisfying reason.) '' D'Arcy Wentworth Thompson, On Growth and Form [1942], Mineola, NY 1992, p. 16.
+
+Diagram: Cartesian space. But diagram of forces. The distribution of events between the Black Forest villages and the administrative towns is the diagram of a conflict between local forces and national ones; Mitfoi:d's rings, the result of the village's gravitational pull over her perambulating narrator; Balzac's divided Paris, the battlefield between old wealth and ambitious petty bourgeois youth. Each pattern is a clue--a fingerprint of history, almost. 'The form of an object is a "diagram of forces", in this sense, at least, that from it we can ... deduce the forces that ... have acted upon it'. Deducing from the form of an object the forces that have been at work: this is the most elegant definition ever of what literary sociology should be. And for D'Arcy Thompson these forces are of two basic kinds: internal, and external. 'The structure in its final form is, as it were, the inner nucleus molded in various ways by the characteristics of the outer element', wrote Goethe in one of those morphological studies which D'Arcy Thompson knew very well: 'it is precisely thus that the animal retains its viability in the outer world: it is shaped from without as well as from within.''' Shaped from without, as well as from within ... But so is narrative. On this, the five volumes of Our Village offer a splendid test case. In the r824 volume, remember, the village was the undisputed centre of the surrounding countryside: the centripetal effects of the force 'from within' were omnipresent, while the force 'from without' was · nowhere to be seen: the narrator moved freely in every direction in her little idylliC world, and then turned back for the sheer pleasure of returning home, without ever being constrained by a contrary force (like, say, Jude Fawley at Christrninster, where he's brutally forced back into Wessex). 'Anything that embodies itself with some freedom seeks a rounded shape', reads another of Goethe's aphorisms, and
+
+Johann Wolfgang von Goethe, 'Toward a General Comparative Theory', I79094· in Scientific Studies, Princeton 1995, p. 55·
+'
+
+4
+
+58
+
+GRAPHS, MAPS, TREES MOREITI:
+
+Maps
+
+59
+
+the rounded shape of figure 14 was indeed the embodiment of a literary form-a mentaUte, an ideology-for which village life was still fundamentally independent of external forces. This, in r824- Two collections later, in r828 (figure 23), the village's gravitational field is already weaker: the walks are less frequent, and their pattern has become wider, less regular; fewer stories take place in the village itself, while several are set outside of Berkshire, in undefined distant towns (and often in the past as well). Something is
+
+wrong with the force from within, but as no counter-force challenges it yet, the basic pattern, although somewhat unsteady, remains in place. But by I832, it's all over (figure 24): the village's centripetal force is reduced to nothing, and the bulk of the book moves away, thirty miles, sixty, more, to play dumb parlour games in the mansions of the elite (and, again, ever more frequently in the past). 24: Mary Mitford, Our Village, volume v [18]2]
+~
+i
+1
+
+FIGURE
+
+FIGURE
+
+23: Mary Mitford, Our Village, volume III [r8z8]
+'a Cathedra/town'
+
+I y;u,,,
+.
+
+Town ofBA widow gentlewoman
+
+Farewell to our village; Young master Ben; ~ost keys; The cribbage players
+
+London [Jo miles}
+Caroline Cleveland The residuary legatee
+
+-
+
+~
+
+\\
+
+\
+
+!
+f
+
+!
+
+Village:
+
+My godmothers
+
+Oxfordshire: Lost and found
+
+'a town'
+
+A quiet gentlewoman
+The freshwater fisherman The fisherman in his married state
+
+L:sun-:__1
+
+A Christmas party; The two Valentines;
+
+\\ '\
+
+~The village
+
+Th,b;>d-~«h"
+·0--~
+
+Gr<u:::e Neville
+Old master Green
+
+~-. Our maymg
+schoolmistress
+
+\\ \I ~~
+
+~
+
+·--~
+
+A new-married
+
+couple
+
+The haymakers
+
+~.
+
+The rat-catcher. A sketch
+
+-~
+The runaway
+Olive Hathaway
+
+\!.~;~l{fi
+The foster-mother
+
+\;·\ 1
+
+Wheat-hoeing
+
+The queen
+of the meadow
+Dora Creswell
+
+The mole-catcher
+
+The neighbouring county
+The incendiary
+
+Mademoiselle
+
+Thert:se
+
+)essy lucas
+
+Cranley {30 miles]:
+The cousins
+
+An admiral
+on shore
+
+Hay-<:arrying
+A moonlight adventure [6o milesj
+
+Haddonleigh Hall [6o miles]
+Christmas amusements. 1 Christmas amusements. u Christmas amusements. HI Christmas amusements. IV Christmas amusements. v Christmas amusements. VI
+
+1 mHe
+Dorset:
+
+A country apothecary
+
+Cranley {30 miles] A country barber
+
+Sussex;
+The chalk-pit
+
+1 mile
+
+_L
+
+Seaside recollections [100 miles]
+
+I
+60 GRAPHS, MAPS, TREES 1811-12,
+
+FIGURE 25: Luddism,
+
+and Captain Swing disturbances,
+
+i
+1830
+
+MORETTI:
+
+Maps v
+
+6I
+
+FIGURE 26: Mary Mitford, location of stories in volumes I,
+
+III,
+
+u
+0
+
+:~)· ()
+
+i)
+
+·
+
+;;
+
+·
+
+(';
+
+e
+Source: John Langton and R. J. Morris, eds, Atlas of Industrializing Britain
+
+village
+
+0
+
+=
+
+2miles
+
+Something has happened, here, and two stories suggest what it is: rick-burning. 'Oh the horror of those fires-breaking forth night after night, sudden, yet expected .. .' reads the first narrative of the volume, 'The incendiary'; 'We lived in the midst of the disturbed districts,' adds 'Young master Ben', and 'no one who lived within reach of the armed peasantry ... could get rid of the vague idea of danger which might arrive at any moment .. .'. The armed peasantry of the I83o uprisings (figure 25): this is the 'force from without' which has 'acted upon' Our Village, altering its narrative pattern beyond recognition. Figure 26, which charts the three volumes one next to the other, summarizes the disintegration ofMitford's chronotope.
+
+In a very large part of morphology, our essential task lies in the comparison of related fonns rather than in the precise definition ofeach; and the defonnation ofa complicated figure may be a phenomenon easy of comprehension, though the figure itself have to be left unanalysed and undefined . I11e essential condition is, that the fonn of the entire structure under investigation should be found to vary in a more or less unifonn manner. D'Arcy Thompson, On Growth and Fonn
+
+IX
+
+Let me conclude by briefly returning to the beginning. Thomas Maule's r837 map of Berkshire, reproduced in figure 13, gave a good idea of the type of geography congenial to modern idyllic form: parks, rivers, country seats, low urbanization (and no railway in the
+
+r
+I
+62 GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Maps
+
+63
+
+early twenties, when Mitford starts writing). Figure 27 is another of Moule's maps, Cheshire this time, and Knutsford, near the centre of the figure, is Gaskell's 'Cranford', the setting of her r853 rewriting of Our Village. In this case, Moule's map precedes the novel by fifteen years, but it already casts a shadow over Gaskell's projected idyll: urbanization is higher, Manchester is just 15 miles away, and by an uncanny coincidence Mitford's typical walk would end more or less at the Grand Junction Railway, where one of the book's most sympathetic characters, distracted by the latest number of Pickwick-the
+
+FIGURE 27=
+
+Cranford
+
+regular novelty which has just arrived from London-is killed by a train. Social geography does not agree with the form of the idyll here, and in order to keep the genre alive Gaskell must literally hibernate her village: Cranford is presented as a place under siege, hardly alive, where no one dares to go anywhere, and everything is painstakingly saved (candles, carpets, clothes, stories ... ) to make it last as long as possible; and even so, only the half-magic arrival of Indian wealth can prolong its artificial existence. For every genre comes a moment when its inner form can no longer represent the most significant aspects of contemporary reality, I wrote in the previous chapter: at which point, either the genre loses its form under the impact of reality, thereby disintegrating, or it betrays reality in the name of form, becoming, in Shklovsky's words, a 'dull epigone'. Mitford in r8p, and Gaskell twenty years later, are the two ends of the spectrum: Our Village explodes, and Cranford is Madame Tussaud's idea of a village story.
+
+X
+
+Maps, is the title of this chapter. But there are maps and maps: Moule (figures 13 and 27), Barrell (15-16), Langton and Morris (25) have all made maps of real English spaces, reproducing actual features of their material environment; I have made maps/diagrams of fictional worlds, where the real and the imaginary coexist in varying, often elusive proportions. The figures are different. But when they are collated and juxtaposed, they allow us a glimpse of what D'Arcy Thompson had in mind in his great final chapter on 'The theory of transformations':
+We rise from a conception of form to an understanding of the forces which gave rise to it ... and in the comparison of kindred forms ... we discern the magnitude and the direction of the forces which have suf-
+
+ficed to convert the one form into the other. rs
+Source: Moule, The English Counties Delineated
+'5
+
+D'ArcyThompson, On Growth and Form, p.
+
+1027.
+
+T
+64
+GRAPHS, MAPS 1 TREES
+
+In the comparison of the kindred forms of Our Village in r824, r828, and r832, and of the initial and final decades of Annals of the Parish, and of the British and German village stories, we discern indeed the various directions in which rural class struggle, the industrial takeoff, and the process of state formation have 'converted' the shape of nineteenth-century idylls. As in an experiment, the force 'from without' of large national processes alters the initial narrative structure beyond recognition, and reveals the direct, almost tangible relationship between social conflict and literary form. Reveals form as a diagram of forces; or perhaps, even, as nothing but force.
+
+r
+
+I
+
+Trees
+Figure 28 (overleaf) reproduces the only tree-'an odd looking affair, but indispensable', as Darwin writes to his publisher in the spring of r859'-in The Origin of Species; it appears in the fourth chapter, 'Natural selection' (which in later editions becomes 'Natural selection; or, the survival of the fittest'), in the section on 'Divergence of character'. But when the image is first introduced, Darwin does not call it a 'tree' :2
+Now let us see how this principle of great benefit being derived from divergence of character, combined with the principles of natural selec· tion and of extinction, will tend to act. The accompanying diagram will aid us in understanding this rather perplexing subject .. ,3
+'It is an odd looking affair, but is indispensable', continues the letter to John Murray of May 31. 1859. 'to show the nature of the very complex affinities of past & presenf animals'. Frederick Burkhardt and Sydney Smith, eds, The Correspondence of Charles Da1Win, vol. vn (1858-59), Cambridge 1991, p. JOO. 2 The word 'tree' appears only at the end of the chapter, and surrounded by signs of hesitation, possibly because of the religious echoes associated with the Tree of Life: 'The affinities of all the beings of the same class have sometimes been represented by a great tree. I believe this sim.ile largely speaks the truth': Charles Darwin, The Origin of Species, 1859; facsimile of the first edition, Cambridge, MA 2001, p. 129 (italics mine). 3 DalWin, Origin, p. II6.
+1
+
+MORETTI:
+
+Trees
+
+69
+
+~
+
+~~
+
+...
+
+~· ~ ~-
+
+'
+
+...
+
+--- ---
+
+--- ._J
+
+~
+
+~-··
+
+--
+
+· ·... ·-... ' ..... --- ---· · · ---.- -·- --· '
+···~
+~ ~
+
+'<;>
+
+E "' ii
+
+t3
+
+Diagram, again. After the quantitative diagrams of the first chapter, and the spatial ones of the second, evolutionary trees constitute morphological diagrams, where history is systematically correlated with form. And indeed, in contrast to literary studies-where theories of form are usually blind to history, and historical work blind to form-for evolutionary thought morphology and history are truly the two dimensions of the same tree: where the vertical axis charts, from the bottom up, the regular passage of time (every interval, writes Darwin, 'one thousand generations'), while the horizontal one follows the formal diversification ('the little fans of diverging dotted lines') that will eventually lead to 'well-marked varieties', or to entirely new species. The horizontal axis follows formal diversification ... But Darwin's words are stronger: he speaks of 'this rather perplexing subject'elsewhere, 'perplexing & unintelligible'·-whereby forms don't just 'change', but change by always diverging from each other (remember, we are in the section on 'Divergence of Character').' Whether as a result of historical accidents, then, or under the action of a specific
+· 'You will find Ch. rv perplexing & unintelligible', he writes to Lyell on September 2, 1859, 'without the aid of enclosed queer Diagram, of which I send old & use· less proof: Burkhardt and Smith, eds, Correspondence of Charles Danvin, p. 329. 5 'The intent of Darwin's famous diagram has almost always been misunderstood', writes Stephen Jay Gould: 'Darwin did not draw this unique diagram simply to illustrate the generality of evolutionary branching, but primarily to explicate the principle of divergence. Danvin's solution ... holds that natural selection will generally favor the most extreme, the most different, the most
+
+, "
+~ ~
+
+·-... --- ....... '· --- --- --co " \ -- -- -"'
+Q
+-~
+
+~
+
+...... ···-·····'···· .......
+~
+
+~
+
+. . !.......
+.~·
+
+········ ....·......... Iii
+
+.···
+
+,
+
+....... ...... ···-··
+
+""
+
+"' ""'
+~
+
+" 0
+
+---
+
+... ·---<:,;
+
+· · --- ---
+
+--- -.... ---
+
+·
+
+divergent forms in a spectrum of variation emanating from any common paren-
+
+'
+
+tal stock. ... Note how only two species of the original array (A-L) ultimately leave descendants-the left extreme A and the near right extreme I. Note how each diversifying species first generates an upward fan of variants about its modal form, and how only the peripheral populations of the fan survive to diversify further. Note that the total morphospace (horizontal axis) expands by divergence, although only two of the original species leave descendants.' Stephen jay Gould, The Structure of Evolutionary Theory, Cambridge, MA 2002, pp. 228-9, 235-6.
+
+70
+
+GRAPHS, MAPS, TREES
+
+'principle', 6 the reality of divergence pervades the history of life, defining its morphospace-its space-of-forms: an important concept, in the pages that follow-as an intrinsically expanding one. From a single common origin, to an immense variety of solutions: it is this incessant growing-apart oflife forms that the branches of a morphological tree capture with such intuitive force. 'A tree can be viewed as a simplified description of a matrix ofdistances', write CavalliSforza, Menozzi and Piazza in the methodological prelude to their History and Geography ofHuman Genes; and figure 29, with its mirrorlike alignment of genetic groups and linguistic families drifting away from each other (in a 'correspondence [that] is remarkably high but not perfect', as they note with aristocratic aplomb),' makes clear what they mean: a tree is a way of sketching how far a certain language has moved from another one, or from their common point of origin. And iflanguage evolves by diverging, why not literature too?
+
+r I
+FIGURE 29:
+
+Linguistic trees
+POPULATIONS LINGUISTIC FAMILIES
+
+GENETIC TREE
+
+Mbutl Pygmy-W. Afrtcan - - - - , Bantu Nl!o!1c San (Bushmen)
+Ethiopian~
+
+Original language unknown
+Niger*Kordofanian
+Nilo~Saharan
+
+Khoisan
+
+Berber, N..,Af~ s. w. Asian
+lraniang European Sardinian
+
+Indian S. E Indian Lapp------,
+Samoyed
+
+Mongor - - - - - ,
+Tibetan Korean ------1 Japanese
+
+----+--
+
+I
+
+A!taic Alnu-----1 N. Tur1dc Eskimo---- Eskimo~A!eut Chukchi Chukchi~Kamchatkan S.Amerind ~ C. Amerind Amerind
+N. Amerind
+
+------t~:":=,=~·=~=·m"'='·"' ~ '' . '
+~~~--------------------·
+
+Sino~Tibetan
+
+;E@~@ fS ri: ~ .tJ
+
+m~
+
+' ·
+
+For Darwin, 'divergence of character' interacts throughout history with 'natural selection and extinction': as variations grow apart from
+'One might say ... that "divergence of character'' requires no separate principle beyond adaptation, natural selection, and historical contingency ... Climates alter; topography changes; populations become isolated, and some, adapting to modified environments, form new species. What more do we need? ... But Darwin grew dissatisfied with a theory that featured a general principle to explain adaptation, but then relied upon historical accidents of changing environments to resolve diversity. He decided that a fully adequate theory of evolution required an equally strong principle of diversity, one that acted intrinsically and predict~ ably': Gould, Structure, p. 226. 7 Luigi Luca Cavalli-Sforza, Paolo Menozzi and Alberto Piazza, The History and Geography of Human Genes, Princeton 1994, pp. 38, 99 (italics mine).
+6
+
+N. W. Amerind - - Na·Oene S. Chinese Sino·Tibetan Mon Khmer Austro~siatic T h a i - - - - - Daic Austric Indonesian ~ Malaysian Philippine Austronesian
+Polynesian
+
+Micronesian
+Melanesian ---,
+
+New Guinean
+Australian
+
+-..J
+
+lndo~Pacif!c
+
+Australian
+
+Why is there a close similarity between linguistic and genetic trees? ... The correlation is certainly not due to the effect of genes on languages; if anything, it is likely that there is a reverse influence, in that linguistic barriers may strengthen the genetic isolation between groups speaking different languages . .. The explanation of the parallelism between genetic and linguistic trees is to be sought in the com· mon effect of ... events determining the separation of two groups. After fission and migration of one ~r bo~ moieties to a different area, they are partially or completely isolated from each other. Reciprocal 1solatwn causes both genetic and linguistic differentiation. L. Luca Cavalli-Sforza, Paolo Menozzi and Alberto Piazza, The Histcry and Geography of Human Genes
+
+I
+
+I
+
+I
+
+72
+
+G RAPHS 1 MAPS 1 TREES
+
+each other, selection intervenes, allowing only a few to survive. In a seminar of a few years ago, I addressed the analogous problem of literary survival, using as a test case the early stages of British detective fiction. We chose clues as the trait whose transformations were likely to be most revealing for the history of the genre, and proceeded to chart the relationships between Arther Conan Doyle and some of his contemporaries as a series ofbranchings, which added up to the (modest) tree of figure 30. 8 Here, from the very first branching at the bottom of the tree (whether clues were present or not) two things were immediately clear: the 'formar fact that several of Doyle's rivals (those on the left) did not use clues-and the 'historicar fact that they were all forgotten. It is a good illustration of what the literary market is like: ruthless competition-hinging on form. Readers discover that they like a certain device, and if a story doesn't seem to include it, they simply don't read it (and the story becomes extinct). This pressure of cultural selection probably explains the second branching of the tree, where clues are present, but serve no real function: as in 'Race with the Sun', for instance, where a clue reveals to the hero that the drug is in the third cup of coffee, and then, when he is offered the third cup, he actually drinks it. Which is indeed 'perplexing & unintelligible', and the only possible explanation is that these writers realized that clues were popular, and tried to smuggle them into their stories-but hadn't really understood how clues worked, and so didn't use them very well.
+8
+
+FIGURE 30:
+
+Presence of clues and the genesis of detective fiction
+The Red-Headed League {Doyle] A Case of Identity {Doyle] The Adventure of the Speckled Band [Doyle] The Adventure oft he Blue Carbuncle {Doyle]
+
+The Adventure of the Noble Bachelor [Doyle] The Boscombe Valley Mystery [Doyle] The Five Orange Pips [Doyle)
+
+I
++(perhaps)
+
+Decodable
+A Se>1ndal in Bohemia [Doyle] The Man with the Twisted Up [Doyle) The Adventure of the Engineer's Thumb [Doyle] The Adventure of the Beryl Coronet [Doyle] The Adventure oft he Copper Breeches [Doyle] M. McDonnell Bodkin, How He Cut His Stick Catherine L. Pirkis, The Redhi/f Sisterhood Balduin Groller, Anonymous LettetS
+
+The Boscombe Valley Mystery [Doyle] The Five Orange Pips {Doyle] The Red-Headed league [Doyle] A Case of Identity [Doyle] The Adventure oft he Speckled Band {Doyle) The Adventure of the Blue Carbuncle [Doyle] The Adventure of the Noble Bachelor [Doyle)
+
++
+Visible
+
+Guy Boothby, The Duchess of Wilshire's Diamonds l. T. Meade, Clifford Halifax, Race with the Sun
+
+Doyle, The AdvMtures of Sherlock Holmes M. McDonnell Bodkin, How He Cut His Stick Catherine L. Pirkis, The Redhi/1 Sisterhood Balduin Gro!!er, Anonymous LettetS
+
+Necessary
+
+I
+Clifford Ashdown, The Assyrian Rejuvenator Pa!!e Rosenkranz, A Sensible Course ofAction Alice Williamson, The Robbery at Foxborough Huan Mee, In Masquerade Doyle, The Adventures of Sherlock Holmes M. McDonnell Bodkin, How He Cut His Stick Catherine l. Pirkis, The Redhill Sisterhood Balduin Gro!ler, Anonymous Letters Guy Boothby, The Duchess of Wilshire's Diamonds LT. Meade, Clifford Halifax, Race with the Sun
+
+I am here summarizing and updating the results of a larger study, 'The Slaughterhouse of Literature', Modern Language Quarterly, March 2ooo. It should however be kept in mind that a process of selection determined by a single character, like the one presented here, is almost certainly atypical: it is (hopefully) valid for detective fiction, given the centrality of clues within its narrative structure-but it is precisely this 'condensation' of the structure in a single element that is highly unusual. As a rule, literary trees will have to be based on a multiplicity of morphological traits.
+
++
+Presence of clues
+
+From the standpoint of technique, the devices employed by Conan Doyle in his stories are simpler than the devices we find in other English mystery novels. On the other hand, they show greater concentration ... The most important clues take the form of secondary facts, which are presented in such a way that the reader does not notice them ... they are intentionally placed in the oblique form of a subordinate clause , .. on which the storyteller does not dwell. Viktor Shklovsky, Theory of Prose
+
+74
+
+GRAPHS, MAPS, TREES
+
+r
+FIGURE
+
+Third branching: clues are present, they have a function, but are not visible: the detective mentions them in his final explanation, but we have never 'seen' them in the course of the story. Here we lose the last of Doyle's rivals (which is exactly what, sooner or later, we had expected to see), but we also lose half of the Adventures of Sherlock Holmes, which we hadn't expected at all; and the next branchingclues must be not just visible, but decodable by the reader: soon to become a key 'technical law' of the genre-is even more surprising, since decodable clues appear, even being generous, in only four of the twelve Adventures and, being strict, in none of them. Why this last-minute stumble on Doyle's part? I try to explain it in 'The Slaughterhouse of Literature', and wlll not repeat the argument here. But I will mention an objection raised in the course of the seminar to the logic behind figure 30. This tree, said one of the participants, assumes that morphology is the key factor of literary history: that Doyle owes his phenomenal success to his greater skill in the handling of clues; to his being the only one who made it to the top of the tree, as it were. But why should form be the decisive reason for survival? Why not social privilege instead-the fact that Doyle was writing for a well-established magazine, and his rivals were not? Plausible. So I went to the library, where I discovered that, in the course of the 189os, over one hundred detective stories by twentyfive different authors had been published in the Strand Magazine alongside Sherlock Holmes. Since so many writers had access to the same venue as Doyle, the 'social privilege' objection lost its force; but, more importantly, the study of those hundred-odd stories-while confirming the uniqueness of Doyle's technical feat-also added two entirely new branches to the initial tree of detective fiction (figure 31). The more one looked in the archive, in other words, the more complex and 'darwinian' became the genre's morphospace. The family of narrative forms evoked in the first of these chapters was beginning to take shape.
+
+31: Presence of clues and the genesis ofdetective fiction
+Evoked Symptoms Present, but not necessary Necessary, but Visible, but not visible not decodable Decodable
+
+Absent
+1900
+
+Necessary, but Visible, but ooh1,1ble oot decod·ble
+1
+
+I
+
+Decod bl
+
+I'
+
+e
+
+Symptoms
+
+Present, but not necessary
+
+I
+
+Absent
+
+Evoked
+
+'---1
+
+I
+
+In ~is diagram, where the thickness of the line indicates the number of stories published ~unng each year, the two new branches are the second and third from the left. The former ~ndudes those stories in which dues are not present, but are verbally evoked, or perhaps mvoked by the characters ('If only we had a clue!'; 'Did you find any dues?'), in what is probably another awkward attempt to smuggle them into a text that does not really need them. In the third branch from the left, dues are present, but always in the form ofmedi I " symptoms, as l'f' m homage to the old art of medical semiotics-which had of course been Doyle's mod~l f~om the ':'ery ~tart: Holmes is modelled on Edinburgh's Dr Bell, has always a doctor at hts stde, studtes his clients as if they were patients, etc.
+
+76
+
+GRAPHS, MAPS, TREES MORETTI:
+
+Trees
+
+77
+
+II
+
+Is divergence a factor, in literary history? These first finding~ suggest a cautious Yes. But what is it, that generates this morphologiCal dnft· ing-away? Texts? I doubt it. Texts are distributed on the branches of the tree, yes, but the 'nodes' of the branching process ~~e ~?t defined by texts here, but by clues (their absence, presence, VIs1b1hty etc): by something that is much smaller than any individual text-a sentence, a metaphor ('It was the band! The speckled band!'), at times ('!could only catch some allusion to a rat') not even ~ full word. And on the other hand, this system of differences at the m1croscop!clevel adds .up to something that is much larger than any individual text, and wh1ch in our case is of course the genre--or the tree-of detective fiction. The very small, and the very large; these are the forces that shape literary history. Devices and genres; not texts. Texts are certamly the real objects ofliterature (in the Strand Magazine you don't find 'clues' or 'detective fiction', you find Sherlock Holmes, or Hilda Wade, or The Adventures of a Man of Science); but they are not the right ob~ects of knowledge for literary history. Take the concept ofgenre: usual~y, hterary criticism approaches it in terms of what Ernst Mayr calls typolog1· cal thinking':9 we choose a 'representative individual', and through it define the genre as a whole. Sherlock Holmes, say, and detecttve fi~· tion; Wilhelm Meister and the Bildungsroman; you analyse Goethe s novel and it counts as an analysis of the entire genre, because for . typol~gical thinking there is really no gap between the real object and the object of knowledge. But once a genre is visualized as a tree, the continuity between the two inevitably disappears: the genre becomes an abstract 'diversity spectrum' (Mayr again), whose internal multl· plicity no individual text will ever be able to represent. And so, even 'A Scandal in Bohemia' becomes just one leafamong many: dehghtful, of course-but no longer entitled to stand for the genre as a whole.
+9
+
+A diversity spectrum. Quite wide, in figures 30 and 31, because when a new genre first arises, and no 'central' convention has yet crystallized, its space-of-forms is usually open to the most varied experiments. And then, there is the pressure ofthe market. The twenty-five authors ofthe Strand Magazine are all competing for the same, limited market niche, and their meanderings through morphospace have probably a lot to do with a keen desire to outdo each other's inventions: after all, when mystery writers come up with an 'aeronaut' who kills a hiker with the anchor of his balloon, or a somnambulist painter who draws the face of the man he has murdered, or a chair that catapults its occupants into a neighboring park, they are clearly looking for the Great Idea that will seal their success. And yet, just as clearly, aeronauts and cata· pults are totally random attempts at innovation, in the sense in which evolutionary theory uses the term: they show no foreknowledge-no idea, really-of what may be good for literary survival. In making writers branch out in every direction, then, the market also pushes them into all sorts of crazy blind alleys; and divergence becomes indeed, as Darwin had seen, inseparable from extinction. There are many ways of being alive, writes Richard Dawkins, but many more ways ofbeing dead-and figures 30 and 31, with all those. texts that were so quickly forgotten, fully bear out his point: literary pathology, one may almost call it. But instead of reiterating the verdict of the market, abandoning extinct literature to the oblivion decreed by . its initial readers, these trees take the lost 99 per cent of the archive and reintegrate it into the fabric of literary history, allowing us to finally 'see' it. It is the same issue raised in the first chapter-the one per cent ofthe canon, and the ninety-nine offorgotten literature--but viewed from a different angle: whereas graphs abolish all qualitative difference among their data, trees tryto articulate that difference. In the graph of British novels between r7ro and r8so, for instance (figure 14), Pride and Prejudice and The Lifo of Pill Garlick; Rather a Whimsical Sort of Fellow, appear as exactly alike: two dots in the r8r3 column, impossible to tell apart. But figures 30 and 3I aim precisely at distinguishing 'The Red-Headed League' from 'The Assyrian
+
+See Ernst Mayr, Populations, Species and Evolution, Cambridge, MA r970; Evolution and the Diversity of Life, Cambridge, MA 1976; and Toward a New Philosophy of Biology, Cambridge, MA 1988.
+
+78
+
+GRAPHS, MAPS, TREES
+
+r
+MORETTI:
+
+Trees
+
+79
+
+Rejuvenator' and 'How He Cut His Stick', thus establishing an intelligible relationship between canonical and non-canonical branches.
+
+FIGURE 32:
+
+Tree of Culture
+
+III
+
+Trees; or, divergence in literary history. But this view of culture usually encounters a very explicit objection. 'Among the many differences in deep principle between natural evolution and cultural change', writes Stephen Jay Gould, their 'topology'-that is to say, the abstract overall shape of the two processes-is easily the most significant:
+Darwinian evolution at the species level and above is a story of continuous and irreversible proliferation ... a process of constant separation and distinction. Cultural change, on the other hand, receives a powerful boost from amalgamation and anastomosis of different traditions. A clever traveller may take one look at a foreign wheel, import the invention back home, and change his local culture fundamentally and forever. ro
+
+THE TREE OF LIFE AND THE TREE OF THE KNOWLEDGE OF GOOD AND EVIL-THAT IS, OF HUMAN CULTURE
+
+The traveller and his wheel are not a great example (they are a case of simple diffusion, not of amalgamation), but the general point is clear, and is frequently made by historians of technology. George Basalla:
+Different biological species usually do not interbreed, and on the rare occasions when they do their offspring are infertile. Artifactual types, on the other hand, are routinely combined to produce new and fruitful entities ... The internal combustion engine branch was joined with that of the bicycle and horse-drawn carriage to create the automobile branch, which in turn merged with the dray wagon to produce the motor truck. u
+
+b~~;~~~:e ~u~i::rybcann~t be ~o described, even metaphorically. There is apco~~:a~t time. Culture , . ra~c es a s~ grow together again, wholly or partially, all the . . diverg~s, but lt syncretizes and anastomoses too. Life really does nothin ;;-:~::;~:~I~ ~ccas~nal~onverge~ces are superficial resemblances, not a joining or = coalesce .t ~n~ on f ~tree ofhfemay approach another branch; it will not normally
+
+"f:: ~:;;:~eitof~~a:;o~~ti~n c~n be portrayed properly as a tree of life, as Darwin h ' · un s, ranches, and twigs. The course of develo m f
+with
+1
+
+assimilations, ;r
+
+ac~l::~ti~n:U~i~~:~:~:~~~~~:a~::~:!:n~s~~t~:s~~escences,
+Alfred Kroeber, Anthropology
+
+Artifactual species combined in new and fruitful entities: in support of his thesis, Basalla reproduces Alfred Kroeber's ingenious 'tree of culture' (figure 32), whose Alice-in-Wonderland quality makes the reality of
+w
+
+convergence unforgettably clear. As it should be beca · · d d ' use convergence IS m ee a major factor of cultural evolution. But is it the only one?
+
+Stephen Jay Gould, Full House. The Spread of Excellence from Plato to Danvin, New York 1996, pp. 220-1. " George Basalla, The Evolution of Technology, Cambridge 1988, pp. 137-8.
+
+'Culture diverges, but it syncretizes and anastomoses too'' runs Kroeber' s co_rnmentto the tree of culture; and Basal!a: 'the oldest surviving made thmgs ... stand at the beginning of the interconnected, branching, contmuous senes of artifacts shaped by deliberate human efforf Interconnected and branching; syncretism and divergence: rather tha~
+
+r
+80 GRAPHS 1 MAPS, TREES
+
+MORETTI:
+
+Trees
+
+8r
+
+irreconcilable 'differences in deep principle' between convergence and divergence, passages like these (which could be easily multiplied) suggest a sort ofdivision oflabour between them; or perhaps, better, a cycle to which they both contribute in turn. Convergence, I mean, only anses on the basis ofprevious divergence, and its power tends in fact to be directly proportional to the distance between the original branches (bicycles, and internal combustion engines). Conversely, a successful convergence usually produces a poweifol new burst ofdivergence: like the 'new evolutionary series [which] began almost immediately after Whitney's [cotton gin] was put to work', and which quicldy became, concludes Basalla, 'the point of origin for an entirely new set of artifacts'." Divergence prepares the ground for convergence, which unleashes further divergence: this seems to be the typical pattern. '3 Moreover, the force of the two mechanisms varies widely from field to field, ranging from the pole of technology, where convergence is particularly strong, to the opposite extreme of language, where divergence-remember the 'matrix of distances' of figure 29-is clearly the dominant factor; whilethespecificpositionofliterature-thistechnology-of-languagewithin the whole spectrum remains to be determined. ' 4 And don't be
+" Basalla, The Evolution of Technology, pp. 30, 34'3 It is easy (in theory, at least) to envision how this cyclical matrix could be applied to the history of genres: convergence among separate lineages would be decisive in the genesis of genres of particular significance; then, once a genre's form stabilizes, 'interbreeding' would stop, and divergence would become the dominant force. 14 In Thomas Pavel's recent La pensie du roman, Paris 2003, which is the most ambitious theory of the novel since the masterpieces of the inter~war years, divergence is the fundam~ntal force during the first seventeen centuries of ~e novel's existence, and convergence in the last three (these are my extrapolatiOns, not Pavel's). The interpretation of these results is however far from obvious. Should one insist on the striking quantitative supremacy of divergence even in the notoriously 'synchretic' genre of the novel? Or should one focus on the (ap~ar.ent) historical trend, viewing divergence as a 'primitive' morphological pnnc1ple, and convergence as a more 'mature' one? And are Balzac, say, or Joyce, only instances of convergence (pp. 245, 373)-or are they also the initiators of strikingly new formal branches? All questions for another occasion.
+
+misled by the 'topological' technicalities of all this: the real content of the controversy, not technical at all, is our very idea of culture. Because if the basic mechanism of change is that of divergence, then cultural history is bound to be random, full of false starts, and profoundly path-dependent: a direction, once taken, can seldom be reversed, and culture hardens into a true 'second nature'-hardly a benign metaphor. If, on the other hand, the basic mechanism is that of convergence, change will be frequent, fast, deliberate, reversible: culture becomes more plastic, more human, if you wish. But as human history is so seldom human, this is perhaps not the strongest of arguments.
+
+IV
+
+One last tree: this time, not the 'many more ways of being dead' of Doyle's rivals, but the still numerous 'ways of being alive' discovered between r8oo and 2ooo by that great narrative device known as 'free indirect style'. The technique was first noticed in an article on French grammar published in r887 in the Zeitschrift for romanische Philologie, which described it, in passing, as 'a peculiar mix of indirect and direct discourse, which draws the verbal tenses and pronouns from the former, and the tone and the order of the sentence from the latter' .'5 Here is an example from Mansfield Park:
+It was the abode of noise, disorder, and impropriety. Nobody was in their right place, nothing was done as it ought to be. She could not respect her parents, as she had hoped. '6
+
+Nobody was in their right place, nothing was done as it ought to be: the tone is clearly Fanny's, and expresses her profound emotional frustration at her parents' house. Nobody was in their right place ...
+A. Tobler, 'Vermischte Beitrage zur franzOsischen Grammatik', Zeitschrift fUr romanische Philologie, r887, p. 437· 6 ' Mansfield Park, ch. 39·
+15
+
+82
+
+GRAPHS, MAPS, TREES
+
+MORETII:
+
+Trees
+
+83
+
+She could not respect her parents: the (past) verbal tenses and (third person) pronouns evoke for their part the typical distance of narrative discourse. Emotions, plus distance: it is truly a peculiar mix, free indirect style, but its composite nature was precisely what made it 'click' with that other strange compromise formation which is the process of modern socialization: by leaving the individual voice a certain amount of freedom, while permeating it with the impersonal stance of the narrator, free indirect style enacted that veritable transposition de l'objectifdans le subjectif'7 which is indeed the substance of the socialization process. And the result was the genesis of an unprecedented 'third' voice, intermediate and almost neutral in tone between character and narrator: the composed, slightly resigned voice of the well-socialized individual, of which Austen's heroines-these young women who speak of themselves in the third person, as if from the . exampIes. ,s outside-are sueh stunmng
+Placed as it is halfWay between social doxaand the individual voice, free indirect style is a good indicator of their changing balance of forces, of which the tree in figure 33 (overleaf) offers a schematic visualization. And as can be seen, not much happens as long as free indirect style remains confined to western Europe; at most, we have the gradual, entropic drift from 'reflective' to 'non-reflective' consciousness:'' that is to say, from sharp punctual utterances like those in Manifteld Park, to Flaubert's all-encompassing moods, where the character's inner space is unknowingly colonized by the commonplaces of
+" Charles Bally, 'Le style indirecte libre en frans:ais moderne', GermanischRomanische Monatschrift, r9r2, second part, p. 6o} t8 I have analysed in detail the connexion between free indirect style and socialization in 'Ilsecolo serio', Il romanzo, vol. I, Torino 2oor (forthcoming, Princeton 2005). Needless to say, I do not claim that free indirect style is only used to represent the process of socialization (which would be absurd).' but ra~er that between the two existed--especially early on-a profound elective affimty. 19 For these terms, see Ann Banfield's classic study of free indirect style, Unspeakable Sentences, Boston r982.
+
+public opinion. But just as the individual mind seems about to be submerged by ideology, a geographical shift to the east reverses the trend, associating free indirect style with conflict rather than with consensus. Raskolnikov's inner speech, writes Bakhtin
+is filled with other people's words that he has recently heard or read [and is] constructed like a succession of living and impassioned replies to all those words ... He does not think about phenomena, he speaks with them ... he addresses himself (often in the second person singular, as if to another person), he tries to persuade himself, he taunts, exposes, ridicules himself. 20
+
+A language filled with 'other people's words', just like Emma Bovary's: but where those words, instead of being passively echoed, arouse 'living and impassioned replies'. Or to quote the passage chosen by Bakhtin himself to illustrate his point (it's the moment when Raskolnikov reacts to the news of his sister's impending marriage):
+'Won't take place? And what are you going to do to stop it? Forbid it? By what right? What can you promise them instead, in order to possess such a right? To devote your whole life, your whole future to them, when you finish your course and get a job? We've heard that one before, that's just maybe-what about now? I mean, you've got to do something right now, do you realize that?' ... It was a long time since {these questions] had begun to lacerate his heart, and it was positively an age since his present sense of anguish and depression had come into being ... It was clear that now was not the time to feel miserable, to suffer passively with the thought that the questions were not capable of resolution; no, instead he must do something, and at once, as quickly as possible. Whatever happened, he must take some action, or else ... 21
+Mikhail Bakhtin, Problems of Dostoevsky's Poetics, 1929-63, Minneapolis r984, pp. 237-8. The dialogic reinterpretation offree indirect style sketched by Bakhtin is extensively developed in Volosinov's chapters on 'quasi-direct discourse' in Marxism and the Philosophy ofLanguage [r929], Cambridge, MA r993, pp. I25-59; see also Gary Morson and Caryl Emerson, Mikhail Bakhtin. Creation ofa Prosaics, Palo Alto, CA I990, esp. pp. 343-4. 21 Crime and Punishment, ch. 420
+
+T
+MORETTI: FIGURE
+2000
+Roa Bastes
+
+Trees
+
+85
+
+33: Free indirect style in modem narrative, 18oo-2ooo Great page. But can we really speak of free indirect style for those sentences in 'the second person singular, as if to another person' that open th\' passage, and that are so crucial for Bakhtin's argument (and for his entire theory of the novel)? No, not quite: the second person (especially if in quotes) indicates the direct discourse of an open-ended discussion, rather than (as in the second half of the passage) the narrative report of thoughts and emotions which is the typical modality of free indirect style. Why this double register, then, in the representation of Raskolnikov's inner debate? Probably, what happened was something like this: once free indirect style 'migrated' into the world of Crime and Punishment, it began drifting towards the stylistic centre of gravity of the novel--dialogism-and became as a result much more intense and dramatic than ever before ('it was clear that now was not the time to feel miserable .. .'). It became, one could say, almost dialogic. Almost. But in the end, free indirect style was a narrative technique, whose retrospective inflection ruled out the open-endedness of dialogism. And so, after having shuttled back and forth between the two techniques, Dostoevsky toned down free indirect style, so that dialogism could come into its own. A branch of the tree of life may approach another branch, wrote A. L. Kroeber in the passage quoted a few pages back, but it will not normally coalesce with it. True. And at times, the same is true of the tree of culture: even an extraordinarily flexible technique like free indirect style (and in the hands of a writer of genius) could never 'coalesce' with the branch of dialogism, no matter how close the two styles had come to each other. Culture is not the realm of ubiquitous 'hybridity': it, too, has its barriers, its impassable limits. In a moment, we will encounter another exa_mple.
+Austen
+
+Garda M<lrquez Carpentier Vargas Llosa
+
+1950
+Asturias
+
+Woolf
+
+joyce
+
+Maran
+Proust
+Lawrence
+
+Mann
+
+1900 y Clarrn Zola
+
+J--Perez Gald6s
+
+james
+
+ironic
+
+-~"
+Flaubert
+
+Dostoevsky
+
+Goethe
+
+1800
+second person 1orality 1collective
+
+V'""
+
+v
+first person 1 thought f individual
+
+This figure reflects work in progress, and is therefore quite tentati:e, e?ecia~y in the case of non-European literatures, and of the diachronic span of the vanous ranc es.
+
+Bakhtin's conceptual vocabulary, with its emphasis on the oral threads within novelistic prose, is a good prologue to the next branching of
+
+86
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Trees
+
+87
+
+the tree, which occurs around r88o, at the height of the naturalist movement. Here, the fault line-which is, again, geographic and morphological at once-runs between different forms of symbolic hegemony in fin-de-siecle Europe: in the West, the silent, interiorized doxa oflarge nation-states, arising almost impersonally from newspapers, books, and an anonymous public opinion; in the South, the noisy, multi-personal 'chorus' (Leo Spitzer) of the small village of I Malavoglia, or the sharp whispers of the provincial confessionals of La Regenta; later, the longue duree of collective oral myths in Batouala or Men of Maize."' Here, free indirect style embodies a form of social cohesion which-in its reliance on explicit, spoken utterances, rather than 'non-reflective' absorption-is more quarrelsome and intrusive than in western Europe, but also much more unstable: the spokesmen for the social (villagers, confessor, chief) must be always physically there, ready to reiterate over and over again the dominant values, or else things fall apart. As indeed they do, in all of these novels. Another collective voice, of a different nature, echoes in the same years in Zola's Germinal: the voice of the working class. The main speaker, at the great nocturnal gathering during the miners' strike:
+Two examples. 'Nowadays mischief-makers got up to all kinds of tricks; and at Trezza you saw faces which had never been seen there before, on the cliffs, people claiming to be going fishing, and they even stole the sheets put out to dry, if there happened to be any. Poor Nunziata had had a new sheet stolen that way. - Poor girl! Imagine robbing her, a girl who had worked her fingers to the bone to provide bread for all those little brothers her father had left on her hands when he had upped and gone to seek his fortune in Alexandria of Egypt.' Giovanni Verga, I Malavoglia, ch. 2. 'He's a good old man, the sun, and so equitable! He shines for all living people, from the greatest to the most humble. He knows neither rich nor poor, neither black nor white. Whatever may be their colour, whatever may be their fortune, all men are his sons. He loves them all equally; favours their plantations; dispels, to please them, the cold and sullen fog; reabsorbs the rain; and drives out the shadow. Ah! The shadow. Unpityingly, relentlessly, the sun pursues it wherever it may be. He hates nothing else.' Rene Maran, Batouala, ch. 8.
+22
+
+~hese poor de~ls, they ~ere just machine-fodder, they were penned hke cattle, the big co~pames were devouring them bit by bit, legalizing slavery · · · But the mmer was no longer the ignorant brute buried in the ~owels of the earth ... From the depths of the pit an army was springmg up · · . Yes!, labour would call capital to account, this impersonal god, unknown to the worker, crouching somewhere in the mystery of its tab~rnacle, whence he sucked the blood of the poor starving creatures he hved on! 2 3
+
+Here, we find all of the elements we have encountered so far. There IS the emotional spark (ces miserables ... ) that brings free indirect style mto bemg. There is the overlap of character and narrator (with the metaphor of the avengmg army that will return, unforgettably, m the last sentence of the novel), and the telescoping of individual and sooal class, Wlth the 'we' of direct discourse that turns into the thud person p~ural. And then, there is the metamorphosis of popular language mto French'. Eugen Weber:
+French, which prizes abstract terms over concrete ones ... refines language by elimin~ting the de~ails that count so much in popular speech and ~he great vanety of specific and descriptive terms that flourished in pat~1s. It prefers to interpret rather than describe reality, to express ideas, not JUSt to relate facts. 24
+
+Peasants into Frenchmen, is the title of Weber's book; miners into Frenchmen, one could repeat for the free indirect style of Germinal, that seems to find a VOICe for the 'nationalization of the masses' of the late 19th century. Not for nothing, its ideal vehicle is Etienne Lantier, who IS at once one of the miners, and their 'representative': the man who has risen from the ranks because he 'speaks well' (and hopes to use h1s grft to make a career-in Paris, possibly). Class antagonism although powerfully expressed, bleeds oddly into individual ambition:
+23
+24
+
+Germinal rv.7.
+
+Eugen Weber, Peasants into Frenchmen. The Modernization of Rural France
+
+1870-1914, Stanford 1976, p. 9 3-
+
+88
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Trees
+
+89
+
+placing free indirect style once again in a position-if not exactly ambiguous-of implicit, and almost invisible, social mediation.
+
+VI
+
+So far, the social and 'objective' sides of free indirect style have dominated the scene: the 'truths' of the neo-classical narrator, the doxa of public opinion, the force of abstract ideas, the voice of small communities, of social classes, of collective oral myths ... But around 1900 a different group of writers begins to experiment at the opposite end of the spectrum, that of the irreducibly singular. First comes a cluster of upper-class stylizations (James, Mann, Proust, Woolf ... ), where the deviation from social norms is often so slight that it may not even form a separate branch; then, more decisive, Joyce's generation unceremoniously drops all stylistic good manners, and pushes its field of observation well inside the secret, unconscious layers of psychic life. The 'objective' side of free indirect style does not quite disappear, if only because of the countless commonplaces that Ulysses inherits from Bouvard and Pecuchet: but joyce reverses their function, and subordinates them to the centrifugal, idiosyncratic drift of Bloom's associations. It's the same double register, and the same final outcome, as that of Crime and Punishment: just as, there, the third person of free indirect style had approached the second person of dialogism, but had been finally ousted by it-so, in Ulysses, the third person is constantly drifting towards, but also yielding to the first person of joyce's chosen technique, the stream of consciousness. ' 5 Here, too, cultural 'interbreeding' encountered a barrier that could not be passed.
+'' 'He looked down at the boots he had blacked and polished. She had outlived him. Lost her husband. More dead for her than for me. One must outlive the other. Wise men say. There are more women than men in the world. Condole with her. Your terrible loss. I hope you'll soon follow him. For hindu widows only. She would marry another. Him? No. Yet who knows after.' James Joyce, Ulysses, ch. 6.
+
+In the final branching of the tree-Latin American 'dictator novels'the fluctuation between third and first person is still there, but its direction has been reversed: in place of a third-person narrative modulating into a first-person monologue, we see the dictator's attempt to objectify his private (and pathological) self into the monumental poses of a public persona. 'My dynasty begins and ends in me, in IHE,' writes Augusto Roa Bastes in I the Supreme; and towards the end of the book:
+HE, erect, with his usual brio, the sovereign power of his first day. One hand behind him, the other tucked in the lapel of his frock coat ... I is HE, definitively, I~HE·SUPREME. Immemorial. Imperishable.~ 6
+
+In Roa Bastes's novel, as in Carpentier's Reasons of State and Garcia Marquez's General in his Labyrinth-the other two dictator novels of 1974, a year after the putsch against Allende in Chile-the 'I' of El Supremo still largely overshadows his 'HE', thus confining free indirect style to quite a limited role. But with Mario Vargas Uosa the technique moves into the foreground, and realizes its full political potential: by presenting the mind offue;'dictator 'unmediated by any judging point of view'-to repeat Ann ~nfield's limpid definition of free indirect style'7- Vargas Llosa endov;,s the putrid substratum of political terror with an unforgettably sinister matter-of-factness:
+Had the United States had a more sincere friend than him, in the past thirty-one years? What government had given them greater support in the UN? Which was the first to declare war on Germany and Japan? Who gave the biggest bribes to representatives, senators, governors, mayors, lawyers and reporters in the United States? His reward: economic sanctions by the OAS to make that nigger R6mulo Betancourt happy, to keep sucking at the tit of the Venezuelan oil. If Johnny Abbes had handled things better and the bomb had blown off the head of that faggot R6mulo, there
+
+zG
+" 7
+
+Roa Bastos, I the Supreme, Normal, IL 2000, pp. 123, 419. Ann Banfield, Unspeakable Sentences, Boston 1982, p. 97-
+
+90
+
+GRAPHS, MAPS, TREES
+
+MORETTI:
+
+Trees
+
+9I
+
+wouldn't be any sanctions and the asshole gringos wouldn't be handing
+
+him bullshit about sovereignty, democracy, and human rights. 28
+
+VII
+
+From the abode of noise and impropriety, where nobody was in their right place, to the asshole gringos handing him bullshit about sovereignty, democracy, and human rights. This is what comparative literature could be, if it took itself seriously as world literature, on the one hand, and as comparative morphology, on the other. Take a form, follow it from space to space, and study the reasons for its transformations: the 'opportunistic, hence unpredictable' reasons of evolution, in Ernst Mayr's words.'9 And of course the multiplicity of spaces is the great challenge, and the curse, almost, of comparative literature: but it is also its peculiar strength, because it is only in such a wide, non-homogeneous geography that some fundamental principles of cultural history become manifest. As, here, the dependence of morphological novelty on spatial discontinuity: 'allopatric speciation', to quote Ernst Mayr one more time: a new species (or at any rate a new formal arrangement), arising when a population migrates into a new homeland, and must quickly change in order to survive. Just like free indirect style when it moves into Petersburg, Aci Trezza, Dublin, Ciudad Trujillo ... Spatial discontinuity boosting morphological divergence. It's a situation that reminds me ofGide's reflections on the form of the novel at the time he was writing The Counterftiters: granted that the novel is a slice oflife, he muses, why should we always slice 'in the direction of length', emphasizing the passage of time? why not slice in the direction ofwidth, and of the multiplicity of simultaneous events? Length,
+8 Vargas Llosa, The Feast of the Goat, ch. 2. '' Mayr, Toward a New Philosophy of Biology, p. 458.
+2
+
+plus width: this is how a tree signifies. And you look at figure 33, or at the others before it, and cannot help but wonder: which is the most significant <)Xis, here-the vertical, or the horizontal? Diachronic succession, or synchronic drifting apart? This perceptual uncertainty between time and (morpho-)space-this impossibility, in fact, of really 'seeing' them both at once-is the sign of a new conception of literary history, in which literature moves forwards and sideways at once; often, more sideways than forwards. Like Shklovsky's great metaphor for art, the knight's move at chess.
+
+VIII
+
+Three chapters; three models; three distinct 'sections' of the literary field. First, the system of novelistic genres as a whole; then, 'the road from birth to death' of a specific chronotope; and now, the microlevel of stylistic mutations. But despite the differences of scale, some aspects of the argument remain constant. First of all, a somewhat pragmatic view of theoretical knowledge. 'Theories are nets', wrote Navalis, 'and only he who casts will catch'. Yes, theories are nets, and we should evaluate them, not as ends in themselves, but for how they concretely change the way we work: for how they allow us to enlarge the literary field, and re-design it in a better way, replac-. ing the old, useless distinctions (high and low; canon and archive; this or that national literature ... ) with new temporal, spatial, and morphological distinctions. In the second place, the models I have presented also share a clear preference for explanation over interpretation; or perhaps, better, for the explanation of general structures over the interpretation of individual texts. This is of course a major issue in its own right; but for now, let me at least say that the point, here, was not a new reading of Waverley, or Black Forest Village Stories, or I Malavoglia, but the definition of those larger patterns that are their necessary preconditions:
+
+r
+92 GRAPHS, MAPS, TREES
+
+the temporal cycles that determine the rise and fall ofliterary genres; the circular patterns of old village cultnre; the cluster of possibilities (and constraints) within which free indirect style accomplished its various symbolic tasks. Were I to name a common denominator for all these attempts, I would probably choose: a materialist conception ofform. An echo of the Marxist problematic of the r96os and 7os? Yes and no. Yes, because the great idea of that critical season-form as the most profoundly social aspect of literature: form as force, as I put it in the close to my previous chapter-remains for me as valid as ever. And no, because I no longer believe that a single explanatory framework may account for the many levels of literary production and their multiple links with the larger social system: whence a certain conceptual eclecticism of these pages, and the tentative nature of many of the examples. Much remains to be done, of course, on the compatibility of the various models, and the explanatory hierarchy to be established among them. But right now, opening new conceptual possibilities seemed more important than justifYing them in every detail.
+
+f
+I
+Alberto Piazza
+
+Evolution at Close Range
+
+I.
+
+I read the last chapter of this book first, because its title and author aroused my interest. That title 'Trees', and the second figure (no. 29) that appears in it concern me professionally, as I have devoted many years of my life to the analysis of evolutionary trees drawn from the biological data of human populations. The construction of that figure is based on such analyses. I have been able to devote less time to Franco Moretti's other writings; but The Way of the World and Atlas of the European Novel had earlier struck me by their ambition to tell the 'stories' of literary structures, or the evolution over time and space of cultural traits considered not in their singularity, but their complexity. An evolution, in other words, 'viewed from afar', analogous at least in certain respects to that which I have taught and practised in · my study of genetics. Curiosity then prompted me to read the other two. chapters of this triptych, and to offer some general reflections to its readers. What follows is an attempt to lay these out as a contribution to an interdisciplinary discussion, in the conviction that literary writing can be construed as a system that is not bound by the particular instruments it has itself created, and is therefore capable of metabolizing metaphors and ambiguities belonging to several systems of knowledge. I will add that the system of scientific knowledge, especially that of modem molecular biology, is paradoxically very well suited to
+
+96
+
+GRAPHS, MAPS, TREES
+
+PIAZZA:
+
+Afterword
+
+97
+
+such a metabolizing function: let me just point out how, in technical language, we commonly speak of the 'translation' and 'transcription' of DNA.
+
+Biological evolution in a literary metaphor
+z. Biological evolution is based on the chemical structure of DNA, which is the biological memory of all beings, human or otherwise. Let us recall Genesis, Chapter 2: 3r8. And the Lord said, It is not good that the man should be alone: I will make him an help meet for him. '9· And out of the ground the Lord God formed every beast of the field, and every fowl of the air; and brought them unto Adam to see what he would call them: and whatsoever Adam called every living creature, that was the name thereof.
+20.
+
+one of the most effective among the many in which nature abounds. The literary metaphor of the rib (consciously or not) offers an elegant introduction to the concept of the transmission of information: we know today that DNA sequences are chains of chemical molecules, whose fimction is to contain the information that regulates the life of each of our cells, and to transmit it from one generation to the next, with changes that may be minimal but are very important for evolution. For information to be transmitted accurately, without errors, a code is required. Linguistic codes and DNA codes, names and genes, present certain analogies in their rules of transmission: mutation, selection, drift are common to them. Both codes are ambiguous, redundant and degenerative. The presence of many names, of a lot of information, makes discrimination essential. What is needed, in other words, is a mechanism that ensures a sufficient but not unlimited variability of significations: thus in the human genome there are some 30-so,ooo genes (that is, units of information), about the same number as there are words in Italian. Information that is codified becomes organized in a structure. The structure evolves over time: the text therefore requires a context. Writing recalls the text from the context, constituting its memory. In the case of DNA, we know the alphabet, and we also know the text (the sequence of the human genome discovered in the last few years), but its meaning remains largely unknown, and constitutes the challenge of the years to come (the 'post-genome'-in a literary metaphor, 'post-modern'years). Its writing is thus for the moment unreproducible, but it is endowed with a very long and precise memory (the so-called 'molecular clock').
+
+And Adam gave names to all cattle, and to the fowl of the air, and to every beast of the field; but for Adam there was not found an help meet for him.
+And the Lord God caused a deep sleep to fall upon Adam, and he slept: and he took one of his ribs, and closed up the flesh instead thereof;
+
+21.
+
+4·
+
+22.
+
+And the rib, which the Lord God had taken from man, made he a woman, and brought her unto the man.
+
+We may deduce that the earliest way of possessing an object was to give it a name bearing as much information as possible: without information there is no possession of life. Yet for the object to enter, relate to and cooperate with us, in other words to be 'convivial', it is not enough to give it a name. There must be a mechanism of 'transcription' (the rib) that transmits the information from one organism to another, perhaps with some slight modification. The mechanism of sexual recombination (the exchange of chromosomes between man and woman) is
+
+I
+98
+GRAPHS, MAPS, TREES
+
+In the case of the literary text, its function changes over time, often constituting a memory of the context more than of itself. In his book In the Vineyard of the Text. Hugh:s Didascalicon, Ivan Illich comments on the Didascalicon of the theologian and mystic Ugo di San Vittore, written around rr28. Ugo di San Vittore testified to a transformation of the ancient art of mem· orizing a monastic manuscript that was intended to be read aloud, to the new art of a book designed to serve history. To read is tantamount to recreating the historical tissue in the heart of the reader. A text, then, that is memory of the past and presage of future transformations of its context. 5· In the biological world of DNA, reading and writing belong to two different but complementary systems. The fact that DNA has the shape of a double and not a single helix obeys the rule that the reading of DNA must be faithfully transcribed, without errors. Much of the energy of our cells is devoted to correcting possible errors of transcription: only a minimal number of these are 'fortunate' errors, in the sense that they can be favourable rather than harmful to our organism, and hence in a broad sense to our species. Still, the presence of the context has induced in us humans-being typically cultural animals-an evolution of the nervous systems that we are currently discovering with astonishment and wonder. The technique of functional magnetic resonance allows us to visualize the activation of the circuits in the brain that preside over the most variegated cognitive paths. Here I would like to mention just one, fascinating field of research into our system of reading. If an individual is asked to read a word, and then the same individual is read the word at a moment when he or she no longer remembers it, a comparison of the two images captured by magnetic resonance reveals that quite distinct areas of the brain are activated. Without entering into the particulars of the functional anatomy implied in the reading and hearing of the same words, let us just emphasise
+
+I I I
+
+PIAZZA:
+
+Afterword
+
+99
+
+once more the importance of the context: an identical mean· ing is perceived by two distinct cognitive systems according to the way in which it is transmitted. Ambiguity, allusion, redun· dance, often vilified as means of cultural impoverishment, are vindicated as forms that not only belong to the literary field, but intervene in that subtle play which begins with the pre· lexical and pre-semantic representation of a text perceived as a picture, and ends in the context-dependent working-out of their meaning. 6. The role of variability in the memory of the past and the construction of the present is fundamental for the evolution of our species: the search for the ways in which this variability is generated in nature was for a long time the major stumbling-block for Darwin, who by a strange quirk of fate never learnt of the revolutionary work of Mendel. In his Way of the World, Franco Moretti proposes the very interesting idea that even literary genres cannot survive without cultural variety. The genre of the Bildungsroman, he shows, was born in Europe after the French Revolution in response to a precise social need: mediation of the conflicting demands of freedom and stability. The narration of youth allows this dilemma to be symbolically transcended: if as a mature man · I narrate my youth, I depict the indeterminacy of my past in the deterininate, stable voice of the adult I have become. In the mediation of a tension with a distension, however, the narrative register creates an equilibrium that is the prelude to a loss ofthe original creative tension, and thus to the progressive extinction of the genre. But in the very different, and ethnically more heterogeneous setting of the United States, a Bildungsroman was reborn in which youth itself narrated its own moral education, in Salinger's Catcher in the Rye. Moretti suggests that the cultural
+
+T
+100 GRAPHS, MAPS, TREES
+
+PIAZZA:
+
+/lfterword
+
+IOI
+
+variability of the American context allowed the transplant of a literary form that had exhausted its social function in Europe.
+
+Biological evolution (very briefly)
+7· Recognizing the role biological variability plays in the reconstruction of the memory of our (biological) past requires ways to visualize and elaborate data at our disposal on a geographical basis. To this end, let us consider a gene (a segment of DNA possessed of a specific, ascertainable biological function); and for each gene let us analyse its identifiable variants, or alleles. The percentage of individuals who carry a given allele may vary (very widely) from one geographical locality to another. If we can verifY the presence or absence of that allele in a sufficient number of individuals living in a circumscribed and uniform geographical area, we can draw maps whose isolines will join all the points with the same proportion of alleles. The geographical distribution of such genetic frequencies can yield indications and instruments of measurement of the greatest interest for the study of the evolutionary mechanisms that generate genetic differences between human populations. But their interpretation involves quite complex problems. When two human populations are genetically similar, the resemblance may be the result of a common historical origin, but it can also be due to their settlement in similar physical (for example, climatic) environments. Nor should we forget that styles of life and cultural attitudes of an analogous nature (for example, dietary regimes) can favour the increase or decrease to the point of extinction of certain genes. 8. Why do genes (and hence their frequencies) vary over time and space? They do so because the DNA sequences of which they are composed can change by accident. Such change, or mutation,
+
+occurs very rarely, and when it happens, it persists equally rarely in a given population in the long run. Most of the genes of which we have knowledge undergo a mutation about every million generations. From an evolutionary point of view, the mechanism of mutation is very important because it introduces innovations; but since our species of Homo sapiens has existed only for some thousands of generations, it is very improbable that mutations exclusive to our species have contributed significantly to the differences that make one population, or one individual, genetically distinct from another. We should rather think of different versions of the same genes that pre-existed the origin of our species, and over time have acquired a different incidence in different populations. The evolutionary mechanism capable of changing the genetic structure of a population most swiftly is natural selection, which favours the genetic types best adapted for survival to sexual maturity, or with a higher fertility. Natural selection, whose action is continuous over time, having to eliminate mutations that are injurious in a given habitat, is the mechanism that adapts a population to the environment that surrounds it, be this tropical, temperate or arctic. The speed of this adaptive process can be quantified and predicted on the basis of the relative distribution of each genetic type transmitted from one generation to the next. Another evolutionary mechanism is random genetic drift. It is the result of the fact that each new generation is produced by a random sample of the genes present in the preceding generation. Take the example of the founders of a new colony on a remote island, with few contacts with the outside world. If by pure chance these founders lack a gene, that gene will disappear from the entire population of the island. Since each generanon can be considered a population sample founding the next
+
+I
+!02 GRAPHS, MAPS, TREES
+
+I
+!
+
+PIAZZA:
+
+Afterword
+
+103
+
+generation, the smaller a given population and the greater its isolation, the wider may be the fluctuations of the frequency of a gene from one generation to the next. Unlike natural selection which favours or penalizes single genes, random genetic drift influences all genes in the same way, altering the frequency of each.
+Migration, the mechanism that unites two physically and genetically separate populations, also acts simultaneously on all genes, but more consistently than random genetic drift. Individuals of population A who emigrate to population B modifY the genetic frequencies of population B, rendering it more like population A, with all the genetic frequencies changing in the same direction.
+
+Of these evolutionary mechanisms, genetic drift is the only one consistent with a phylogenetic representation constructed as a tree of evolution-that is, a series of successive separations of population. A tree offers a good image of the evolution of human populations only when the population depicted on each branch of the tree evolves (that is, changes its genetic frequencies) independently of the changes occurring in the populations on the other branches. There is a good statistical correspondence between the genetic data and some evolutionary trees of human differentiation: one that is all the better when the populations in question are geographically and genetically distant from each other-which is what we would expect, given that the more distant the populations are from each other, the less can their evolutions correlate after their separation. If, on the other hand, we look at European populations, among whom well-known pre-historic and historic migrations have led to mixtures that make independent changes among them highly improbable, the image of a tree is not a good representation of evolution. Another result of the elaboration of real data is that
+
+the branches representing the evolution of various populations are of different lengths, as if the pace of change of each population were measured by clocks of different speeds. This reflects the fact that genetic drift produces a greater change in small and isolated populations, while migration can slow down such change by 'mixing' the genes of populations in the same territory, thus reducing the differences induced by genetic drift. In other words, the rates of evolutionary change can vary from population to population: a population that has undergone many migrations (and is therefore very diverse internally but probably less distinct from other populations) evolves less rapidly-is perched on a shorter branch of the tree-than a population that is isolated (hence rather uniform internally but probably more distinct from other populations). For the historical reasons already adduced, European populations are among those that show a slower rate of evolution than others, and for this reason too it could be misleading to reconstruct their evolution over time in the simple form of a tree.
+
+Evolution ofliterary form
+9· To find out at what point a biological metaphor ceases to be such, and becomes an appropriate research instrument for the history ofliterary forms, we need to see if the evolutionary mechanisms· that produce biological changes-mutations, natural selection, genetic drift and migration-have their counterparts in those active on literary forms. Let me venture some hypotheses. In the first place, the evolutionary mechanisms in the biology and culture ofour species manifest interesting correspondences. If we take language as a cultural phenomenon par excellence, of the four mechanisms that govern our genetic change, we can say that: migration influences genes and languages in the same way; selection operates in both fields-natural selection favour-
+
+104
+
+GRAPHS, MAPS, TREES
+
+PIAZZA:
+
+Afterword
+
+105
+
+ing the phenotype best adapted to survive, and cultural selection the reciprocal lexical and phonetic intelligibility of language; mutation and linguistic innovation perform the same functiongenerating changes which, after occurring by chance in single individuals, are then adopted by other individuals. Turning more specifically from language to literary form, migration is certainly a factor of change. Graphs, Maps, Trees does not tell us how far translation of the same novel into different languages may alter the reception and success of a literary genre in the country where it is translated, but Moretti's findings in the third chapter of Atlas of the European Novel, on literary diffusion and the correlation between literary models and geographical space, suggest an important role for migration, not of people but of 'forms', at least in Europe. Just as natural selection in biology denotes the selection of the biological type that best survives in the given environment, so there is no doubt that some literary forms have more success than others and survive longer thanks to multiple cultural and economic factors of which the graphs in the first chapter of this book (for example, figures 3 to ro) furnish ample and valuable illustration. There is no need to spend many words on mutation, which, by analogy with the biological mechanism, could supply the factors capable of originating a new literary form: as in biology (where mutations of DNA are caused by the most varied agents), such factors are presumably quite diverse, but it is less important to identifY their exact nature than to be sure of their existence. Figure r of 'Graphs' seems more than convincing on this score. What remains to establish is the existence of an evolutionary mechanism analogous to random genetic drift, an extremely delicate task because-as I have explained above-the significance of evolutionary trees in biology depends in large measure on the presence or absence of this mechanism.
+
+ro. A genetic trait can differ profoundly from a cultural typology not only in the evolutionary mechanisms that generate variability, but also in the mechanism whereby such variability is transmitted. While in biology the transmission of information can occur only from parent to child, cultural transmission can make use of other mechanisms. According to the schema proposed by Cavalli-Sforza and Feldman in their Cultural Transmission and Evolution. A Quantitative Approach (Princeton r98r), there are four possible modes of relation between subject and object in the transmission of information:
+A) From parent to child (vertical). This is the mechanism that diffuses biological information, working slowly but selected to preserve inter-individual variability. B) From one individual to another (horizontal). This is a mecha· nism analogous to contagion in an epidemic, where information spreads rapidly.
+
+C) From one to several individuals (for example, from a teacher to pupils
+or a leader to followers). This is the most effective mechanism for the diffusion of an innovation in a social group. D) From several individuals to a single individual. This is the mecha· nism of social pressure: it generally thwarts the diffusion of an innovation.
+
+What is the mechanism of transmission most relevant to literary genres? Even if mechanism A played a pre-eminent role in the past, and explains those links between genes and languages that we can still recognize today, it is clear that the diffusion of a literary genre cannot dispense with a market that favours mechanism C. The family, which has hitherto ensured the transmission not only of genes but of culture, gives way to the figure of the leader- the novelist, if the genre in question is the novel: the transmission of information runs from the single individual to several individuals. The evolutionary mechanism
+
+I06
+
+GRAPHS, MAPS, TREES
+
+r
+
+PIAZZA;
+
+Afterword
+
+!07
+
+known as genetic drift acquires in this context especial relevance. As explained, in genetics drift is the phenomenon whereby the smaller a population, the more frequently genes display only one variant. This is something we readily observe in surnames, which can be considered comparable to the genes to be found in the male chromosome Y: in a country with few inhabitants the number of identical surnames tends to increase, reaching roo per cent if the population is composed of just a single individual. In evolutionary terms, drift reduces the genetic diversity of the population, and therewith its adaptive capacity. Now the cultural mechanism of transmission from one to several individuals represents the most extreme case of such drift: it is as if a single individual transmitted his genes to an entire population, thus reducing and progressively extinguishing genetic diversity. In other words: cultural drift could diffuse cultural information significantly faster, but at the price of reducing it. Moretti's data suggest that the evolution ofliterary forms has been possible till now, or till yesterday, because of their high capacity for innovation, illustrated in figure 9 of 'Graphs', plotting the English novel from 1740 to r9oo. An evolutionary equilibrium between genetic drift, which tends towards homogeneity (and so non-evolution), and mutation, which tends towards innovation, is the condition-well studied at a theoretical level-of hereditary pathologies in isolated populations. Biological reality, as always, is more complex, because natural selection also comes into play if the hereditary pathology is lethal (or less dramatically but more rarely, if treatment exists for it), ·with results that depend on the relative weight of the three factors at work. It is easy to imagine that literary genres also undergo the influence of factors of cultural selection, which have to be studied in the social-historical context (see, for example, the problem of change in literary publics posed by the appearance and disappearance at regular intervals
+
+of the English novelistic genres). The challenge here is to dis· tinguish between the various layers of the term 'environment', which students of biological evolution, as of other disciplines, are fond of using with casual vagueness. A still more radical challenge, putting in question the formulation of quantitative models themselves, is posed by the possibly non-linear nature of such factors: the existence of cyclical patterns of behaviour, for instance, like those revealed in figures 7 and 8 on the hegemonic forms of the English novel in the r8-r9th centuries, is always the sign-also in biology-of the presence of non-linear phenomena. The fact, then, that non-linear phenomena are the norm and not the exception (one need only think of the simple phenomenon of growth in any discipline) constitutes one of the major limits to the development of quantitative models in every field of knowledge today.
+
+Trees
+II.
+
+Trees in general, such as those to be found in figures 28 and 29, are representations composed of a series of successive bifurcations, that depict with maximum economy all the reciprocal 'distances'-or overall diversification-between whatever objects are in question. For example the first tree (figure 28), which may not be easy to read for those viewing such a representation for the first time, illustrates a trait that 'diverges' over time--that is, changes in a succession of variants (in the figure, from bottom to top), of which only some persist through all the diversifications made possible by natural selection to date (represented in the figure by the horizontal line higher up). This is a tree which represents the divergence of a trait over time, or the distance of the trait in question from the moment of its initial observation to that of its final observation after a certain lapse of time. To make the representation clearer, let us suppose the trait is a gene, and that this gene is the sequence of DNA made up of
+
+ro8
+
+GRAPHS, MAPS, TREES
+
+PIAZZA:
+
+1\fterword
+
+109
+
+five elements which I designate AATTC (the real name to which the letters refer is irrelevant). The gene evolves over time-that is, changes. To represent this change in the form of a tree, I must define both a point of departure (the 'root' of the tree) and a line that joins the root to a point representing the moment at which the first change happens, which we may imagine as altering the third element from T to G. A mutation has occurred in the gene AATTC, which becomes the gene AAGTC. From now on the two genes AATTC and AAGTC coexist, and their coexistence is represented by a bifurcation of the tree. Such a point (or time) of bifurcation is called a 'node' of the tree. Every successive episode of diversification can be represented analogously by a node at which a bifurcation originates, and the tree as a whole becomes a succession of bifurcations, at the end of which (that is, at the extremity of the tree which will usually represent the present) we have as many genes that have mutated from the original in the root of the tree as there are bifurcations plus r, unless some of these have become extinct through natural selection. The non-extinct genes which appear at the extremity of the tree are technically called its 'leaves'. What I have just described is the 'phylogenetic tree' of the gene, in the sense that it depicts its evolutionary phylogenesis over time from an initial gene. The reality of the data available to us is, however, quite different. We know the genes that are present today (the leaves of the tree) and we want to infer, without knowing them, the various transitions that have led from the root to the current situation. The phylogenetic tree is thus 'reconstructed' by a process of retrospecti~e inference, based on an evolutionary model. For example, rt rs generally assumed that evolution proceeds at the same rate of change along all branches of the tree; that changes from one node to another are the least possible; that natural selection does not operate; that we cannot find the same change simultaneously in different branches of the tree. It is very important to understand that a tree-like structure (technically a 'topology')
+
+cannot reflect the phylogenesis of the object in question if its evolutionary history is not consistent with the assumptions on which the process of inference is based. Awareness of this is all the more important today, when intensive and often heedless use of computers is capable of generating trees of any aggregate of objects whose reciprocal distance is known. With most of the algorithms now in use, the tree will merely reproduce a topology in which the objects closest to one another will be separated by a lesser number of nodes, and those more distant from each other by a larger number; but it can have no pretension to be a phylogenetic description if the algorithm employed is not congruent with a reasonable model of evolution, whose mechanisms have been explicitly formulated. r2. The tree represented in figure 29 differs from figure 28. Its leaves are not different variants of the same trait or gene, but different linguistic populations or families, distributed across the five continents. What are the relations between the two types of tree and what assumptions are required for testing the phylogenetic validity of the evolutionary tree of human linguistic populations or families? We need to remember that each individual in our species has about 3o-so,ooo genes, and that every population is composed of many individuals, whose history we assume to be common, at least as regards geographical settlement. Since each individual differs from the next by about two per thousand (or 0.2%) ofhis or her DNA, itis reasonable to think that the evolution over time of a gene, or an individual, or a population, will have different rates of changes, and thus different evolutionary trees, that will certainly be correlated but in an unpredictable way. The only certain relationship is that bifurcations in the tree of populations must occur later than bifurcations in the genes of the individuals who compose them: this temporal lag is due to the fact that the individuals of one population differ from those of another by cumulative mutations within many genes and not
+
+IIO
+
+GRAPHS, MAPS, TREES
+
+PIAZZA:
+
+Afterword
+
+III
+
+a single gene. Still, this important distinction between trees of genes and trees of populations is of little interest if the leaves in question are cultural traits like literary genres. More mteresting, however, are two properties of the phylogenetic trees drawn from the study of biological evolution:
+A) If the tree is used to infer the times at which bifurcation occurred, the changes through all the branches, from root to leaves, it is necessary for the changes of the branches, from root to leaves, to occur at a constant speed. This is realistic enough in trees of genes, in so far as single genes vary over time at a roughly constant rate. But it is not realistic in trees of populations, where the variability of genes and individuals is cumulative, and the demography of each population can speed up or slow down change. In other words, here every branch has its own specific rate of variation. B) A real tree of life would foresee not only bifurcations, but trifurcations, quadrifurcations etc, and still more importan:, ~e possibili:tY that once diversified, two or more populations can JOlll together m a reticular weave where genes and cultures not only diverge but converge, as depicted in Kroeber's tree of culture reproduced in figure 32. That the tree in figure 29 is a fairly realistic representation of the evolution of human populations and languages depends
+
+'3-
+
+on the fact that the populations are geographically distant and
+distinct from one another, and that the number of mutual 'borrowings' between linguistic 'families' is reasonably smalL If one were to apply the same tree structure to European populations, it would become evident that the model of successive bifurcations is incomplete, since the network of migrations between different countries would create a reticular structure that could not be confined to tree-like form. From a practical standpoint, however, the development of reticular models is a much more complex, not to say currently impossible, task; so for the moment we must co~tent ourselves with testing the hypothesis that the data can be explamed
+
+These methodological remarks make possible a spedfic comment on the trees presented in the third chapter of this book. Figure 30 represents the phylogenesis of the English detective story, where clues constitute the morphological trait (in biology we would speak of a 'phenotype') that changes over time. This is a tree of the type that tracks changes in a gene and it is easy to reconstruct a biological image of it. Corresponding to each mutation, the nodes of the tree, are enumerated the populations (or individuals) in which the mutant gene is to be found. From a study of the distribution of the populations or individuals associated with each node-that is, the mutation which the node represents-we can infer the 'adaptive' value of the mutation for the individual or the population, in other words whether or not the mutation has been 'chosen' by natural selection to confer an advantage (which is then its presence) or a disadvantage (its absence) on the individual or population. In the tree of clues and the tree of the gene the problem lies not in their topology but, as Moretti himself acknowledges, in the selection and completeness of the clues (mutations) taken into consideration. In order to avoid a drcular argument, caution would also suggest that the selection of detective stories and that of clues should be not only as complete as possible, but also independent of each other. The last tree offered and analysed in this book depicts the evolution from r8oo till today of the narrative technique known as 'free indirect style'. It is reproduced in figure 33· In this bold experiment of comparative morphology, the idea we have noted in Moretti's account of the Bildungsroman returns: that there exists a relation between spatial discontinuity and morphological innovation. This is one of the most stimulating findings of Graphs, Maps, Trees. In Moretti's words, 'a new species (or at any rate a new formal arrangement), arising when a population migrates into a new homeland, and must quicldy change
+
+with the model of a tree. in the knowledge that if this hypothesis
+is not statistically proven, the alternative hypothesis of a reticular structure is the more probable.
+
+II2
+
+GRAPHS, MAPS, TREES
+
+T I
+
+PIAZZA:
+
+Afterword
+
+II3
+
+in order to survive. Just like free indirect style when it moves into Petersburg. Aci Trezza. Dublin, Ciudad Trujillo .. .'.We are dealing, in a literary metaphor, with that 'allopatric speciation' which Ernst Mayr postulated in the 1940s and sos to account for the birth of different species of birds in the same habitat by exclusive effect of geographical distance and lack of geneti~ exchange. The adoption of a similar model for new stylistic vanants, or cultural traits, presupposes that the various branches of the tree cannot exchange information: in the case offree indirect style under consideration, this condition is secured by linguistic discontinuities, but in other applications it would have to be established case by case.
+
+Epilogue
+
+'+
+
+The stimuli offered by this book of Franco Moretti's are many and fascinating, and my remarks are intended as a tribute to them from one who is not a practitioner of the same field, but would like to respond to its challenge. In that spirit, let me end with a reflection. Phylogenetic trees representing biological evolution presuppose an absence and a presence: absence of the effects of natural selection and presence of mutation, migration and random genetic drift. That is not because natural selection is held to be oflittle weight, but because it can operate in many different ways and its effect on the branches of the tree may be to make them either diverge or converge. In so ambiguous and unpredictable a situation, it is better to assume that natural selection has no effect, and then to confirm or fals1fy th1s hypothesis statistically. By contrast in all the trees representing the evolution of different literary forms in Moretti's book, cultural selection-the survival or extinction of one form rather than another-is the principal operator. This different approach probably reflects different questions. The student of biological evolution is especially interested in the root of the tree (the time
+
+it originated). For inferring this origin, direct consideration of natural selection is an encumbrance to be avoided, by studying the effect of many genes whose relative weights can be ignored because divergences and convergences cancel each other out. The student of literary evolution, on the other hand, is interested not so much in the root of the tree (because it is situated in a known historical epoch) as in its trajectory, or metamorphoses. This is an interest much closer to study of the evolution of a gene, the particular nature of whose mutations, and the filter operated by natural selection, one wants to understand. It is only today, when we know the human genome and. can deploy very powerful technologies of molecular biology, that the possibility of retracing the history of all the mutations of a gene across its (and our) evolution has ceased to be illusory. In their wide-open challenge, I have found in Moretti's conjectures an incentive to refine the means of reading our evolution. I would be happy if it were so for other readers too.
+
+Index
+
+The Adventures ofa Man of Science 76 Adventures of Sherlock Holmes 73, 74
+
+The Book in Japan ro
+Boothby, Guy 73
+
+Alliston, April 26 'allopatric speciation' 90, n2 Annals ofthe Parish 44-9, 64 Anonymous Letters 73 Arnheim, Rudolf 39 art r6, r7n Ashdown, Clifford 73 The Assyrian Rejuvenator 73, 77-8 Asturias, Miguel Angel 84 Atlas ofthe European Novel38, 54-6, 95· !04 audiences 20 Auerbach, Berthold 44, 49-5r, 52 Austen, Jane 27, 28, 8r-2, 84 Bakhtin, Mikhail35, 44, 83, 85 Balzac, Honore de 57, Son Banfield, Ann 82n, 89 Barrell, John 38, 39-42, 63 Barthes, Roland 6 Basalla, George 78, 79, So Batouala 86 the Bible 96 Bildungsroman 76, 99, rrr biological evolution 67-70, 78, 95, 96-103, I04> 107, II2-I3 Black Forest Village Stories 49-51, sz, 57, 9I Bodkin, M. McDonnell 73
+
+Bouvard and Ptcuchet 88 Braddon, Mary Elizabeth 27 Braudel, Fernand 4, 13, r4, 24 Brecht, Bertolt 26 Brigitta 44 Britain book imports to India 12 fall of the novel 12-13 gender shift in authorship 27, 28 genresrs,r6,r8, 19,23 Luddism and peasant uprisings 6o rise of the novels, 6, 7-9 Bronte sisters 27 Bulwer~Lytton, Edward 27 Burney, Frances 23, 27 Butler, Marilyn 24
+Carpentier, Alejo 84> 89 The Castle of Otranto 14 Castle Rackrent 17
+
+Catcher in the Rye 9 9
+Cavalli·Sforza, Luigi 70, 71, 105 Cazamian, L. 18n Cecilia 23 censorship 9, ro
+
+Central Places in Southern Gennany
+42-4,45 centric composition 39 Cerreti, Claudio 54> 56n
+
+n6
+
+GRAPHS, MAPS, TREES
+
+I
+I
+
+MORETTI:
+
+Index
+
+II7
+
+Christaller, Walter 42-4, 45 circular narrative 37-8, 39· 44· 49 Clarin, Leopoldo Alas 84 class struggle 64- 87-8 clues 72-4, 75, 76, III collective identity 52 comedy films 24-5, 26 comparative literature 90 convergence 79-80, 8r The Counterfeiters 90 The Country and the City 35 courtship novels 23 Cranford 51, 62-3 Crime and Punishment 83, 85, 88 cultural change 78, 8r cultural selection 72, ro3-4, I06-7, n2 cultural transmission ros, I06
+
+Edging Women Out 26 Eliot, George 27 'The English Novel in the Romantic Era' 28 epistolary novels I4, rs, I6, 20 Erlich, Victor I7n Espaces romanesques du XVIIIe siicle 35 evolutionary theory 67-70, 77· 78, 95· 96-II3
+Febvre, Lucien 27 Feldman, Marcus W. ro5 films 24-5, 26 Flaubert, Gustave 82-3, 84 form and forces 63, 64 materialist conception of 92 quantitative approaches 24> 26 formalism 25n Fortin, Nina 26-7 France decline in old book popularity 8n fall of the novel9, II, I2 gender shift in authorship 27 genres 22n free indirect style 8r-5, 86, 87-8, 89, 92, III-12 French language 87
+
+I
+
+gender relationship 27 niche markets 8 temporary cycles of 92 trees 76-7
+
+Geografia e storia della letteratura italiana
+35 geography 38. 42, 53· 54· 55-6. roo geometry 54. 55-6 Germinal86-7 Gide, Andre 90 Gilmore-Lehne, William 5 Goethe, johann Wolfgang von 57, 76, 84 gothic novels 8n, 14, 15, I6, 17, 20 Gould, Stephen jay 69n, 70n, 78 graphs 3-33 book imports into India 12 fall of the novel 9-rr gender and authorship 28 genres rs, I6, I9, 23 rise of the novel 5-9 Green, Katherine Sobba 23 GroBer, Balduin 73 Halifax, Clifford 73 Hardy, Thomas 52 High Culture 29n Hilda Wade 76 historical novels 8n, I4, I5, 16, 17 history J, r3, 69
+
+India, book imports I2 innovation 77, ror, 104, ro6, III international space 49 isotropic space 43n Italy decline in old book popularity 8n fall of the novel 9, rr rise of the novels, 6 Jacobin novels 22, 24 James, Henry 84, 88
+
+Jane Austen and the War of Ideas 24
+japan fall of the novel9, ro rise of the novels, 6 Jauss, Hans Robert 20 Joshi, Priya r2 joyce, james Son, 84, 88 Kelly, Gary 24
+
+Cultural Transmission and Evolution. A Quantitative Approach IOS
+culture HighjLow Culture distinction 29n tree of 78-9, 85, no cycles 14, 26, 27-9, 92 Darwin, Charles 67-9, 70, 77, 99 Dawkins, Richard 77 Della Volpe, Galvano 2 Denmark, fall of the novel9, n Denning, Michael II destabilization 2I, 22n detective novels 72-5, 76, III 'diagram of forces' 56-7,64 dialogism 85, 88 Dickens, Charles 27 'dictator novels' 89 bionisotti, Carlo 35 distant reading I divergence 67-70,76, 77· 78, 79-8r, 107-8 DNA 97, 98, IOO-I, 104, 107-9 Dostoevsky, Fyodor 83, 8+ 85 Doyle, Arthur Conan 72, 73· 74> 75, 8r The Duchess of Wiltshire's Diamonds 73 Duncan, Ian 52
+
+The Knight's Move 17n
+Kornicki, Peter IO Kroeber; Alfred 78-9, 85, no Kuhn, T. I?, r8-2o Lafon, Henri 35 Langton, John 63 language 70, 71, 8o, 83, 103-4, no Latin American 'dictator novels' 89 Lawrence, D. H. 84 Levy, Jacques s6n Licensing Entertainment 26
+
+Early Modem japan IO
+Edgeworth, Maria 27
+
+Gallagher, Catherine r8n Galt, john 44-9 Garcia Marquez, Gabriel84, 89 Garside, Peter 13, 27, 28 Gaskell, Elizabeth 27, 51, 62-3 gender 26-9 General in his Labyrinth 89 generations 21-2 Les generations sociales 21 genes 71, 97, I00-3, 105-6, 107-8, 109-II, II3 see also natural selection genetic drift IOI-2, 103, I04, 105-6, II2 genres q-20, 22-4> 29-30, 3I-3 convergence/divergence Son cultural selection ro6-7 cultural variety 99-roo diffusion of 105
+
+History and Geography ofHuman Genes
+70 'History or Literature?' 6 Home/World dualism 46, 49 How He Cut His Stick 73, 78
+I the Supreme 89
+
+The Life of Pill Garlick; Rather a Whimsical Sort of Fellow 77 Le liseur de romans 8
+literary canon 4, 77 literary history r, 2, 3-4 London53n longue durie 13, 14, 44 Low, Culture 29n Luddism 6o
+
+The Idea of Landscape and the Sense of Place 1730·184o 38, 40, 41
+identity, collective 52 ideology 42, 58, 8j the idyll44, 49, 62, 63, 64 Illich, Ivan 98 In masquerade 73 In the Vineyard of the Text: A
+
+Commentary to Hugh's "Didascalicon" 98
+
+Madame Bovary 35n, 52-3, 83 I Malavoglia 86, 9I Mann, Thomas 49, 84, 88 Mannheim, Karl 2r Mansfield Park 8r-2
+
+II8
+
+GRAPHS, MAPS, TREES
+
+maps 35-64
+
+Black Forest Village Stories 50 Central Places in Southern Gennany 43 Cranford 62
+Helpston 40, 41 Luddism and peasant uprisings 6o Our Village 36, 37· 45, 58, 59· 6r Parisian novels 55 Maran, Rene 84, 86n market 8, 72, 77 Marxism 2, 92 materialism 92 Mayr, Ernst 76, 90, II2 Meade, L. T. 73 Mee, Huan73 memory97-8 Men of Maize 86 Mendel, Gregor 99 Menozzi, Paolo 70, 71 mentalite 42, s8 Mentre, F. 21, 22n metaphysics 2 migration 90, ro2, 103, 104, III, II2 Mitford, Mary 35-42, 44, 45, 51, 57-61, 62,63 TheMonk8 morphology 24, 25n, 74 comparative 90, III divergence Son evolutionary trees 69 morphospace 69n, 70, 74> 77, 91 Morris, R. ). 63 Maule, Thomas 6I-2, 63 Musil, Robert r mutation 100-1, 104, 106, I08, 109, III, II2-I3 narrative circular 37-8, 39.-44, 49 free indirect style 8r-5, 86, 87-8, 89, 92, II1-12 second person 84, 85, 88 third person 82, 84- 88, 89 national anthems 52 national identity 52 natural selection 67-9, 70, I01-2, 103-4, I06, I07-8, n2-r3
+
+see also genes naturalism 86 Nigeria, rise of the novels, 6 'normal literature' 18-20, 22 Navalis 9I novels fall of the novel9-n, 12-13 gender shift in authorship 26-9 High/Low forms 29n rise of the novel 5-9 see also genres novelties 46, 49 Oliver Twist 8 On Growth and Fonn 56-7, 6r The Origin of Species 67-9 Our Village 35-42, 44, 45· 53· 57-61,
+6),64
+
+l
+
+MORETTI:
+
+Index
+
+II9
+
+La Regenta 86 regional novels 52 repression 51 The Return of the Native 45 Roa Bastos, Aagusto 84, 89 The Robbery at Foxborough 73 Il romanzo n
+Rosenkranz, Palle 73
+Salinger, ). D. 99 Scott, Walter 27, 28 second person narrative 84> 85, 88 A Sensible Course of Action 73 Sherlock Holmes stories 73, 74 , 75 , 76, 77 Shklovsky, Viktor r4o r6, r7n, 20, 63,
+7).
+
+phylogenetic 108-9, no, II2 tree of culture 78-9, 85, no Tuchman, Gaye 26-7 Ugo di San Vittore 98 Ulysses 88 United States comedy films 24-5 gender shift in authorship 27 youth narrative 99-100 upper class 88 urbanization 6r, 62 Vargas Uosa, Mario 84> 89-90 Vasconcelos, Sandra Guardini 22n Verga, Giovanni 84> 86n village stories 35-42, 44-53, 57-63, 64 Warner, William 26, 29n Waverley q, 91 The Way of the World 17n, 95, 99 Weber, E:!lgen 87 The Wild Irish GirlS Wilhelm Meister 76 Williams, Raymond 35 Williamson, Alice 73 women26-9 Woolf, Virginia 84, SS working class 86-7 youth narrative 99
+
+9I
+
+Pamela 8, 14
+Paris 52, 54-5, 56n, 57 Pasanek, Brad r8 Pavel, Thomas Son
+
+Peasants into Frenchmen 87 La pensie du roman 8on
+Perez Gald6s, Benito 84
+
+Persuasion 8
+Piazza, Alberto 70, 71, 95-n3 Pirkis, Catherine L. 73 politics 9, II, I2-I3, 22-4 Pomian, Krzysztof 3, 27 Pride and Prejudice 77 Proust, Marcel 84, 88 provincial novels 52, 53 qualitative approaches 26 quantitative approaches 4-5, 9, 24-6, 30, I07
+
+'The Slaughterhouse of Literature' studn2n, 74 socialization 82 Spain gender shift in authorship 27 rise of the novels, 6 spatial discontinuity 90-r, rrr spatial division oflabour 42_3, 45 Spitzer, Leo 86 the state 51 Strand Magazine 74, 76, 77 The Structure of Scientific Revolutions 17
+technology 78, So temporary structures 14 Thackeray, William Makepeace 27 A Theory of Prose 16 Thibaudet, Albert 8 third person narrative 82, 84, 88, 89 Thompson, D'Arcy Wentworth 56-7, 6r, 63 Tilly, Charles 51 Totman, Conrad ro tTees 67-92 detective fiction 73, 75 divergence of character 68, 107-9 evolutionary 69, 95, ro2-3, I04, 107-12 free indirect style 84 genetic/linguistic families 71, ro9,
+IIO
+
+Zeitschrift for romanische Philologie 8r
+Zola, Emile 84, S6-7
+
+Race with the Sun 72, 73 Radcliffe, Ann 27 Ragone, Giovanni 8n random genetic drift 101-2, 103, 104, 105-6, II2 Raven, James 13 Reasons of State 89 The Redhill Sisterhood 73
+
+
