@@ -151,3 +151,10 @@ section#reflections h1{
 	text-decoration: none;
 	color: #444;
 }
+
+#topics ul {
+	font-size: 30px;
+}
+#topics h2 {
+	font-size: 3em;
+}

@@ -107,13 +107,37 @@ As it turns out, my beloved OCR had failed me. It hadn't failed me, per se, but 
 
 <pre><code>[Hello!.][Myname][i][s][W a l l y]</code></pre>
 
-<p>Which isn't right, but that's what happens. It's unfortunately much more difficult to find and clear up these errors automatically, which is why accurate text detection in images is still an open area of research. Unfortunately, these types of parsing issues are very common with scanned texts, and why electronically-produced PDFs are preferable for this type of analysis.  </p>
+<p>Which isn't right, but that's what happens. It's unfortunately much more difficult to find and clear up these errors automatically, which is why accurate text detection in images is still an open area of research. It turns out these types of parsing issues are very common with scanned texts, and why electronically-produced PDFs are preferable for this type of analysis.  </p>
+
+<p> Consequently, this led me to question how much garbled text might be influencing my results. I recalled how many steps of encoding conversion I had built into my workflow, how many warnings during text parsing I ignored for the sake of faster results, and realized there must be some loss of information in my data set that would influence my keywords analysis.</p>
+
+<p> To investigate further, I peeked into a bit of Anna Friedburg's 'Virtual Window' dataset, to see what kinds of words were sitting at the bottom of the frequency barrel:</p> 
+
+<pre><code>['verner', 1], ['vertical', 1], ['vertically', 1], ['veteran', 1], ['vfassage.', 1], ['vhich', 1], ['vhile', 1], ["vi'hile", 1], ['vi..slon', 1], ['vi..suality.', 1], ['vi.deo', 1], ['vi/lq', 1], ['vi11yl', 1], ['vicissitudes', 1], ['victim', 1], ['vicwu', 1], ['vid', 1], ['vidcu', 1], ['vide', 1], ['video-', 1], ['video-its', 1], ['video-liveness', 1], ['videot', 1], ['videotape', 1], ['vide\xa2', 1], ['vie.', 1], ['viei1.1s', 1], ['vieniog', 1], ['vietving', 1], ['viev..-', 1], ['viewer-each', 1], ['viewer.', 1], ['viewers.', 1], ['viewport', 1], ['vile', 1], ['villa', 1], ['vindow', 1], ['vindows', 1], ['viola', 1], ['violin', 1], ['vir-', 1], ['virilio', 1], ['virl\\1', 1], ['virmal', 1], ['virrues', 1], ['virruri', 1], ['virtual-reality', 1], ['virtual.', 1], ['virtualities.', 1], ['virtuality', 1], ['visi-on', 1], ['visibly', 1], ['visit.', 1], ['visl', 1], ['viso.al', 1], ['visoal', 1], ['vist1al', 1], ['visuaj', 1], ['visual.', 1], ['visualization', 1], ['visualjze', 1], ['visually', 1], ['vitascope', 1], ['vito', 1], ['viulti-wi.udow', 1], ['vivid', 1], ['vividly', 1], ['vi~', 1], ['vjhatever', 1], ['vjne', 1], ["vlfhirlwind'sc", 1]</pre></code>
+
+<p> A lot of words I would only use once, like 'virtuality', sure, but also a lot of clear OCR recognition errors and errors in parsing. It's not beyond the realm of possibility, for instance, for 'vindow' to be 'window', or 'vjhatever' to be 'whatever', or to even guess that 'viulti-wi.udow' might be the title of the book, 'virtual window'. But these things clearly tripped up the programs I set up, and this is just a handful of the set of low-frequency words in the letter 'v' of one text. In this way, print text pose a significant challenge in even a cursory textual analysis like the one I constructed. </p>
 
     </section>
 
 
     <section id="topics">
 	<h1>Tools and Thoughts</h1>
+
+<p> In writing this analysis piece, I took great efforts to document as much of my process and analysis as possible. Moreover, as we learned from Sparrow and Sculley,Pasanek, just as it is impossible for texts to exist without the medium within which they are presented, it is also impossible for a computational analysis to exist without influence from the tools used in its production. To that end, I present a comprehensive listing of all design and computational tools used. All materials, code, notes, etc. can be found on <a href="http://www.github.com/amritamaz/screenreading">the github repo</a>.</p>
+
+<h2> Programming Languages and Programs</h2>
+<ul>
+<li> Python and the NLTK </li>
+<li> Poppler Utils - specifically, pdftotext</li>
+<li> Iconv - unix program for encodings</li>
+</ul>
+<h2>Visuals</h2>
+<ul>
+<li> Apple Keynote - For deadline reasons, I constructed all charts and graphs by hand in Keynote. I would have preferred to have a more interactive format of visualization, there are some merits to invoking a static form of visualization.</li>
+<li> <a href="http://ethanschoonover.com/solarized">Solarized</a> - A notable consequence of constructing a work for consumption on screens is extended exposure to the work in its natural habitat. As a result, I strove to make this page as visually relaxing as possible. The colorscheme used, Solarized, was carefully designed to promote readability without eye fatigue. 
+</ul>
+
+
     </section>
 
 
