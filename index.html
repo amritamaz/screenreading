@@ -51,7 +51,7 @@
 <p class="aside">Aside: It is eerie how much frequency-ranked lists of words resemble minimalist sentences. "New book like also even read text first world." It would be an entertaining exercise to try to make a summary-generator by just filtering out stopwords and sorting by word frequency. Maybe a Twitter bot.</p>
 <p> This analysis leans closer to disappointing with regards to its results (I probably could have told you 'also' was a popular word, and wonder why it is not considered a stopword...), but is also indicative of a larger frustration in digital analysis - not being stupid enough for a computer. The human act of skimming, picking out the important words and phrases and immediately gleaning the bits most salient and words most relevent is a task a computer cannot easily do, as my 5 hours and many broken programs can assure you. Moreover, the patterns you may eventually get may tell you less about your problem than you could have expected - what does it mean that 'world' is such a popular word? How does that fit into my preconceived understanding of the focus of the semester's readings? Was the class secretly focused on global texts and I missed it? Or is the use of 'world' meant to evoke how dramatically the state of the book is changing, that it digital technologies are increasingly universal in scope? Questions beget questions.
 
-<div class="pics"
+<div class="pics">
 <img src="img/freq2.png" width="30%"> 
 <img src="img/freq3.png"width="30%"> 
 <img src="img/freq4.png"width="30%"></div> 
@@ -85,8 +85,29 @@ A more fruitful analysis might be to use humna-generated words to conduct my ana
     <section id="keywords">
 	<h1>Writing for Print and Screen</h1>
 
-<p> What this chart had elucidated to me was a key assumption I had hidden from myself, even throughout 
+<p> What this chart had elucidated to me was a key assumption I had hidden from myself, even throughout and involved text parsing process that had me digging around through UNIX shell scripts and Python libraries to solve it for myself. 
 </p>
+
+<p style="text-align: center;font-style:italic;"><u>Fallacy</u><br>Texts produced for <b>screens</b> and texts produced for <b>print and then converted for screens</b> are <s>lexically equivalent</s>. <br /> <br><br>They're not.</p>
+
+<div class="pics"><img src="img/print.png"></div>
+
+<p>
+As it turns out, my beloved OCR had failed me. It hadn't failed me, per se, but it had produced output I was not prepared to deal with. To comprehensively understand this problem, let me give a high-level overview of how Python does text parsing.
+</p>
+<p> Imagine you give OCR an input text, usually on an image or PDF page:</p>
+<pre><code>Hello! My name is Wally.</code></pre>
+<p>To identify the words in that string, OCR splits up the words based on punctuation and white space, like tabs and spaces. So our previous string would be split up into:</p>
+<pre><code>[Hello][My][name][is][Wally]</code></pre>
+
+<p>which looks great! This is usually how OCR finds words. <br><br></p>
+
+<p>But sometimes, OCR is tasked to parse some garbled scans. Or the scanner had some dots on the screen which came up on your picture. Or just the image has text pretty close together, and the OCR doesn't know what to do with it. Then you might have some output that looks like:</p>
+
+
+<pre><code>[Hello!.][Myname][i][s][W a l l y]</code></pre>
+
+<p>Which isn't right, but that's what happens. It's unfortunately much more difficult to find and clear up these errors automatically, which is why accurate text detection in images is still an open area of research. Unfortunately, these types of parsing issues are very common with scanned texts, and why electronically-produced PDFs are preferable for this type of analysis.  </p>
 
     </section>
 
@@ -102,7 +123,9 @@ A more fruitful analysis might be to use humna-generated words to conduct my ana
 
     <section id="reflections">
 	<h1>End Notes</h1>
-<h2> Sources used in text analysis</h2>
+<h2> Source files</h2>
+<p> All code and generated files can be found at <a href="http://www.github.com/amritamaz/screenreading">the github repo</a>.
+<h2> Source texts used in text analysis</h2>
 <div id="bib">
 <p><strong>January 23: Preliminaries</strong></p>
 <ul>
