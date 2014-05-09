@@ -22,10 +22,6 @@
 
 </script>
 
- <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
-
-
-
 
 </head>
 
@@ -52,43 +48,136 @@
 <p> Hmm.</p>
 <p> Well, it appears 'new' is the most frequently-used word with 56% of the popular vote! This makes a decent amount of sense. In a semester of readings about the history and trends of book publishing and writing and reading, it would be logical to see the word 'new' used frequently. </p>
 <p> More expected and understandable is the word 'book' coming in at second place. Considering most of the texts concern reading, writing, and everything in between, the book is certainly a logical second choice.</p>
-
 <p class="aside">Aside: It is eerie how much frequency-ranked lists of words resemble minimalist sentences. "New book like also even read text first world." It would be an entertaining exercise to try to make a summary-generator by just filtering out stopwords and sorting by word frequency. Maybe a Twitter bot.</p>
+<p> This analysis leans closer to disappointing with regards to its results (I probably could have told you 'also' was a popular word, and wonder why it is not considered a stopword...), but is also indicative of a larger frustration in digital analysis - not being stupid enough for a computer. The human act of skimming, picking out the important words and phrases and immediately gleaning the bits most salient and words most relevent is a task a computer cannot easily do, as my 5 hours and many broken programs can assure you. Moreover, the patterns you may eventually get may tell you less about your problem than you could have expected - what does it mean that 'world' is such a popular word? How does that fit into my preconceived understanding of the focus of the semester's readings? Was the class secretly focused on global texts and I missed it? Or is the use of 'world' meant to evoke how dramatically the state of the book is changing, that it digital technologies are increasingly universal in scope? Questions beget questions.
+
 <div class="pics"
 <img src="img/freq2.png" width="30%"> 
 <img src="img/freq3.png"width="30%"> 
 <img src="img/freq4.png"width="30%"></div> 
 
-As an interesting exploration, I also graphed the word frequencies of Marshall McLuhan's 'Understanding Media', Jerome McGann's 'Radiant Textuality', and Franco Moretti's 'Graphs, Maps, and Trees'. What stuck out to me was how infrequently a word needs to appear in a text to be considered frequent. Out of a 2,000 word essay on media, one only needs to mention the word media 40 times to beat McLuhan for presence.  
+<p>
+To confirm my process was correct, and to do a more micro analysis on some of the my perceived most definitive texts of the semester, I also graphed the word frequencies of Marshall McLuhan's 'Understanding Media', Jerome McGann's 'Radiant Textuality', and Franco Moretti's 'Graphs, Maps, and Trees'. On a smaller body of work, the most popular words turn out to be more indicative of a text than on the larger scale. What also stuck out to me was how infrequently a word needs to appear in a text to be considered frequent. Out of a 2,000 word essay on media, one only needs to mention the word 'media' 40 times to beat McLuhan for presence.  </p>
+
     </section>
 
 
     <section id="incommon">
-	<h1>Common?</h1>
-	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
+	<h1>Keywords</h1>
+
+<p>
+A more fruitful analysis might be to use humna-generated words to conduct my analysis with. Conveniently, us students were put to task identifying and explicating a set of 'keywords' from the semester, and I used these pre-defined words to track how the keywords manifested themselves and interacted across the weeks' readings.
+</p>
+
+<div class="pics"><img src="img/keywords.png"></div>
+
+<p> First, a discussion on how this graph was developed is in order. This was a topic of contention within myself - I envisioned it as a set of bar graphs with best fit lines squiggling around, showing the rise and fall of 'print' as 'interface' surges forward. <br /><br /> This was not the case.</p>
+
+<div class="pics"><img src="img/keyword_bad.png"><br>(this is unhelpful)</div>
+
+<p> So, another approach had to be taken. After experimenting with all the graph types available, I settled on a stacked area chart. According to Apple's Keynote documentation, "stacked area charts show the magnitude of change over time, and they display both individual values and the sum of all values in the chart." Perfect. On my charting tool, it insisted on adding up the percentages to 1000%, which I maintain is impossible. In any case, the y-axis indicates how popular the keyword was as a fraction of its most popular week. Weeks where the graph veers downward in all colors indicate that no keywords had a strong showing that week.</p>
+
+<p> While the chart is fairly straightforward, there are a few limitations to this visualization. Because the areas represent fractions of a whole, the word 'colophon', for instance, barely appeared 6 times in its most frequent sources. This presence appears in as large of an area as 'book''s 60-word showing in its less popular texts. This proportionality problem proved too difficult to solve at this level of analysis, but is something to consider when understanding how words appear and are presented in visualizations.</p> <p> I also wondered about the peak and fall-off, and where that arose from. The answer, it turns out, has less to do with the content of the text but its manifestation (see: next section). </p>
+
     </section>
 
 
     <section id="keywords">
-	<h1>Keywords</h1>
-	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
+	<h1>Writing for Print and Screen</h1>
+
+<p> What this chart had elucidated to me was a key assumption I had hidden from myself, even throughout 
+</p>
+
     </section>
 
 
     <section id="topics">
-	<h1>Print and Screen</h1>
-	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
+	<h1>Tools and Thoughts</h1>
     </section>
 
 
     <section id="printvscreen">
-	<h1>Tools and Thoughts</h1>
-	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
+	<h1>Reflections</h1>
     </section>
 
     <section id="reflections">
-	<h1>Epilogue: Reflections</h1>
-	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
+	<h1>End Notes</h1>
+<h2> Sources used in text analysis</h2>
+<div id="bib">
+<p><strong>January 23: Preliminaries</strong></p>
+<ul>
+<li>Sven Birkerts, <a href="http://lareviewofbooks.org/essay/the-room-and-the-elephant">&quot;The Room and the Elephant&quot;</a> (2011, web)</li>
+<li>Jaron Lanier, <a href="https://github.com/gwijthoff/Screenreading/blob/master/readings/week1-preliminaries/Lanier_2010_You_Are_Not_a_Gadget_-_A_Manifesto2.pdf?raw=true">Preface to <em>You Are Not a Gadget</em></a> (2010, pdf)</li>
+<li>Stephen Ramsay, <a href="http://www.playingwithhistory.com/wp-content/uploads/2010/04/hermeneutics.pdf">&quot;The Hermeneutics of Screwing Around; or, What You Do With a Million Books&quot;</a> (2010, pdf)</li>
+<li>Craig Mod, <a href="http://craigmod.com/journal/ipad_and_books/">&quot;Books in the Age of the iPad&quot;</a> (2010, web)</li>
+</ul>
+<p><strong>January 30: The invention of writing coincides with the emergence of civilization.</strong></p>
+<ul>
+<li>Denise Schmandt-Besserat, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Schmandt-Besserat_1996_How_writing_came_about-CH1-5.pdf"><em>How Writing Came About</em></a> (1997, protected pdf), pp. 1-85</li>
+<li>Lydia Liu, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Liu_2010_Writing.pdf">&quot;Writing&quot;</a>, in <em>Critical Terms for Media Studies</em> (2010, protected pdf)</li>
+<li>Steven Roger Fischer, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Fischer_2003_A_History_of_Reading_CH1-2.pdf"><em>A History of Reading</em></a> (2003, protected pdf), pp. 11-98</li>
+<li>Mara Mills, <a href="http://flowtv.org/2012/12/what-should-we-call-reading/">&quot;What Should We Call Reading?&quot;</a>, <em>Flow TV</em> (2012, web)</li>
+<li>Barry Powell, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Powell_2012_Writing_-_theory_and_history_of_the_technology_of_civilization-intro-ch1.pdf"><em>Writing: History and Theory of the Technology of Civilization</em></a> (2012, protected pdf), pp. 1-18</li>
+<li>André Leroi-Gourhan, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Leroi-Gourhan_1993_Gesture_and_Speech-CH3.pdf">&quot;The Language of Prehominids,&quot;</a> in <em>Gesture and Speech</em> (1965, protected pdf), p. 112-116</li>
+</ul>
+<p><strong>February 6: Western thought is the product of a paradigm shift from orality to literacy.</strong></p>
+<ul>
+<li>Walter Ong, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Ong_Hartley_2012_Orality_and_literacy_the_technologizing_of_the_word-CH4-6.pdf"><em>Orality and Literacy</em></a> (1982, protected pdf), pp. 77-152</li>
+<li>Marshall McLuhan, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/McLuhan_1964_Understanding_media_-_the_extensions_of_man-introCH1-8-9.pdf"><em>Understanding Media: The Extensions of Man</em></a> (1964, protected pdf), p. 3-21, 77-88</li>
+<li>Friedrich Kittler, <a href="http://www.ctheory.net/articles.aspx?id=45">&quot;The History of Communication Media,&quot;</a> <em>CTHEORY</em> (July 1996, web)</li>
+</ul>
+<p><strong>February 13: Books process, record, and transmit data.</strong></p>
+<ul>
+<li>Lucien Febvre and Henri-Jean Martin, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Febvre_Wootton_1976_The_coming_of_the_book_-_the_impact_of_printing,_1450-1800_CH1-3.pdf"><em>The Coming of the Book: The Impact of Printing 1450-1800</em></a> (1976, protected pdf), p. 8-108</li>
+</ul>
+<p><strong>February 20: It took 200 years for libraries to shelve print &amp; manuscript as separate entities.</strong></p>
+<ul>
+<li>David McKitterick, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/McKitterick_2003_Print,_manuscript,_and_the_search_for_order,_1450-1830-CH1-2.pdf"><em>Print, Manuscript, and the Search for Order, 1450-1830</em></a> (2003), p. 1-52</li>
+<li>Adrian Johns, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Johns_1998_The_nature_of_the_book_-_print_and_knowledge_in_the_making-CH1_CH6.pdf"><em>The Nature of the Book: Print and Knowledge in the Making</em></a> (2000), pp. 1-57, 380-443</li>
+</ul>
+<p><strong>February 27: &quot;How greatly this page here resembles a thousand other pages.&quot;</strong></p>
+<ul>
+<li>Roger Chartier, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Chartier_1994_The_order_of_books_-_readers,_authors,_and_libraries_in_Europe_between_the.pdf"><em>The Order of Books: Readers, Authors, and Libraries in Europe between the Fourteenth and Eighteenth Centuries</em></a> (1992), 92pp</li>
+<li>Roger Chartier, <a href="https://github.com/gwijthoff/Screenreading/blob/master/readings/week6%20-%20reproducibility/Chartier_1989_Texts%2C_Printings%2C_Readings.pdf/?raw=true">&quot;Texts, Printings, Readings,&quot;</a> in <em>The New Cultural History</em>, ed. Hunt (1989)</li>
+<li>Anthony Grafton, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Grafton_2009_Codex_in_Crisis_-_The_Book_Dematerializes.pdf">&quot;Codex in Crisis: The Book Dematerializes&quot;</a>, in <em>Worlds Made By Words: Scholarship and Community in the Modern West</em> (2009), pp. 288-326.</li>
+</ul>
+<p><strong>March 6: &quot;They conveyed their thoughts to one another in an instant over cities or mountains.&quot;</strong></p>
+<ul>
+<li>Andrew Piper, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Piper_2009_Dreaming_in_books_-_the_making_of_the_bibliographic_imagination_in_the_Romantic.pdf"><em>Dreaming in Books: Making of the Bibliographic Imagination in the Romantic Age</em></a> (2009), pp. 1-18, 121-152, 235-245
+</ul>
+<p><strong>March 13:</strong></p>
+<ul>
+<li>Michel de Certeau, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/de_Certeau_2011_Reading_as_Poaching.pdf">&quot;Reading as Poaching,&quot;</a> in <em>The Practice of Everyday Life</em> (1984), pp. 166-175</li>
+</ul>
+<p><strong>March 27: Texts cannot be said to have fixed properties; they are always in flux.</strong></p>
+<ul>
+<li>Jerome McGann, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/McGann_2004_Radiant_textuality-intro-ch5-7.pdf"><em>Radiant Textuality: Literature After the World Wide Web</em></a> (2001), pp. 1-28, 137-166, 193-208</li>
+</ul>
+<p><strong>April 3: Media reconfigure the logic of the senses.</strong></p>
+<ul>
+<li>Anne Friedberg, <a href="http://quod.lib.umich.edu.ezproxy.cul.columbia.edu/cgi/t/text/text-idx?c=acls;idno=heb08244"><em>The Virtual Window: From Alberti to Microsoft</em></a> (2009)</li>
+<li>Johanna Drucker, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Drucker_2013_Reading_Interface.pdf">&quot;Reading Interface,&quot;</a> <em>PMLA</em> (2013)</li>
+</ul>
+<p><strong>April 10: Multitasking threatens attention span and the ability to sustain complex thought.</strong></p>
+<ul>
+<li>Betsy Sparrow, Jenny Liu, and Daniel M. Wegner, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Sparrow_et_al_2011_Google_Effects_on_Memory_-_Cognitive_Consequences_of_Having_Information_at_Our2.pdf">&quot;Google Effects on Memory: Cognitive Consequences of Having Information at Our Fingertips,&quot;</a> <em>Science</em> (2011)</li>
+<li>Alexis Madrigal, <a href="http://www.theatlantic.com/technology/archive/2012/03/books-on-paper-fight-analog-distractions/254049/">&quot;Books on Paper Fight Analog Distractions&quot;</a> (2012)</li>
+<li>Nicholas Carr, <a href="http://www.theatlantic.com/magazine/archive/2008/07/is-google-making-us-stupid/306868/">&quot;Is Google Making Us Stupid?&quot;</a> (2008)</li>
+<li>Naomi S. Baron, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Baron_2013_Redefining_Reading_-_The_Impact_of_Digital_Communication_Media.pdf">&quot;Redefining Reading: The Impact of Digital Communication Media&quot;</a> <em>PMLA</em> (2013)</li>
+</ul>
+<p><strong>April 17: Reading takes place within feedback loops between old and new technologies.</strong></p>
+<ul>
+<li>N. Katherine Hayles, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Hayles_2005_My_mother_was_a_computer_digital_subjects_and_literary_texts-prologue_ch4.pdf"><em>My Mother Was a Computer</em></a> (2005), pp. 1-14, 89-116</li>
+<li>N. Katherine Hayles, <a href="http://nkhayles.com/how_we_read.html">&quot;How We Read: Close, Hyper, Machine&quot;</a> (2011, right click to save PDF)</li>
+</ul>
+<p><strong>April 24: There have been 129,864,880 books published, ever.</strong></p>
+<ul>
+<li>Franco Moretti, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Moretti_2007_Graphs%2C_maps%2C_trees_-_abstract_models_for_literary_history.pdf"><em>Graphs, Maps, Trees: Abstract Models for Literary History</em></a> (2007)</li>
+<li>D. Sculley and Bradley Pasanek, <a href="https://courseworks.columbia.edu/access/content/group/ENGLW3986_001_2014_1/Sculley_Pasanek_2008_Meaning_and_mining_-_the_impact_of_implicit_assumptions_in_data_mining_for_the.pdf">&quot;Meaning and Mining: The Impact of Implicit Assumptions in Data Mining for the Humanities,&quot;</a> <em>Literary and Linguistic Computing</em> (2008)</li>
+<li>Matthew K. Gold, ed., <a href="http://dhdebates.gc.cuny.edu/debates"><em>Debates in the Digital Humanities</em></a> (2012)</li>
+<li>Jonathan Goodwin and John Holbo, <a href="https://github.com/gwijthoff/Screenreading/blob/master/readings/week13-machine_reading/Goodwin_et_al_2011_Reading_Graphs,_Maps,_Trees_-_Critical_Responses_to_Franco_Moretti.pdf?raw=true"><em>Reading Graphs, Maps, Trees: Critical Responses to Franco Moretti</em></a> (2011)</li>
+</ul>
+</div>
     </section>
 </body>
 </html>

@@ -143,4 +143,11 @@ section#reflections{
 section#reflections h1{
     color: #b58900;
 }
+#bib p{
+	font-size: 16px;
+}
 
+#bib a{
+	text-decoration: none;
+	color: #444;
+}
