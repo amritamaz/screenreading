@@ -24,53 +24,67 @@
 
  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
 
-<script src="lib/chart.js"></script>
 
 
-    <script src="lib/graphs.js"></script>
 
 </head>
 
 <body>
     <div class="content">
     <header>
-	<h1> screen reading</h1><br><h2>final project <br>amrita mazumdar</h2>
+	<h1> screen reading</h1><br><h2>a text analysis <br>by amrita mazumdar</h2>
     </header>
     <section id="intro">
 	<h1>Introduction</h1>
-	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
+	<p> This project was born out of a desire to find our bearings within the texts. After a semester of learning, understanding, questioning what it means to read and write in the digital age, where are we? What have we taken from cultures and technologies past and what kinds of open problems are we not yet solving? Lofty goals for a 30% assignment, I know, but a more approachable synthesis of these questions still stands: what can we learn with new tools and a bunch of texts? what can we learn from them, from the tools and the books and the amalgamation of the two?</p>
+
+	<p> What follows is a brief exploration of our semester, applying screen reading techniques to a syllabus of seminal texts on screen reading. We first explore the low-hanging (but still enlightening!) fruit of frequency counting, apply this analysis to our notion of keywords, and then consider the dichotomy between print and screen texts and its impact on this analysis. We also cover a brief overview of the tools used in this analysis, and their potential side efects on this discussion.</p>
     </section>
 
     <section id="freqs">
-	<h1>Chapter 1: Counting Frequencies</h1>
-	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
-<canvas id="myChart" width="400" height="400"></canvas>
+	<h1>Word Frequencies</h1>
+	<p> When tasked with the question: what did we actually learn?, my first thought was to see what ideas appeared most frequently in the texts. The assumption was that by finding most common words, we could uncover the most common ideas.</p>
+
+	<p>After compiling the database of texts in the syllabus, counting common words was simple enough. The result, however, was a list of words and their frequencies - not the most useful way to understand the results. I decided to filter out all stopwords (common words such as 'a', 'the', 'etc', etc.) and any parsing errors resulting in one- or two-letter words, then plot them as a percentage of the total word frequency (sum of all frequencies of all words). For clarity and sanity's sake, I only plotted the top 30 words.</p>
+<div class="pics">
+<img src="img/freq1.png"><br />
+</div>
+<p> Hmm.</p>
+<p> Well, it appears 'new' is the most frequently-used word with 56% of the popular vote! This makes a decent amount of sense. In a semester of readings about the history and trends of book publishing and writing and reading, it would be logical to see the word 'new' used frequently. </p>
+<p> More expected and understandable is the word 'book' coming in at second place. Considering most of the texts concern reading, writing, and everything in between, the book is certainly a logical second choice.</p>
+
+<p class="aside">Aside: It is eerie how much frequency-ranked lists of words resemble minimalist sentences. "New book like also even read text first world." It would be an entertaining exercise to try to make a summary-generator by just filtering out stopwords and sorting by word frequency. Maybe a Twitter bot.</p>
+<div class="pics"
+<img src="img/freq2.png" width="30%"> 
+<img src="img/freq3.png"width="30%"> 
+<img src="img/freq4.png"width="30%"></div> 
+
+As an interesting exploration, I also graphed the word frequencies of Marshall McLuhan's 'Understanding Media', Jerome McGann's 'Radiant Textuality', and Franco Moretti's 'Graphs, Maps, and Trees'. What stuck out to me was how infrequently a word needs to appear in a text to be considered frequent. Out of a 2,000 word essay on media, one only needs to mention the word media 40 times to beat McLuhan for presence.  
     </section>
 
 
     <section id="incommon">
-	<h1>Chapter 2: Common Links</h1>
+	<h1>Common?</h1>
 	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
     </section>
 
 
     <section id="keywords">
-	<h1>Interlude: Keywords</h1>
+	<h1>Keywords</h1>
 	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
     </section>
 
 
     <section id="topics">
-	<h1>Chapter 3: Meta-Narratives - Topic Perception</h1>
+	<h1>Print and Screen</h1>
 	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
     </section>
 
 
     <section id="printvscreen">
-	<h1>Chapter 4: Print and Screen texts</h1>
+	<h1>Tools and Thoughts</h1>
 	<p> Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris eu scelerisque mauris, at laoreet velit. Donec non suscipit tellus. Aliquam commodo luctus tortor, sed congue metus vehicula at. Mauris ultrices enim a lectus bibendum tempus. Ut faucibus fermentum facilisis. Etiam pretium tincidunt faucibus. Nulla quis sapien erat. Vivamus pellentesque volutpat lorem at fermentum. Sed tortor justo, dignissim luctus vehicula vitae, suscipit ac elit. Proin tellus purus, viverra vel accumsan quis, ornare ut eros. Proin eleifend erat adipiscing erat lobortis, vitae viverra nibh volutpat. Sed bibendum leo a quam pharetra, et laoreet nulla tempor. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nulla fermentum justo a pellentesque ultricies. Ut mollis sed nisl a fermentum. Integer eu nisi purus.</p>
     </section>
-
 
     <section id="reflections">
 	<h1>Epilogue: Reflections</h1>
